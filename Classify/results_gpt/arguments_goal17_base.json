@@ -1,0 +1,16 @@
+{
+  "in_favor": [
+    "Remittances can help alleviate poverty in developing countries by providing a source of income for families and individuals.",
+    "International cooperation and investment in statistical capacity can help bridge the data gap and support sustainable development.",
+    "Investments in infrastructure and affordable Internet access are crucial for increasing Internet adoption rates, especially in underserved regions.",
+    "The COVID-19 pandemic has highlighted the importance of reliable and timely data for informed decision-making.",
+    "Increased funding for data and statistics development can help address funding gaps and support the resilience of statistical systems."
+  ],
+  "against": [
+    "The digital divide persists, with one in three people still offline, underscoring the urgency of infrastructure investments and affordable Internet access.",
+    "Funding gaps remain a major issue, particularly in Africa and the LDCs, where only a fraction of plans is fully funded.",
+    "The resource insufficiency threatens the resilience of statistical systems and risks leaving vulnerable populations behind.",
+    "Recent growth rates of Internet adoption have reverted to pre-pandemic levels, indicating a slowdown in progress.",
+    "The COVID-19 pandemic has disrupted data collection and created new challenges for statistical systems."
+  ]
+}

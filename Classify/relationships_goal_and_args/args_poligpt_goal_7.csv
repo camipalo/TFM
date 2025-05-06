@@ -1,0 +1,7 @@
+id_argumento1,id_argumento2,relacion,label
+"Ensure access to affordable, reliable, sustainable and modern energy for all","To achieve universal access to clean energy by 2030, robust policies are needed to accelerate electrification, enhance energy efficiency and increase investments in renewable energy.",Conflict,Rephrase
+"Ensure access to affordable, reliable, sustainable and modern energy for all","Investing in decentralized renewable energy, including stand-alone off-grid solar and mini-grids, together with electricity-as-a-service models holds significant potential to bridge the access gap.",Conflict,Inference
+"Ensure access to affordable, reliable, sustainable and modern energy for all",Global investment needs to triple to rectify marginal gains in energy efficiency.,Conflict,Conflict
+"Ensure access to affordable, reliable, sustainable and modern energy for all",International public financial flows for clean energy rebounded in 2022 but remain insufficient.,Conflict,Conflict
+"Ensure access to affordable, reliable, sustainable and modern energy for all","Without faster progress, by 2030, around 1.8 billion people will still prepare meals using polluting stoves and fuels.",Rephrase,Conflict
+"Ensure access to affordable, reliable, sustainable and modern energy for all","To meet the Goal 7 energy efficiency target by 2030, annual improvements must now average around 4 per cent.",Conflict,Inference

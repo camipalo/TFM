@@ -1,0 +1,7 @@
+id_argumento1,id_argumento2,relacion,label
+Achieve gender equality and empower all women and girls,"One in five girls still marry before age 18, violating their rights and having lifelong consequences.",Rephrase,Conflict
+Achieve gender equality and empower all women and girls,"Violence against women persists, disproportionately affecting those with disabilities, highlighting the need for targeted protection.",Conflict,Conflict
+Achieve gender equality and empower all women and girls,"The dismantling of discriminatory laws is encouraging, but gaps persist, notably in land rights, with only 20% of countries having high levels of protection.",Inference,Inference
+Achieve gender equality and empower all women and girls,"Legal protections of women’s land rights remain grossly inadequate, with only 9 countries having legal provisions for financial resources to strengthen women’s land ownership.",Conflict,Conflict
+Achieve gender equality and empower all women and girls,"Intimate partner violence among women with disabilities is higher than those without disabilities, with limited data masking far greater risks.",Inference,Conflict
+Achieve gender equality and empower all women and girls,"Women with disabilities are underrepresented in population-based surveys on violence against women, making them 'invisible' in policies and response strategies.",Conflict,Conflict

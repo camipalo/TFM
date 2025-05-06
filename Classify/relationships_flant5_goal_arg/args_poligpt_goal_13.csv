@@ -1,0 +1,15 @@
+id_argumento1,id_argumento2,relacion,label
+Take urgent action to combat climate change and its impacts,Reaching the $100 billion climate finance goal is a milestone yet trillions are needed for national action plans,Inference,Inference
+Take urgent action to combat climate change and its impacts,Climate finance is crucial in backing global mitigation and adaptation efforts,Inference,Inference
+Take urgent action to combat climate change and its impacts,The 2021 Glasgow Climate Pact urged developed nations to double adaptation finance to developing countries from 2019 levels by 2025,Inference,Inference
+Take urgent action to combat climate change and its impacts,"Negotiations are under way to establish a new climate finance goal from 2025 onwards, starting from a floor of $100 billion annually, and taking into account developing countries’ needs and priorities",Inference,Rephrase
+Take urgent action to combat climate change and its impacts,"The United Nations Framework Convention on Climate Change (UNFCCC) estimates that nearly $6 trillion is needed for developing countries’ climate action plans by 2030, underscoring the need to massively scale up finance",Inference,Conflict
+Take urgent action to combat climate change and its impacts,Climate records were shattered in 2023 as the climate crisis accelerated in real time,Inference,Conflict
+Take urgent action to combat climate change and its impacts,Rising temperatures have not abated and global greenhouse gas emissions continue to climb,Inference,Conflict
+Take urgent action to combat climate change and its impacts,"Communities worldwide are suffering from extreme weather and increasingly frequent and more intense disasters, destroying lives and livelihoods daily",Inference,Conflict
+Take urgent action to combat climate change and its impacts,"The global community faces a critical juncture, all countries must urgently speed up economy-wide, low-carbon transformations to avoid escalating economic and social costs",Inference,Inference
+Take urgent action to combat climate change and its impacts,The upcoming 2025 cycle of nationally determined contributions (NDCs) presents a chance for ambitious climate action plans that drive economic and social progress,Inference,Inference
+Take urgent action to combat climate change and its impacts,Drastic reductions in global greenhouse gas emissions must take place by 2030 and reach net zero by 2050,Inference,Conflict
+Take urgent action to combat climate change and its impacts,"Keeping warming to 1.5°C calls for a 42 per cent reduction in greenhouse gas emissions by 2030, requiring an 8.7 per cent annual decline",Inference,Conflict
+Take urgent action to combat climate change and its impacts,"Fossil fuel subsidies hit a record high globally in 2022, exceeding $1.5 trillion, hindering the net-zero transition and harming the competitiveness of cleaner energy sources",Inference,Conflict
+Take urgent action to combat climate change and its impacts,"Improved preparedness, including early warning systems and evacuation measures, have significantly reduced disaster mortality in recent years",Inference,Inference

@@ -1,0 +1,7 @@
+id_argumento1,id_argumento2,relacion,label
+"Promote sustained, inclusive and sustainable economic growth, full and productive employment and decent work for all",Women and youth face higher unemployment rates.,Rephrase,Conflict
+"Promote sustained, inclusive and sustainable economic growth, full and productive employment and decent work for all","Informal employment poses a significant global challenge, with over 2 billion workers in informal jobs lacking social protection in 2023.",Rephrase,Conflict
+"Promote sustained, inclusive and sustainable economic growth, full and productive employment and decent work for all",Compliance with fundamental labour rights has deteriorated.,Inference,Conflict
+"Promote sustained, inclusive and sustainable economic growth, full and productive employment and decent work for all","Global GDP growth has waned and productivity is stagnant, posing risks to economic development.",Conflict,Conflict
+"Promote sustained, inclusive and sustainable economic growth, full and productive employment and decent work for all","Substantial declines in labour rights plague all regions, worsening prospects for social justice.",Conflict,Conflict
+"Promote sustained, inclusive and sustainable economic growth, full and productive employment and decent work for all",Global unemployment fell to a record low yet gaps remain for women and youth.,Conflict,Conflict
