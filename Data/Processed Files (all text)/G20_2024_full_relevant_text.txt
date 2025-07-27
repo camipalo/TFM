@@ -1,0 +1,284 @@
+
+
+===== G20_2024_1_Abstract =====
+
+page 2:
+2 
+ 
+ 
+Abstract 
+The G20 is an important international forum to promote the implementation of the 
+2030 Agenda for Sustainable Development. A major obstacle to sustainable development 
+worldwide that has so far received little attention are negative international spillover 
+effects. These are undesirable external economic, social, environmental, and security 
+effects from a country’s actions which undermine other countries’ efforts to achieve the 
+SDGs. Negative spillovers may reinforce existing international injustices and divergences 
+between countries of different income categories and regions. Assessments show an 
+inverse relationship between domestic SDG progress and the generation of negative 
+spillovers, with high income countries (many G20 countries) having a better performance 
+on the SDGs domestically (higher SDG Index scores), but also more negative impacts 
+abroad (lower International Spillover Index scores). All countries, and especially the G20 
+given their combined economic weight, must better understand, monitor and manage their 
+spillovers to allow all countries to meet the SDGs. Curbing negative international 
+spillovers requires multilateral solutions, especially across resource-rich and high income 
+consumer countries. Given the global nature of this challenge, the G20 is a suitable forum 
+for discussing solutions. This policy brief brings three recommendations to the G20:  
+1) Monitor spillover effects, set impact targets, and support statistical capacity; 2) 
+Establish inclusive processes that bring together stakeholders to co-develop multilateral 
+policies and partnerships;  
+3) Incorporate spillover effects in the G20’s 2030 Agenda Action Plan.  
+The G20’s immediate aim should be to build momentum for a successful Summit of 
+the Future by restoring trust through high-level policy discussions on international 
+spillovers, which have the potential to accelerate the SDG progress. Moreover, the G20 
+should initiate a structured agenda for upcoming G20 presidencies to tackle spillovers.
+
+
+
+===== G20_2024_2_Diagnosis_of_the_Issue_Addressing_Negative_Spillover_Effects_for_SDG_Achievement =====
+
+page 3:
+3 
+ 
+ 
+Diagnosis of the issue: Addressing negative spillover effects for SDG 
+achievement 
+ 
+The adoption of the 2030 Agenda provided a shared pathway towards sustainable 
+development via the achievement of 17 Sustainable Development Goals (SDGs) by 2030. 
+At the Agenda’s midpoint, however, the world is substantially off track. This is not just 
+due to the Covid-19 pandemic and armed conflicts, but due to major structural obstacles 
+that cannot be solved by individual countries. Therefore, at the SDG Summit in 2023, 
+heads of state called for accelerated global action towards sustainable development. This 
+year’s United Nations’ Summit of the Future should follow up on the SDG Summit, 
+delivering essential multilateral reforms.  
+A critical, yet underappreciated, factor in achieving the SDGs is addressing “spillover 
+effects”. Namely, how a country’s actions affect other countries’ efforts to achieve the 
+SDGs. These externalities, or spillovers, must be understood, monitored, and managed 
+effectively through actions by the countries causing them and through international 
+partnerships. The G20, as a high-level forum bringing together major economies, the 
+European Union and (as of last year) the African Union, is ideally placed to address this 
+issue. Since 2015, the G20 has committed itself to implement sustainable development, 
+among others by adopting regular 2030 Agenda Action Plans. The G20 is therefore the 
+right forum for overcoming structural obstacles towards the SDGs such as negative 
+spillover effects.  
+The Sustainable Development Solutions Network (SDSN) leads in measuring these 
+cross-border effects through the International Spillovers Index, included in its annual 
+Sustainable Development Report. The latest assessment suggests an inverse relationship 
+between SDG progress and the generation of spillovers, with high per capita income
+
+page 4:
+4 
+ 
+ 
+countries such as Germany having a better SDG performance domestically (higher SDG 
+Index score), but more negative impacts abroad (lower International Spillover Index 
+score). On the opposite end, India and African Union countries have the lowest SDG 
+performance, but the highest spillover performance, meaning that they cause the least 
+negative international effects (Figure 1). Addressing spillovers thus becomes crucial for 
+ensuring that domestic progress in achieving the SDGs is not realized via externalizing 
+negative effects abroad.  
+ 
+ 
+FIGURE 1. SDG Index scores vs. International Spillover Index scores of G20 members 
+(performance: 0 worst – 100 best)  
+Source: Authors’ work based on Sachs et al. (2023)  
+ 
+Spillover effects stem from cross-border pollution flows, economic and financial 
+flows, multilateralism and security effects, and environmental and social impacts
+
+page 5:
+5 
+ 
+ 
+embodied in international trade. The latter arises from the globalization of value chains, 
+where products consumed in one country cause social and environmental impacts along 
+their production processes, which are not considered in the consuming country’s national 
+statistics. High income countries, given their consumption levels, are particularly 
+responsible for trade-related spillovers. Accounting for these spillovers becomes crucial 
+for an accurate assessment of contributions towards sustainable development. For 
+instance, in some G20 economies (e.g., Germany, France, the UK), offshore GHG 
+emissions are more than 40 percent of their total GHG footprint (Figure 2).  
+ 
+ 
+FIGURE 2. Domestic vs. Spillover GHG emissions in G20 members (tonnes/capita) 
+Source: Authors’ work based on the Crippa et al. (2022), Forster et al. (2021), and Release 
+057 of the GLORIA database (Lenzen et al. 2021), constructed in the Global MRIO Lab 
+(Lenzen et al. 2017).
+
+page 6:
+6 
+ 
+ 
+While assessing a country’s consumption’s global impacts has been challenging, trade-
+related spillovers are now measured through Consumption Based Accounting (CBA; 
+Wood et al., 2020). Measuring spillovers via CBA requires detailed data on trade flows 
+between economic sectors within and among countries. It also requires data on the social 
+and environmental impacts happening along global supply chains. Multi-Regional Input-
+Output (MRIO) databases and models are currently the standard method for CBA 
+(Lenzen, 2008). Yet, there are significant data gaps, particularly in low and middle income 
+countries.  
+Ultimately, curbing negative spillovers requires multilateral solutions, especially 
+between resource-rich and labor-rich countries with high income consumer countries. 
+Given the global nature of this challenge, the G20 is a suitable platform for tackling 
+international spillovers. This policy brief outlines three recommendations for G20 
+leaders:  
+1) Monitor spillover effects, set impact targets, and support statistical capacity; 
+2) Establish inclusive processes that bring together stakeholders to co-develop 
+multilateral policies and partnerships;  
+3) Incorporate spillover effects in the G20’s 2030 Agenda Action Plan.  
+ 
+The G20’s immediate aim should be to build momentum for a successful Summit of 
+the Future by restoring trust through high-level policy discussions on international 
+spillover effects, which have the potential to accelerate progress on the SDGs. Moreover, 
+the G20 should initiate a structured agenda for upcoming G20 presidencies to tackle 
+spillovers.
+
+
+
+===== G20_2024_3_Recommendations =====
+
+page 7:
+7 
+ 
+ 
+Recommendations 
+ 
+1) Monitor spillover effects, set impact targets, and support statistical capacity 
+Integrating CBA into national statistics and SDG monitoring enhances the visibility of 
+spillover effects and the understanding of global SDG performance. Several countries 
+(Finland, Iceland, and the Netherlands) have incorporated CBA into their Voluntary 
+National Reviews (VNRs) (Finnish Government, 2020; Government of Iceland, 2023; 
+Kingdom of the Netherlands, 2022). Eurostat’s annual SDGs monitoring report also 
+features a dedicated section on spillover effects, including indicators on CO₂ emissions 
+and cropland footprints of EU members (Eurostat, 2023). The G20 should lead in 
+monitoring and reporting international spillovers, setting a global example.  
+G20 countries should also track these effects against time-bound quantitative targets 
+to hold themselves accountable for mitigating negative spillovers. Targets for trade-
+related spillovers should cover environmental and social impacts linked to global value 
+chains, such as GHG emissions, air pollution, resource depletion (e.g., material 
+footprints), and labor exploitation (e.g., modern slavery and fatal accidents at work). For 
+instance, according to Malik et al. (2023), the EU’s consumption was linked to 500,000 
+cases of modern slavery and 1,200 fatal accidents at work abroad in 2018. The G20, given 
+their economic importance, should take the lead in elaborating consumption-based targets 
+to tackle environmental and social spillover effects.  
+The above hinges on having accurate data for MRIO databases and consumption-based 
+accounting. Hence, a key obstacle in producing high-quality spillovers assessments is the 
+lack of statistical capacity to produce up-to-date data on economic transactions and social 
+and environmental impacts associated with productive activities. This is the case with 
+many producing countries, which is where most of the social and environmental impacts
+
+page 8:
+8 
+ 
+ 
+associated with trade-related spillovers take place. Therefore, to tackle spillovers 
+effectively, G20 countries must assist low and middle income countries in strengthening 
+their statistical capacity. This is consistent with SDG target 17.19, which calls for 
+supporting statistical capacity building in developing countries and tracks, via indicator 
+17.19.1, financial assistance to developing countries for this purpose. Additionally, the 
+G20 should support the production of Geospatial Information Service (GIS) data and 
+remote sensing technologies, which offer tremendous opportunities to refine the 
+granularity, timeliness, and quality of SDG data. For example, GIS data is used by the 
+World Resources Institute’s Global Forest Watch initiative to track global deforestation 
+and its causes (Curtis et al., 2018).  
+ 
+2) Establish inclusive processes that bring together stakeholders to co-develop 
+multilateral policies and partnerships  
+Many high income countries have implemented policies to tackle negative spillovers, 
+such as national regulations and due diligence laws to address social issues in global value 
+chains (e.g., child labour), tackle deforestation, and adopt carbon border adjustment 
+mechanisms. However, these important initiatives have been unilateral policy instruments 
+that, largely, have not considered perspectives from the affected economies, potentially 
+resulting in trade-offs (e.g., higher unemployment and poverty). The G20 should, 
+therefore, create and support new inclusive platforms and partnerships to ensure that 
+production processes include robust safeguards to protect the environment and human 
+rights. Voluntary Partnership Agreements (VPAs) are one such example. Recognizing that 
+wood consumed by the EU often comes from regions with poor forest management, 
+illegal logging, and degradation of primary forests, VPAs are negotiated by the EU and 
+timber-exporting countries to only allow legally produced imports. Then, timber legality
+
+page 9:
+9 
+ 
+ 
+assurance systems push exporting countries to improve their forest management 
+practices, promoting sustainable forestry (EU FLEGT Facility, 2009). The Just Energy 
+Transition Partnerships (JETPs) are another example of new forms of international 
+collaboration. JETPs provide a blend of financing instruments, including concessional 
+loans, grants, and guaranteed private funds, to support countries’ decarbonization efforts, 
+especially those that are dependent on coal (European Commission, 2021). The first JETP, 
+launched at the COP-26, mobilizes $8.5 billion to 1) replace coal with renewable energy; 
+2) expand electric vehicles use; and 3) establish a green hydrogen industry in South 
+Africa. The partnership mobilizes stakeholders to facilitate an energy transition, but it will 
+be important that implementation of the JETP addresses the social consequences of 
+decarbonization (e.g., coal miners’ unemployment; Pilling, 2022). The G20 should 
+endorse and expand such initiatives, ensuring their effectiveness. The JETP model could 
+also be applied to land and ocean management. Beyond these two examples for voluntary 
+partnerships, it is important to establish platforms for exchange and peer learning on the 
+design of policy tools between countries causing and affected by spillover effects. The 
+G20, serving as a high-level forum, is well positioned to facilitate dialogue on spillover 
+effects. Leveraging its various working groups (such as the working groups on 
+Development, Trade and Investment, Employment, and Climate and Environmental 
+Sustainability), the G20 should lead a dedicated agenda to curb negative spillover effects. 
+Joint workshops among the relevant G20 working groups should be a first step towards 
+developing a structured agenda for upcoming G20 presidencies.  
+ 
+3) Incorporate spillover effects in the G20's 2030 Agenda Action Plan In 2016, 
+during the Chinese presidency, the G20 adopted its first “Action Plan on the 2030 Agenda 
+for Sustainable Development”. In the Hamburg Update (2017), a list of collective actions
+
+page 10:
+10 
+ 
+ 
+and a Voluntary Peer Learning Mechanism (VPLM) were set up to share experiences and 
+lessons learned. The Osaka Update (2019) highlighted the need for multi-stakeholder 
+dialogue and continued the peer learning mechanism in the Action Plan. The 2023 Action 
+Plan, under the Indian presidency, called for action in three key areas: digital 
+transformation, gender equality, and just transitions.  
+Developed within the Development Working Group, the Action Plans aim to enhance 
+policy coherence and coordination across all G20 work streams for the SDGs 
+achievement. Thus, it seems logical to integrate the issue of spillover effects into the next 
+Action Plan update. Recognizing spillovers' significance in either hindering or advancing 
+the achievement of the SDGs, the issue should be featured prominently in the high-level 
+principles section. Moreover, the updated Action Plan should specify concrete measures 
+to address negative spillovers such as strengthening statistical capacities and promoting 
+dialogue and peer learning mechanisms on the design of policy tools. Addressing 
+spillover effects in the Action Plan of the Brazilian G20 presidency’s meeting of 
+development ministers would be an important input into the discussions leading up to the 
+UN Summit of the Future in September 2024.
+
+
+
+===== G20_2024_4_Scenario_of_Outcome_In_Support_of_a_Successful_Summit_of_the_Future =====
+
+page 11:
+11 
+ 
+ 
+Scenario of outcome: In support of a successful Summit of the Future 
+The Summit of the Future is this year’s most important multilateral summit and is 
+meant to follow up on the “what” identified in the 2023 SDG Summit (i.e., accelerated 
+action on the SDGs) by delivering the “how” of multilateral reforms (i.e., actionable 
+strategies). The Summit of the Future needs to demonstrate that international cooperation 
+is possible and effective in tackling current global challenges, especially amid lacklustre 
+SDG progress, widespread conflict, and growing polarization and authoritarian trends 
+worldwide. The Summit’s aim is to adopt an ambitious, concise, and action-oriented Pact 
+for the Future. There is consensus that the pact should contribute to strengthening 
+confidence in multilateralism, especially on the part of low and middle income countries.  
+The G20 needs to use the action-oriented momentum of this Summit to accelerate the 
+implementation of the 2030 Agenda by reducing spillover effects and increasing global 
+policy coherence, a lever to tackle slowing and counterproductive effects on the SDGs. 
+The G20 should use the G20 process during Brazil’s presidency to co-create international 
+answers to spillover effects, including the adoption of the three recommendations 
+described in this policy brief.  
+Under a positive scenario, the G20 (especially through its Development Working 
+Group) will be able to foster a high-level policy dialogue on the importance of 
+international spillover effects as an important factor to accelerate the achievement of the 
+SDGs. Under this scenario, the G20 will have included international spillovers in its 
+updated 2030 Agenda Action Plan and agreed on concrete actions to improve the 
+monitoring of spillover effects and on peer learning mechanisms to co-design appropriate 
+policies to address spillover effects. A successful meeting of development ministers in 
+July will provide important momentum for the Summit of the Future, being an 
+opportunity that should not be missed.
+

@@ -1,0 +1,1649 @@
+
+
+===== OCDE_2024_1_Preface =====
+
+page 4:
+ 3 
+LOCALISING THE SDGS IN A CHANGING LANDSCAPE © OECD/SDSN 2024 
+Preface 
+The OECD and the United Nations (UN) Sustainable Development Solutions Network (SDSN) are 
+delighted to introduce the results of a survey jointly conducted between 22 February and 9 June 2023 by 
+the OECD, SDSN and the European Committee of the Regions on localising the UN Sustainable 
+Development Goals (SDGs) in a changing landscape.  
+A series of significant shocks in recent years, including the COVID-19 pandemic, higher inflation and 
+energy prices, disruptions to global supply chains, and heightened geopolitical tensions, have raised 
+hurdles on the path toward achieving the SDGs. Only 15% of them are considered to be on track for 
+achievement by the 2030 deadline. Progress towards 48% of the SDG targets is currently insufficient, and 
+37% are either stagnating or regressing, including on key targets such as those related to poverty, hunger 
+and climate action. 
+More specifically, rises in price levels and energy costs, alongside disruptions in global food markets, have 
+adversely affected SDG targets related to poverty and inequality (SDGs 1 and 10), affordable energy (SDG 
+7) and food security (SDG 2). Our survey of over 175 local and regional governments (LRGs) revealed a
+decline in living standards due to inflationary pressures and the repercussions of recent shocks among
+80% of respondents. Over 70% indicated an increase in electricity costs, putting the achievement of SDG
+7 at risk, while around half noted the growing importance of combating hunger (SDG 2).
+Cities and regions play a pivotal role in steering the SDGs back on track. The principle of subsidiarity 
+emphasises the importance of taking decisions at the territorial level where they will have their maximum 
+effect. Moreover, in 2021, LRGs accounted for 55% of public investment in OECD countries, and, because 
+they are typically responsible for critical areas such as water, housing, transport, infrastructure, land use 
+and climate change, at least 105 of the 169 targets that underlie the 17 SDGs are contingent upon the 
+active engagement of LRGs.  
+This paper paints a comprehensive picture of how recent shocks the COVID-19 pandemic, a changing 
+landscape and rising living costs have affected progress on the localisation of the SDGs at the local level. 
+It also suggests potential ways forward for local and regional governments to harness the SDGs for crafting 
+sustainable urban and regional development policies, combating rising price levels, incentivising 
+decarbonisation in both production and in consumption, promoting sustainable food systems and reducing 
+food waste. Both our organisations are also leading work on financing the SDGs in cities and regions, 
+including via the SDSN Global Commission for Urban SDG Finance that which will publish its final 
+recommendations in the summer of 2024.
+
+page 5:
+4  
+LOCALISING THE SDGS IN A CHANGING LANDSCAPE © OECD/SDSN 2024 
+Our two institutions take great pride in this collaborative endeavour and look forward to supporting local,  
+regional and national governments further on their journey towards achieving the SDGs for a more 
+sustainable and resilient future. 
+Lamia Kamal-Chaoui, 
+Director,  
+OECD Centre for Entrepreneurship, SMEs, 
+Regions and Cities 
+Jeffrey Sachs, 
+President,  
+UN Sustainable Development Solutions Network
+
+
+
+===== OCDE_2024_2_Executive_Summary =====
+
+page 10:
+ 9 
+LOCALISING THE SDGS IN A CHANGING LANDSCAPE © OECD/SDSN 2024 
+  
+Executive summary 
+This policy paper presents the results of a survey jointly conducted by the OECD, the United Nations (UN) 
+Sustainable Development Solutions Network (SDSN) and the European Committee of the Regions (CoR) 
+between February and June 2023 on the localisation of the SDGs in a changing landscape. Findings show 
+that local and regional governments (LRGs) are actively engaged in the implementation of the SDGs, 
+notably through awareness-raising campaigns, dedicated strategies for the SDGs and indicator systems 
+to track progress. Many LRGs have also applied the SDGs as a guiding framework to rebound from the 
+COVID-19 pandemic. At the same time, the survey has revealed governance challenges such as a lack of 
+resources for the implementation of the SDGs, shifting political priorities and insufficient vertical 
+co-ordination. In the aftermath of the COVID-19 pandemic and Russia’s war of aggression against Ukraine, 
+the survey puts the spotlight on the declining standards of living in many cities and regions (SDGs 1 and 
+10), increases in energy price levels and associated measures such as increasing demand for renewable 
+and domestic energy sources (SDG 7) as well as the growing importance of food security (SDG 2).  
+Political leadership is the main success factor in targeting the SDGs at the local 
+level, while the lack of financial resources represents a challenge 
+• 
+Most cities and regions (62%) use awareness-raising campaigns as the most common action in 
+their work to localise the SDGs, followed by a dedicated strategy or action plan for the SDGs (56%). 
+• 
+LRGs consider political leadership to be the most important factor in achieving the localisation of 
+the SDGs in cities and regions (76%). 
+• 
+LRGs are facing several challenges when it comes to the implementation of the SDGs, notably a 
+lack of financial resources (64%) and shifting political priorities, e.g. after local or regional elections 
+(52%). 
+The SDGs served as a key framework to guide cities and regions in recovering 
+from the COVID-19 crisis 
+• 
+Around two thirds of LRGs are using the SDGs to guide policy making, which represents an 
+increase of nearly 25 percentage points compared to before the pandemic (39%). 
+• 
+Almost half (45%) of LRGs consider the People dimension (SDGs 1 to 5) to be the most important 
+post-COVID-19 challenge, which encompasses the SDGs on poverty, food, health, education and 
+gender.
+
+page 11:
+10    
+LOCALISING THE SDGS IN A CHANGING LANDSCAPE © OECD/SDSN 2024 
+  
+The cost of living, energy and food security have taken a deep toll on the current 
+landscape 
+• 
+Most LRGs (83%) reported that living standards have worsened because of the increase in the 
+cost of living. In response to rising prices, two-thirds of responding LRGs have implemented 
+measures to support vulnerable groups such as the provision of warm meals and financial support 
+programmes for families in need. To save on heating and electricity costs, 62% of LRGs have 
+reduced the average temperature in public buildings, while 46% have cut back on street lighting. 
+• 
+For 45% of LRGs, higher cost of living has reduced available funding for SDG implementation as 
+subnational governments have prioritised expenditures on critical and essential services to address 
+the short-term impacts of the crises. 
+• 
+SDG 7 Affordable and clean energy has gained importance for LRGs since the start of Russia’s 
+war of aggression against Ukraine. Twenty-three percent of responding LRGs reported it had 
+become their top priority, while an additional 57% stated that it had increased in relevance. 
+• 
+The growing pressures on the international energy market have led 36% of LRGs or their public 
+energy provider to ramp up the share of renewable energy in their energy mix. Thirty-six percent 
+also reported that they reduced their dependence on imported energy. 
+• 
+Shifting from fossil fuels to zero-carbon sources of energy (44%) and improving energy efficiency 
+in the built environment (37%) are the 2 main priorities of LRGs to achieve SDG 7. 
+• 
+LRGs have implemented a variety of measures to address SDG 2 Zero hunger in light of 
+increasingly frequent disruptions in the global food supply chain, notably setting up food banks and 
+food distribution mechanisms for vulnerable populations (46%). 
+• 
+The most common action of LRGs to achieve sustainable food systems is the promotion of local 
+food production (60%) while promoting a circular economy approach (60%) is the most common 
+programme to reduce food waste. 
+Ways forward to make the most of the SDGs in a changing landscape 
+The survey has shed light on how LRGs are localising the SDGs and using the 2030 Agenda to navigate 
+today’s multi-crisis world, including post-COVID-19 recovery. Yet, their journey to achieve the SDGs has 
+been put at risk by the cost-of-living crisis, high energy prices and the ensuing funding gap for LRGs’ SDG 
+efforts. Possible strategies for local, regional and national governments to advance the SDGs in the current 
+landscape could be to: 
+• 
+Leverage the SDGs to design sustainable urban and regional development policies. LRGs 
+could: 
+o 
+Align local or regional development strategies with the SDGs. The recovery phase should be 
+leveraged as an opportunity to enhance resilience and preparedness for future shocks and 
+crises, including by using the SDGs to periodically assess progress and make necessary 
+adjustments as conditions evolve. 
+o 
+Boost political leadership for the SDGs by actively engaging in national and international city 
+networks that enable peer-to-peer learning on the 2030 Agenda and help adopt the SDGs as 
+a policy-making and monitoring framework. 
+o 
+Ensure adequate financial resources and capacity for the implementation of the 2030 Agenda, 
+for example by incorporating the SDGs into budgeting processes, using the SDGs to attract 
+investment through innovative financial mechanisms such as municipal or regional 
+sustainability bonds or local crowdfunding platforms for investment and considering the 
+recommendations of the SDSN Global Commission for Urban SDG Finance.
+
+page 12:
+ 11 
+LOCALISING THE SDGS IN A CHANGING LANDSCAPE © OECD/SDSN 2024 
+  
+• 
+Combat rising price levels to support SDG 1 No poverty and SDG 10 Reduced inequalities. 
+For example, LRGs could: 
+o 
+Improve housing affordability by developing targeted solutions for the most vulnerable, such 
+as temporary rent subsidies or eviction preventions. 
+o 
+Expand social safety net programmes, including unemployment benefits and food assistance, 
+to cushion those in need. 
+o 
+Enhance public transportation options and affordability (e.g. temporary reduction in ticket prices 
+for those most in need) to counter the financial burden of increasing fuel prices and incentivise 
+the usage of low-carbon mobility options to help meet climate objectives. 
+• 
+Incentivise decarbonisation both in production and consumption. To achieve SDG 7 and 
+encourage the decarbonisation of energy production, energy efficiency improvements in buildings 
+and the electrification of current fossil fuel use, LRGs could:  
+o 
+Negotiate long-term power purchase agreements with energy providers to finance the 
+installation of greener sources of energy and harness group purchasing, such as Community 
+Choice Aggregation, to procure a less carbon-intensive mix of energy.  
+o 
+Promote the generation of local energy for local consumption, e.g. by incentivising district 
+heating or cooling systems to foster more sustainable and energy-efficient alternatives 
+compared to individual building-based solutions. 
+o 
+Set decarbonisation goals, standards and regulations and lead by example to decarbonise 
+government-owned and -operated infrastructure to achieve SDG 7 at the local level. For 
+example, develop and implement building standards and green procurement policies for 
+construction and refurbishment, which include a focus on whole life carbon and circularity, while 
+financing energy efficiency retrofits for buildings and infrastructure through green bonds.  
+• 
+Promote sustainable food systems and reduce food waste. To advance sustainable food 
+systems (SDG 2) and incentivise the reduction of food waste (SDG 12), LRGs could: 
+o 
+Adopt a holistic approach to food systems by developing urban food strategies that intertwine 
+food policy with urban development strategies. 
+o 
+Develop a comprehensive circular economy strategy that incentivises circular food supply 
+chains and encourages the purchase of goods and services from circular businesses. 
+o 
+Collaborate with organisations that rescue surplus food and distribute it to those in need, e.g. 
+food banks and promote the use of technology-based solutions like food recovery applications 
+that connect surplus food providers with recipients, minimising waste.
+
+
+
+===== OCDE_2024_3_Introduction =====
+
+page 13:
+12  
+LOCALISING THE SDGS IN A CHANGING LANDSCAPE © OECD/SDSN 2024 
+The role of cities and regions in achieving the SDGs amid geopolitical 
+uncertainty 
+Cities and regions hold a pivotal role in achieving Sustainable Development Goals (SDGs). Established by 
+the United Nations in 2015, the 17 SDGs aim to eradicate poverty, safeguard the environment and foster 
+prosperity for all by 2030. Local and regional governments (LRGs) are crucial partners of national 
+governments in ensuring the effective, location-specific implementation of the SDGs. According to OECD 
+estimates, at least 105 out of the 169 targets that underlie the 17 SDGs depend on the active engagement 
+of local and regional governments (OECD, 2020[1]). In 2021, subnational levels of government in OECD 
+countries accounted for 55% of public investment and 37% of total public spending (OECD, 2023[2]). Their 
+activities span numerous policy areas, including but not limited to housing, transportation, infrastructure, 
+land use, waste management, access to clean drinking water and sanitation, energy efficiency and 
+addressing climate change. However, currently, 48% of SDG targets are moderately or severely off track 
+and a further 37% are stagnating or have even regressed (UN, 2023[3]). These include crucial targets 
+related to poverty reduction, hunger eradication and addressing the pressing issue of climate change. The 
+European Union and its member states are also facing notable gaps towards the achievement of the SDGs, 
+including SDG 11 Sustainable cities and communities (Eurostat, 2023[4]; Lafortune et al., 2024[5]). Further 
+complicating efforts to reach these targets, cities and regions are confronted with specific challenges when 
+it comes to financing sustainable development (Birch, Rodas and Drumm, 2023[6]). They are caught 
+between front-line responsibility for the delivery of many services and infrastructure investment and back-
+of-the-line access to public financing: national governments, by and large, continue to collect most revenue 
+to fund public investments and social services (Sachs et al., 2023[7]).  
+The current uncertain geopolitical context adds obstacles to achieving the SDGs. The ongoing recovery 
+from the COVID-19 pandemic and the repercussions of Russia’s war of aggression against Ukraine, along 
+with the associated rise in price levels and energy costs and impacts on global food markets, have 
+far-reaching implications for numerous policy domains and the overarching pursuit of the SDGs. This is, in 
+particular, the case for those SDG targets related to poverty and inequality (SDGs 1 and 10), clean and 
+affordable energy (SDG 7) and food security (SDG 2). Cities and regions face the highest levels of inflation 
+across OECD countries in over 3 decades, with an average of 9.5% in 2022 and an estimated 6.9% in 
+2023 (OECD, 2023[8]; 2024[9]). Recent economic indicators indicate a slight slowdown in gross domestic 
+product (GDP) growth, with attacks on ships in the Red Sea raising shipping costs and lengthening delivery 
+times, disrupting production schedules and raising price pressures (OECD, 2024[10]). Industrial production 
+reflects such uncertainty, with its global growth having slowed down from 6.2% in 2021 to 2.3% in 2022 as 
+a result of inflation, energy price shocks, disruptions in supply chains for raw materials and intermediate 
+goods, and a broader global economic deceleration (OECD, 2024[11]; UN, 2023[3]). The agricultural sector 
+is under strain from rising energy and fertiliser prices, compounded by more frequent and severe climate-
+related disasters, posing threats to food security. Inflation in food prices is eroding income gains, raising 
+additional barriers to accessing food around the globe. In 2022, 9.2% of the global population experienced 
+chronic hunger, up from 7.9% in 2019, with projections indicating that more than 600 million people could 
+be facing hunger by 2030, the endpoint of the SDGs (UN, 2023[3]). Being closest to their citizens, cities 
+1 Introduction
+
+page 14:
+ 13 
+LOCALISING THE SDGS IN A CHANGING LANDSCAPE © OECD/SDSN 2024  
+  
+and regions will be key to navigating these challenges and steering the 2030 Agenda back on course 
+through targeted measures to tackle the cost-of-living crisis, facilitate access to clean and affordable 
+energy, and improve food security.  
+The OECD-SDSN-CoR survey on the role of cities and regions for the SDGs in a 
+changing landscape 
+The OECD, the Sustainable Development Solutions Network (SDSN) and the European Committee of the 
+Regions (CoR) launched a joint survey in 2023 to take stock of the progress made by cities and regions in 
+implementing the SDGs in a changing international landscape marked by shocks and crises. The survey 
+analyses local and regional governments’ efforts to achieve the SDGs and assesses how cities and regions 
+are using the SDGs in their post-COVID recovery. It also examines how the SDGs and three key policy 
+areas (cost of living, energy, food) have been affected by crises such as COVID-19 and the fallout of 
+Russia’s war of aggression against Ukraine, including high inflation, disruptions in global food value chains 
+and rising energy prices. The survey questionnaire was divided into three sections: i) implementation of 
+the SDGs by cities and regions, ii) SDGs for COVID-19 recovery in cities and regions; and iii) the SDGs 
+and key policy areas affected by current crises (Box 1.1). 
+Box 1.1. The OECD-SDSN-CoR survey on the role of cities and regions for the SDGs in a 
+changing landscape, 2023 
+Conducted from 22 February 2023 to 9 June 2023, the survey gathered answers from 243 respondents, 
+72% of which came from European Union (EU) countries, 6% from non-EU OECD member countries 
+and 22% from non-OECD member countries. The most represented countries were Poland (13%), Italy 
+(12%) and Germany (9%), followed by Spain (6%) and Portugal (5%). 
+The aim of this survey was to provide a snapshot of the views of different local and regional stakeholders. 
+Almost half of responses were received from municipalities (48%): 23% had fewer than 
+50 000 inhabitants, 12% between 50 000 and 200 000 inhabitants, 8% between 200 000 and 500 000, 
+and 5% from large cities (more than 500 000 inhabitants). Respondents also came from regions (18%) 
+and intermediary entities such as counties or provinces (7%) in countries with 3 levels of subnational 
+government or other local and regional bodies. The remaining 27% of respondents represent other 
+categories of territorial stakeholders, such as academia and research institutions, non-governmental 
+organisations or public bodies. The analysis treated governments and territorial stakeholders as 
+two separate categories to distinguish between formal governing bodies and other entities. 
+Survey structure (see detailed survey in Annex A)  
+1. Cities’ and regions’ implementation of the SDGs. 
+a. Policies and actions adopted for the implementation of the SDGs. 
+b. Types of data used to track progress on the SDGs. 
+c. Success factors for SDG implementation. 
+d. Governance challenges in implementing the 2030 Agenda. 
+2. The relevance of the SDGs in the COVID-19 recovery phase for cities and regions. 
+a. The role of the SDGs as a framework for the COVID-19 recovery phase. 
+b. Post-COVID-19 challenges in cities and regions. 
+3. SDGs and key policy areas affected by the current crisis.
+
+page 15:
+14  
+LOCALISING THE SDGS IN A CHANGING LANDSCAPE © OECD/SDSN 2024 
+Cost of living 
+a.
+Impact of the cost-of-living crisis on the standard of living in cities and regions.
+b.
+Policy areas most affected by the increased cost of living.
+c.
+Measures to respond to increasing price levels.
+d.
+Impact of the cost-of-living crisis on the work on the SDGs.
+Energy 
+a.
+Impact of Russia’s war of aggression against Ukraine on SDG 7 Clean and affordable
+energy.
+b.
+Impact of Russia’s war of aggression against Ukraine on the cost of electricity.
+c.
+Responses to growing pressures on the international energy market.
+d.
+Consumption-based emission targets.
+e.
+Policies and strategies to best transition to cleaner energy production.
+Food 
+a.
+Prioritisation of SDG 2 Zero hunger.
+b.
+Actions to address SDG 2 in cities and regions.
+c.
+Measures put in place to achieve sustainable food systems.
+d.
+Programmes implemented to reduce food waste.
+References 
+Birch, E., M. Rodas and E. Drumm (2023), “Bridging the SDG funding gap in cities”, SDG Action, 
+https://sdg-action.org/bridging-the-sdg-funding-gap-in-cities/ (accessed on 19 January 2024). 
+[6]
+Eurostat (2023), Sustainable Development in the European Union - Monitoring Report on 
+Progress Towards the SDGs in an EU Context - 2023 Edition, 
+https://ec.europa.eu/eurostat/documents/15234730/16817772/KS-04-23-184-EN-
+N.pdf/845a1782-998d-a767-b097-f22ebe93d422?version=2.0&t=1688373085450. 
+[4]
+Lafortune, G. et al. (2024), European Elections, Europe’s Future and the Sustainable 
+Development Goals. Europe Sustainable Development Report 2023/24, SDSN, Paris and 
+Dublin University. 
+[5]
+OECD (2024), Consumer Prices, OECD - Updated: 7 February 2024, OECD, Paris, 
+https://www.oecd.org/sdd/prices-ppp/consumer-prices-oecd-updated-7-february-2024.htm 
+(accessed on 19 February 2024). 
+[9]
+OECD (2024), Key Short-Term Economic Indicators: Industrial Production, OECD, Paris, 
+https://stats.oecd.org/index.aspx?queryid=21758# (accessed on 19 February 2024). 
+[11]
+OECD (2024), OECD Economic Outlook, Interim Report February 2024: Strengthening the 
+Foundations for Growth, OECD Publishing, Paris, https://doi.org/10.1787/0fd73462-en 
+(accessed on 19 February 2024). 
+[10]
+OECD (2023), OECD Economic Outlook, Volume 2023 Issue 2, OECD Publishing, Paris, 
+https://doi.org/10.1787/7a5f73ce-en. 
+[8]
+
+
+
+===== OCDE_2024_4_Snapshot_of_SDG_Implementation_in_Cities_and_Regions =====
+
+page 17:
+16    
+LOCALISING THE SDGS IN A CHANGING LANDSCAPE © OECD/SDSN 2024 
+  
+Awareness-raising campaigns are the primary vehicle that local and regional 
+governments deploy to achieve the SDGs 
+Awareness-raising campaigns are the most common action adopted by cities and regions for the 
+implementation of the United Nations Sustainable Development Goals (SDGs). Almost two-thirds (62%) of 
+responding local and regional governments stated they used awareness-raising campaigns, followed by a 
+dedicated strategy or action plan for the SDGs (56%). The awareness-raising campaign already ranked 
+top in the 2021 OECD-European Committee of the Regions (CoR) survey of local and regional 
+governments (Box 2.1). In the new survey, more than half (51%) of respondents also reported using 
+existing indicators or setting up new measurement systems to track progress on the SDGs. Less common 
+are governance arrangements, such as setting up an internal committee or taskforce working horizontally 
+across departments (34%) or a sustainable development council attached to a high-level decision maker 
+(16%). Responses from territorial stakeholders reflect this pattern, with 59% engaging in awareness-raising 
+activities and 44% having a dedicated SDG strategy or action plan in place (Figure 2.1).  
+Figure 2.1. Which of these policies and actions has your city/region adopted for the implementation 
+of the SDGs in your territory? 
+Share of respondents selecting the respective options, multiple responses possible 
+ 
+Note: Number of responses from local and regional governments: 177; number of responses from other territorial stakeholders: 61. 
+Source: OECD-SDSN-CoR survey on the role of cities and regions for the SDGs in a changing landscape. 
+0
+10
+20
+30
+40
+50
+60
+70
+Other
+A sustainable development council or similar attached to a high-level decision maker
+An internal committee or other structure, working across services and horizontally
+Use of existing indicators or new measurement systems to track progress on SDGs
+A dedicated strategy or action plan for SDG implementation
+Awareness-raising campaigns, either internal or external
+%
+Local and regional governments
+Other territorial stakeholders
+2 Snapshot of SDG implementation in 
+cities and regions
+
+page 18:
+ 17 
+LOCALISING THE SDGS IN A CHANGING LANDSCAPE © OECD/SDSN 2024  
+  
+Box 2.1. Key findings from the previous OECD-CoR survey (2021) on the SDGs as a framework 
+for COVID-19 recovery in cities and regions 
+From 10 May 2021 to 18 June 2021, the OECD and the European Committee of the Regions (CoR) 
+conducted a survey on “The SDGs as a framework for COVID-19 recovery in cities and regions” across 
+cities and regions. The survey targeted representatives of local and regional governments as well as 
+other stakeholders at the local and regional levels (more than 140 respondents) to collect examples 
+and evidence of their work on the 2030 Agenda in the COVID-19 recovery phase. The OECD and CoR 
+conducted this second survey after a first on “The key contribution of cities and regions to sustainable 
+development” between December 2018 and March 2019.1  
+Overall, most local and regional governments (60%) responding to the survey considered the SDGs to 
+be an appropriate framework for designing a holistic approach to the COVID-19 recovery. Forty percent 
+of local and regional governments (LRGs) had already used the SDGs as a policy-making tool before 
+the pandemic and started using them to shape their recovery strategies. Forty-four percent had not 
+used the SDGs prior to the pandemic but were planning to do so. Sixty-eight percent of LRGs using the 
+SDGs for recovery decided to do so to shape new plans, policies and strategies based on the 2030 
+Agenda or to adapt existing ones. In terms of challenges, capacity (staff and skills) and funding gaps 
+were the main bottlenecks preventing LRGs from using the SDGs to guide their recovery strategies for 
+47% and 44% of respondents respectively. 
+Among the measures put in place to advance the 2030 Agenda, indicators and measurement systems 
+to track progress on the SDGs and awareness-raising campaigns were LRGs’ most widely adopted 
+actions to advance the SDGs (41%). At the same time, political leadership played a key role. 
+Thirty-eight percent of respondents considered it the most important success factor for implementing 
+the SDGs. However, only half of surveyed LRGs and territorial stakeholders contributed to their national 
+government’s Voluntary National Reviews (VNRs), suggesting potential for improving co-operation 
+between different levels of government. 
+In terms of key policy priorities for cities and regions in the COVID-19 recovery phase, almost 60% of 
+them prioritised the efficient delivery of social and community services for disadvantaged groups and 
+equitable access to education to reduce inequalities. A third of them considered switching from fossil 
+fuels to zero-carbon sources and decarbonising the built environment as the two most promising 
+strategies for transitioning to cleaner energy production. Almost half of cities and regions (49%) 
+identified improving multi-modal transport, such as active and clean urban mobility, as a key priority for 
+sustainable mobility and accessibility. Thirty-six percent of LRGs considered digitalisation as a top 
+priority for the transition towards smarter cities and regions. Finally, 41% of cities and regions 
+highlighted stakeholder engagement in local and regional policy making as the most effective 
+contribution to the SDG to strengthen citizens’ trust in their governments. 
+1. Detailed findings of the first OECD-CoR survey can be found in OECD (2020[1]). 
+Source: OECD (2022[2]), “The Sustainable Development Goals as a framework for COVID-19 recovery in cities and regions”, 
+https://doi.org/10.1787/6d25b59b-en.  
+Political leadership at the local and regional levels is the most important success 
+factor in SDG implementation for subnational governments 
+Political leadership is considered the most relevant success factor for the localisation of the SDGs. Political 
+leadership at the local and regional levels is the top success factor for both LRGs (76%) and territorial
+
+page 19:
+18    
+LOCALISING THE SDGS IN A CHANGING LANDSCAPE © OECD/SDSN 2024 
+  
+stakeholders (49%) who responded to this survey question. Over 50% of LRGs and more than 40% of 
+territorial stakeholders also responded that peer-to-peer learning with other cities and regions and 
+dedicated funding are instrumental for the implementation of the 2030 Agenda. Territorial stakeholders 
+responded that citizen engagement (45%) and political leadership at the national level (34%) were 
+important success factors for the localisation of the SDGs, i.e. higher shares than those reported by LRGs 
+(38% and 28% respectively) (Figure 2.2). 
+Figure 2.2. What contributes to the success of SDG implementation in your city/region? 
+Share of respondents selecting the respective options, multiple responses possible 
+ 
+ 
+Note: Number of responses from local and regional governments: 178; number of responses from other territorial stakeholders: 65. 
+Source: OECD-SDSN-CoR survey on the role of cities and regions for the SDGs in a changing landscape. 
+For most local and regional governments, a lack of financial resources is a key 
+governance challenge for implementing the SDGs 
+A majority of local and regional governments cited a lack of financial resources as a governance challenge 
+for implementing the SDGs. The main challenge identified by local and regional governments (64% of 
+respondents) was a lack of financial resources. In comparison, 52% of territorial stakeholders responded 
+that a lack of financial resources was a governance challenge. LRGs also indicated that shifting political 
+priorities (49%), a lack of vertical co-ordination (44%) and a lack of awareness (43%) were among the 
+governance challenges they faced. Responses from territorial stakeholders differed slightly from LRG 
+responses. Higher percentages of territorial stakeholders stated that shifting political priorities (60%), a 
+lack of vertical co-ordination (55%), awareness (60%) and horizontal co-ordination (54%) were key 
+governance challenges for implementing the 2030 Agenda. Both LRGs and territorial stakeholders 
+considered data availability to be less of an obstacle. Twenty-four percent of local and regional 
+governments and 37% of territorial stakeholders indicated that a lack of data represented a governance 
+challenge (Figure 2.3). 
+0
+10
+20
+30
+40
+50
+60
+70
+80
+Political leadership at the
+local/regional level
+Peer-to-peer learning
+with other cities and
+regions
+Dedicated funding/budget
+High level of citizen
+engagement
+Political leadership at the
+national level
+Other
+%
+Local and regional governments
+Other territorial stakeholders
+
+page 20:
+ 19 
+LOCALISING THE SDGS IN A CHANGING LANDSCAPE © OECD/SDSN 2024  
+  
+Figure 2.3. What are the governance challenges your city/region has faced or is currently facing in 
+implementing the 2030 Agenda? 
+Share of respondents selecting the respective options, multiple responses possible 
+ 
+ 
+Note: Number of responses from local and regional governments: 176; number of responses from other territorial stakeholders: 65. 
+Source: OECD-SDSN-CoR survey on the role of cities and regions for the SDGs in a changing landscape. 
+Local and regional governments track SDG progress using local, regional and 
+national data 
+A significant majority of LRGs use local, regional and national data to monitor their progress in achieving 
+the SDGs. As mentioned above, more than half (51%) of LRGs reported tracking their SDG progress by 
+using existing indicators or setting up new measurement systems. Seventy percent of respondents from 
+LRGs use local and regional sources of data (official statistics) to track their SDG progress. 
+Sixty-four percent use national data sources to do so. Additionally, 41% of LRG respondents use 
+qualitative assessments (e.g. case studies, interviews, workshops) in tracking SDG progress. Fewer LRGs 
+used private (21%), international (20%), open (18%) or unconventional (16%) sources of data. There are 
+also considerable differences between the responses of LRGs and those of territorial stakeholders. 
+Territorial stakeholders used qualitative (48%), international (36%), private (25%), open source (31%), and 
+unconventional sources of data (22%) more frequently than local and regional governments did to track 
+SDG progress. Conversely, territorial stakeholders used local and regional data sources much less 
+frequently (53% compared to 70% among LRGs) (Figure 2.4).
+
+page 21:
+20    
+LOCALISING THE SDGS IN A CHANGING LANDSCAPE © OECD/SDSN 2024 
+  
+Figure 2.4. What type of data do you use to track progress on the SDGs? 
+Share of respondents selecting the respective options, multiple responses possible 
+ 
+ 
+Note: Number of responses from local and regional governments: 176; number of responses from other territorial stakeholders: 65. 
+Source: OECD-SDSN-CoR survey on the role of cities and regions for the SDGs in a changing landscape. 
+Ways forward 
+Some possible ways forward for LRGs to harness the SDGs to shape sustainable development policies, 
+track progress and secure sufficient resources could be to: 
+• 
+Leverage the SDGs to design sustainable urban and regional development policies. To 
+advance sustainable development in their city or region, additional subnational governments could 
+mainstream the SDGs in their policies and strategies for urban and sustainable development. The 
+2030 Agenda provides a long-term vision for strategies, plans and policies with a clear and 
+common milestone in 2030. If sustainable development strategies already exist, integrating the 
+framework of the SDGs into them allows LRGs to overcome the challenges of sector-based 
+planning and shift from a sectoral to a multi-sectoral and holistic approach in the design and 
+implementation of local and regional development strategies and policies. It also enables them to 
+prioritise their main sustainability targets while considering and managing the links, impacts and 
+trade-offs concerning other SDGs (e.g. between climate and air quality, sustainable mobility and 
+inequalities).  
+• 
+Boost political leadership for the SDGs. Given the importance of political leadership at the 
+subnational level, with over 70% of LRGs reporting their contribution to the success of SDG 
+implementation, local and regional governments could expand their outreach by actively engaging 
+in national and international city networks, including through enabling peer-to-peer learning on the 
+2030 Agenda. Such engagement could help leverage local and regional political leadership to 
+increase the uptake of the SDGs as a policy-making tool and monitoring framework, but also to 
+raise awareness among internal and external stakeholders about the 2030 Agenda. Furthermore, 
+civil servants need to be vocal about the advantages of the SDGs as a policy-making framework 
+and advocate for their implementation at the local level, thereby raising the awareness of their 
+political leaders about the 2030 Agenda. 
+• 
+Set up localised SDG indicator frameworks or align existing indicator frameworks with the 
+SDGs to track the progress of the 2030 Agenda. When starting to use indicators to track 
+0
+10
+20
+30
+40
+50
+60
+70
+80
+Local/regional
+National
+Qualitative
+Private
+International
+Open source
+Unconventional
+Other
+%
+Local and regional governments
+Other territorial stakeholders
+
+page 22:
+ 21 
+LOCALISING THE SDGS IN A CHANGING LANDSCAPE © OECD/SDSN 2024  
+  
+progress of the 2030 Agenda or further refining existing frameworks, LRGs should define their 
+strategic goals for SDG monitoring, e.g. if they want to demonstrate progress against national or 
+international averages, prioritise local policy decisions with reference to specific SDGs, assess the 
+impact of existing policies against SDG targets and/or communicate with citizens and other 
+stakeholders, which all involve both internal processes and capacity for collecting and analysing 
+data and public-facing tools (e.g. an online portal or database) for public dissemination. In 
+particular, LRGs should: 
+o 
+Assess the availability and sources of data and their capacity to collect, process, maintain and 
+disseminate these on a regular basis. This could inform the selection of indicators based on 
+data availability and political priorities.  
+o 
+Allocate dedicated funding and/or resources to ensure data are regularly processed, updated 
+and shared. Many of these steps can be taken through targeted collaborations with universities, 
+research institutes and the private sector, allowing LRGs to expand the range and types of data 
+used for SDG monitoring and policy evaluation. The OECD, Sustainable Development 
+Solutions Network (SDSN) and other organisations also offer tools for LRGs to align this work 
+with existing harmonised, comparable approaches such as the OECD localised indicator 
+framework for measuring the distance to achieving the SDGs in cities and regions. 
+o 
+Bridge the data gap, which will be essential for better monitoring given that 24% of LRGs 
+responded that a lack of data remained a challenge for them and that sources beyond 
+administrative data (e.g. qualitative, international, open and unconventional [social media, 
+mobile tracking, etc.]) remain underexploited. This involves not only accessing these types of 
+data, including through tools like artificial intelligence and relevant software but also making 
+resources available and building capacity to incorporate them effectively into SDG monitoring 
+and broader policy evaluation frameworks. 
+o 
+Set up a multi-level governance framework that allows for horizontal co-ordination within local 
+or regional government departments and among territorial stakeholders to determine clear 
+roles and responsibilities for collecting, validating and sharing data. LRGs should also 
+co-ordinate vertically with other levels of government, assessing how their local monitoring 
+framework contributes to or overlaps with existing national frameworks and initiatives, including 
+country-level VNR processes.  
+• 
+Secure the necessary resources and capacity for the implementation of the 2030 Agenda. 
+LRGs should use the SDGs as a tool to allocate budgets to ensure the allocation of sufficient 
+resources to implement the 2030 Agenda and foster continuity over time (OECD, 2022[3]). This 
+exercise requires adequate local SDG monitoring as described in the previous recommendation in 
+order to set targets, assess progress and prioritise policies based on specific SDGs. LRGs can 
+also use the SDGs to attract investment, whether through innovative financial mechanisms like 
+municipal or regional sustainability bonds, local investment crowdfunding platforms or contingency 
+funds tied to achieving specific SDGs. They can also encourage private sector investment to fund 
+urban development projects aligned with the SDGs through sustainable public procurement and 
+public-private partnerships. Finally, LRGs can also participate in or learn from the growing number 
+of peer-to-peer learning groups and international city networks that are seeking to address the lack 
+of subnational financial resources for the SDGs. For example, the SDSN and the University of 
+Pennsylvania, with the participation of the OECD, have convened the SDSN Global Commission 
+for Urban SDG Finance, a commission to analyse barriers to urban SDG finance, evaluate existing 
+proposals to improve access to urban finance and develop new strategies and mechanisms to 
+better align the global financial architecture with urban needs (SDSN, 2023[4]).
+
+
+
+===== OCDE_2024_5_The_Role_of_the_SDGs_for_COVID-19_Recovery_in_Cities_and_Regions =====
+
+page 24:
+ 23 
+LOCALISING THE SDGS IN A CHANGING LANDSCAPE © OECD/SDSN 2024 
+Around half of surveyed LRGs use the SDGs in the COVID-19 recovery phase 
+Around 39% of local and regional governments (LRGs) used the United Nations Sustainable Development 
+Goals (SDGs) before the pandemic and are using them to address the COVID-19 recovery phase. The 
+most reported response was using the SDGs before the pandemic and incorporating them in the recovery 
+phase. Another quarter of respondents reported that they had not yet used the SDGs as a framework for 
+COVID-19 recovery but were planning to do so. Approximately 23% of respondents reported not using the 
+SDGs and not intending to incorporate them into the COVID-19 recovery phase. A small proportion of 
+respondents (9%) seized the opportunity of the COVID-19 recovery phase to initiate work on the SDGs. 
+Territorial stakeholders exhibited a similar pattern, as 39% had used the SDGs before the pandemic and 
+continued to do so during the COVID-19 recovery phase. Among all territorial stakeholders, 29% intend to 
+integrate the SDGs into the recovery phase, although they had not used them before (Figure 3.1).  
+Figure 3.1. Are you using the SDGs as a framework for the COVID-19 recovery phase? 
+Share of respondents selecting the respective options 
+Note: Number of responses from local and regional governments: 175; number of responses from other territorial stakeholders: 62. 
+Source: OECD-SDSN-CoR survey on the role of cities and regions for the SDGs in a changing landscape. 
+0
+5
+10
+15
+20
+25
+30
+35
+40
+45
+Yes, we used the SDGs before
+and use them to address the
+COVID-19 recovery
+Not yet, but we are
+planning to do so
+No, and we have
+no intention to do so
+Yes, although we did not use the
+SDGs before, we are using them
+now to address the COVID-19
+recovery
+Other
+%
+Local and regional governments
+Other territorial stakeholders
+3 The role of the SDGs for COVID-19 
+recovery in cities and regions
+
+page 25:
+24    
+LOCALISING THE SDGS IN A CHANGING LANDSCAPE © OECD/SDSN 2024 
+  
+The people dimension is the top post-COVID-19 challenge at the subnational 
+level 
+Among the 5 dimensions of the 2030 Agenda, 45% of LRGs consider the people dimension (SDGs 1-5) to 
+be the most important post-COVID-19 challenge. Responses underline the importance of the SDGs on 
+poverty, food, health, education and gender. These SDGs had already emerged as the most important 
+challenges in the previous 2021 OECD-CoR survey (Box 2.1). The second-most important post-COVID-19 
+challenge for LRGs is the prosperity dimension (SDGs 7-11), with 22% of responses. It includes the SDGs 
+on energy, economic growth, innovation and infrastructure, inequality and sustainable cities. The planet 
+dimension (SDGs 6 and 12-15), which comprises the SDGs on water, sustainable consumption and 
+production, climate action and life on land and underwater, received a slightly lower priority (20%), followed 
+by SDG 17 on partnerships (8%) and SDG 16 on peace, justice and strong institutions (5%) (Figure 3.2). 
+The responses of territorial stakeholders are in line with those of local and regional governments. Among 
+territorial stakeholders, 40% considered the people dimension to be the major post-COVID-19 challenge 
+in their city or region, i.e. 5 percentage points less than among LRGs. The prosperity dimension ranked 
+second for territorial stakeholders, albeit with a higher share than for LRGs (30% vs. 22%), followed by the 
+planet and partnership dimensions (13% each) and the peace dimension (3%) (Figure 3.2). 
+Figure 3.2. Where do you see the biggest post-COVID-19 challenges for your city/region with 
+regard to the SDGs? 
+Share of respondents selecting the respective options 
+ 
+Note: Number of responses from local and regional governments: 173; number of responses from other territorial stakeholders: 60. 
+Source: OECD-SDSN-CoR survey on the role of cities and regions for the SDGs in a changing landscape. 
+Ways forward 
+Some possible ways forward for LRGs to use the SDGs to achieve their key policy priorities in the 
+COVID-19 recovery phase are: 
+• 
+Align local or regional development strategies with the SDGs. Ensure that recovery plans are 
+aligned with both the SDGs on the one hand and the local or regional development strategy on the 
+other, while accounting for the specific needs and challenges of each city and region, including the 
+0
+5
+10
+15
+20
+25
+30
+35
+40
+45
+50
+People dimension
+(SDGs 1-5)
+Prosperity dimension
+(SDGs 7-11)
+Planet dimension
+(SDGs 6 and 12-15)
+Partnership dimension
+(SDG 17)
+Peace dimension
+(SDG 16)
+%
+Local and regional governments
+Other territorial stakeholders
+
+page 26:
+ 25 
+LOCALISING THE SDGS IN A CHANGING LANDSCAPE © OECD/SDSN 2024  
+  
+varied impact of the COVID-19 pandemic. The recovery phase should be leveraged as an 
+opportunity to enhance resilience and preparedness for future shocks and crises. LRGs should 
+periodically assess progress on the implementation of the recovery plan and local policy priorities, 
+making necessary adjustments to strategies as conditions evolve. 
+• 
+Use SDG indicators to assess the impact of the COVID-19 pandemic. Take advantage of SDG 
+data and localised indicator frameworks to assess the impact of the COVID-19 pandemic at the 
+local level. Doing so could help guide local policy making during the COVID-19 recovery period, 
+with a particular focus on the SDGs of the People dimension (SDGs 1-5) that have emerged as the 
+most important post-COVID-19 challenges. The recovery period could provide an opportunity to 
+set up new measurement systems for the SDGs if they do not yet exist or to align existing systems 
+with harmonised and comparable local SDG indicator frameworks such as the OECD localised 
+indicator framework for measuring distance to achieving the SDGs. 
+• 
+Promote policy coherence across levels of government. The COVID-19 recovery phase and 
+the mid-point of the 2030 Agenda provide an opportunity to reassess the multi-level governance of 
+the SDG implementation between cities, regions and national governments, reducing the risk of 
+disjointed recovery efforts. This calls for aligning national, regional and local policies and strategies 
+for the SDGs and defining clear roles and responsibilities for each level of government regarding 
+SDG implementation. This also means assessing whether standardised reporting mechanisms 
+across levels of government as well as harmonised legal frameworks are in place to facilitate the 
+implementation of the 2030 Agenda across levels of government.
+
+
+
+===== OCDE_2024_6_Impact_of_Current_Crises_on_Key_Policy_Areas_and_SDGs =====
+
+page 27:
+26    
+LOCALISING THE SDGS IN A CHANGING LANDSCAPE © OECD/SDSN 2024 
+  
+Cost of living 
+The majority of local and regional governments (LRGs) have experienced a deterioration 
+in living standards as a result of the cost-of-living crisis 
+The cost-of-living crisis has eroded living standards in cities and regions. Among LRGs, 55% reported that 
+living standards had worsened as a result of general price increases and that they expected further 
+deterioration. An additional 28% of LRGs acknowledged a decline in living standards but did not predict a 
+further decline. Consequently, over 80% of responding LRGs reported lower living standards within their 
+territories due to inflationary pressures and the repercussions of Russia’s war of aggression against 
+Ukraine. Only 18% of LRGs reported no change in living standards. However, within this group, 
+13% anticipated a deterioration in living standards during the same year, while 5% did not expect any 
+further impact on living standards within the next year (Figure 4.1). Territorial stakeholders’ responses 
+mirror these patterns, with 72% experiencing a decrease in living standards in their cities or regions. Among 
+them, 47% anticipated a further deterioration, while 25% did not expect any additional reduction in living 
+standards.  
+Figure 4.1. Due to the cost-of-living crisis, living standards in my city/region have… [answer] 
+Share of respondents selecting the respective options 
+ 
+Note: Number of responses from local and regional governments: 176; number of responses from other territorial stakeholders: 64. 
+Source: OECD-SDSN-CoR survey on the role of cities and regions for the SDGs in a changing landscape. 
+0
+10
+20
+30
+40
+50
+60
+Already worsened and we expect
+further deterioration of living standards
+Already worsened but we do not expect
+further reduction of living standards
+Remained the same but we are
+expecting living standards to worsen
+throughout the year
+Remained the same and we are not
+expecting an impact on living standards
+within the next year
+%
+Local and regional governments
+Other territorial stakeholders
+4 Impact of current crises on key 
+policy areas and SDGs
+
+page 28:
+ 27 
+LOCALISING THE SDGS IN A CHANGING LANDSCAPE © OECD/SDSN 2024  
+  
+The cost-of-living crisis has taken a toll on poverty and energy  
+LRGs identified poverty (United Nations Sustainable Development Goal [SDG] 1) and energy (SDG 7) as 
+the two policy areas most significantly affected by the rise in the cost of living. Seventy percent of 
+responding LRGs indicated that they had identified an impact of the cost-of-living crisis on poverty and 
+energy supply (Figure 4.2). Housing (SDG 11) is another policy area that has been particularly affected 
+(58%). Inequalities (SDG 10) have been worsened by the rise in the cost of living in half of responding 
+cities and regions, while 47% of respondents mentioned the impact on health and well-being (SDG 3). The 
+remaining policy areas also felt the repercussions to some extent, with food security (SDG 2) and the 
+labour market (SDG 8) both experiencing impacts reported by 38% of respondents. Climate (SDG 13) and 
+mobility (SDG 9) were relatively less affected, with 28% and 22% of respondents respectively reporting an 
+impact in these two policy areas. These findings underscore the need for targeted policy interventions to 
+address the challenges arising from the cost-of-living crisis, particularly in the areas of poverty, energy, 
+housing and inequalities. The responses from territorial stakeholders convey slightly different observations 
+compared to those of the LRGs. While both LRGs and territorial stakeholders identified poverty as one of 
+the 2 most affected areas, with 70% of LRGs and 71% of territorial stakeholders mentioning it, observations 
+diverged when it came to the second most affected policy area. Seventy percent of territorial stakeholders 
+registered an impact on health and well-being, compared to 47% among LRGs. Additionally, territorial 
+stakeholders more often mentioned food security (60%) and inequalities (59%) compared to LRGs. 
+Furthermore, climate (43%) emerged as a more prominent concern in the responses of territorial 
+stakeholders. Conversely, energy (57%) and housing (54%) were less frequently identified as affected 
+areas by territorial stakeholders (Figure 4.2). 
+Figure 4.2. Which areas are the most affected by the increase in cost of living in your city/region? 
+Share of respondents selecting the respective options, multiple responses possible 
+ 
+Note: Number of responses from local and regional governments: 177; number of responses from other territorial stakeholders: 63. 
+Source: OECD-SDSN-CoR survey on the role of cities and regions for the SDGs in a changing landscape. 
+Support measures for vulnerable groups are the most common response of LRGs to 
+address increasing price levels  
+Two-thirds of responding LRGs have implemented measures to support vulnerable groups in response to 
+rising prices. Supporting the vulnerable population (SDG 1) is the most common measure implemented by 
+0
+10
+20
+30
+40
+50
+60
+70
+80
+Other
+Mobility (SDGs 9 and 11)
+Climate (SDG 13)
+Food security (SDG 2)
+Labour market (SDG 8)
+Health and well-being (SDG 3)
+Inequalities (SDG 10)
+Housing (SDG 11)
+Poverty (SDG 1)
+Energy (SDG 7)
+%
+Local and regional governments
+Other territorial stakeholders
+
+page 29:
+28    
+LOCALISING THE SDGS IN A CHANGING LANDSCAPE © OECD/SDSN 2024 
+  
+LRGs. To save on electricity costs, 62% of LRGs have reduced the average temperature in public 
+buildings, thereby cutting heating expenses (SDGs 7 and 13). Additionally, 46% of LRGs implemented 
+measures to cut back on street lighting (SDG 7). One-third of LRGs directed their efforts towards assisting 
+local businesses through support measures, such as subsidies or tax breaks (SDG 8). Other less common 
+measures include subsidies for sustainable mobility (26%), such as offering discounts on public transport 
+fares (SDGs 9 and 11), implementing temporary housing support schemes (19%) (SDG 11), enforcing 
+price caps to bring down energy costs (17%) (SDG 7) and adopting measures to reduce food insecurity 
+(14%), such as cutting taxes on food (SDG 2) (Figure 4.3). Territorial stakeholders echoed similar actions 
+taken by LRGs, with 56% identifying support measures for vulnerable individuals as the most common 
+response by their respective city or region to tackle rising prices. The second most common action 
+identified by territorial stakeholders was the implementation of price caps to lower energy costs (32%). 
+Reducing the average temperature in public buildings (30%) and support measures for local companies 
+(29%) played a similarly important role. These findings highlight the proactive engagement of LRGs in 
+taking diverse measures to address the challenges posed by rising prices. 
+Figure 4.3. Which of the following measures has your city/region put in place to respond to 
+increasing price levels? 
+Share of respondents selecting the respective options, multiple responses possible 
+ 
+Note: Number of respondents: 172; number of responses from other territorial stakeholders: 63. 
+Source: OECD-SDSN-CoR survey on the role of cities and regions for the SDGs in a changing landscape. 
+The cost-of-living crisis affected LRGs’ human and financial resources for the SDGs 
+The cost-of-living crisis has often strained LRGs’ human and financial resources to work on the SDGs. 
+Among the survey respondents, 45% of LRGs indicated a decrease in the availability of funding for SDG 
+projects, while 37% reported that the cost-of-living crisis had not affected their capacity and resources to 
+work on the SDGs (Figure 4.4). Conversely, 20% of LRGs reported an increase in funding for SDG-related 
+initiatives, possibly suggesting proactive efforts to address the crisis. In terms of human resources, 10% of 
+LRGs experienced a drop in staff dedicated to SDGs, while 8% of LRGs observed an increase in the 
+number of people working on SDG activities compared to the period before Russia’s war of aggression 
+0
+10
+20
+30
+40
+50
+60
+70
+Other
+Measures to reduce food insecurity (SDG 2)
+Price caps to reduce energy costs for households (SDG 7)
+Temporary housing support schemes (SDG 11)
+Subsidies for sustainable mobility (SDGs 9 and 11)
+Support measures for local companies (SDG 8)
+Reduction of street lighting (SDGs 7 and 13)
+Reduction of the average temperature in public buildings (SDGs 7 and 13)
+Support measures for vulnerable populations (SDG 1)
+%
+Local and regional governments
+Other territorial stakeholders
+
+page 30:
+ 29 
+LOCALISING THE SDGS IN A CHANGING LANDSCAPE © OECD/SDSN 2024  
+  
+against Ukraine. In addition, 3% of LRGs had to suspend or halt their SDG initiatives. Among territorial 
+stakeholders, 56% reported a decrease in the availability of funding for SDG work, while 18% stated that 
+the cost-of-living crisis had not affected their SDG pursuits. Similarly, 18% of territorial stakeholders cited 
+an increase in funding for SDG projects and 15% noted an increase in the number of people working on 
+the SDGs since the outbreak of the war in Ukraine. Meanwhile, 13% experienced a decrease in staff 
+working on the SDGs and 7% temporarily suspended their SDG efforts. These statistics illustrate the 
+diverse and evolving strategies employed by different entities as they navigate the challenges associated 
+with the current crisis while striving to achieve the SDGs. 
+Figure 4.4. What impact does the cost-of-living crisis have on the human and financial capacity of 
+your city/region to work on the SDGs? 
+Share of respondents selecting the respective options, multiple responses possible 
+ 
+Note: Number of responses from local and regional governments: 172; number of responses from territorial stakeholders: 61. 
+Source: OECD-SDSN-CoR survey on the role of cities and regions for the SDGs in a changing landscape. 
+Energy 
+Achieving SDG 7 on Clean and affordable energy has gained greater prominence for 
+most local and regional governments since the outbreak of Russia’s war of aggression 
+against Ukraine  
+SDG 7 has gained importance for local and regional governments since the start of Russia’s war of 
+aggression against Ukraine. Twenty-three percent of responding local and regional governments reported 
+it had become a top priority for them, with a further 57% saying it had increased in relevance (Figure 4.5). 
+Only 18% of local and regional governments stated that SDG 7 had remained as relevant as before the 
+war. Moreover, only 3% indicated that it had become less relevant since then. Responses from territorial 
+stakeholders were different. Twenty-one percent found that SDG 7 had become a top priority in their city 
+or region, while 30% reported that it had increased in relevance. For more than a third (37%), its 
+achievement had stayed relevant and 11% stated that it had decreased in relevance since the outbreak of 
+the war.  
+0
+10
+20
+30
+40
+50
+60
+Now less funding
+available to work on
+the SDGs
+Cost-of-living crisis
+has not affected
+capacity to work
+on the SDGs
+Funding for
+ SDG-related projects
+has been increased
+Other
+Number of people
+working on SDGs is
+now lower than before
+the war in Ukraine
+Number of people
+working on SDGs
+has increased
+compared to before
+the war in Ukraine
+We have stopped or
+put on standby our
+work on the SDGs
+%
+Local and regional governments
+Other territorial stakeholders
+
+page 31:
+30    
+LOCALISING THE SDGS IN A CHANGING LANDSCAPE © OECD/SDSN 2024 
+  
+Figure 4.5. Since the outbreak of the Russia’s war of aggression against Ukraine, the achievement 
+of SDG 7 (Clean and affordable energy) in my city/region has… [answer] 
+Share of respondents selecting the respective options 
+ 
+Note: Number of responses from local and regional governments: 176; number of responses from territorial stakeholders: 63. 
+Source: OECD-SDSN-CoR survey on the role of cities and regions for the SDGs in a changing landscape. 
+Russia’s war of aggression against Ukraine has coincided with increases in the cost of 
+electricity for over 70% of responding cities and regions  
+Electricity costs have increased for over 70% of local and regional governments since the outbreak of the 
+war in Ukraine. Half of local and regional governments responded that the cost of electricity had increased 
+by up to 50% since the beginning of the Russian war in Ukraine. An additional 21% of responding LRGs 
+stated it had increased by between 50% and 100% and the reported cost increase for 16% of LRGs 
+exceeded 100%. Thirty-eight percent considered it had stayed relevant and 11% found it had decreased 
+in relevance (Figure 4.6). Responses from LRGs in the European Union (a sample of 145 respondents) 
+suggested a greater impact on electricity prices. In the European Union, 94% of LRG respondents reported 
+that electricity costs had increased since the outbreak of the war. Among these, 51% reported costs 
+increasing by up to 50%, 24% noted increases of between 50% and 100%, and 18% stated that electricity 
+costs had gone up by over 100%. Among territorial stakeholders, the rise in electricity costs showed a 
+slightly milder impact, with fewer respondents reporting increases compared to LRGs. Nearly 30% reported 
+no changes in electricity prices, while 5% noted a decrease. 
+0
+10
+20
+30
+40
+50
+60
+Become a top priority
+Increased in relevance
+Stayed as relevant
+Decreased in relevance
+%
+Local and regional governments
+Other territorial stakeholders
+
+page 32:
+ 31 
+LOCALISING THE SDGS IN A CHANGING LANDSCAPE © OECD/SDSN 2024 
+Figure 4.6. Since the outbreak of the Russian war in Ukraine, the cost of electricity in my 
+city/region has… [answer] 
+Share of respondents selecting the respective options 
+Note: Number of responses from local and regional governments: 175; number of responses from territorial stakeholders: 62. 
+Source: OECD-SDSN-CoR survey on the role of cities and regions for the SDGs in a changing landscape. 
+LRGs and public energy providers have increased the share of renewables or reduced 
+their dependence on imported energy since the outbreak of the war in Ukraine 
+Growing pressures on the international energy market led 36% of cities and regions or their public energy 
+provider to increase the share of renewable energy in their energy mix. Thirty-six percent reported that 
+they reduced their dependence on imported energy. A further 34% of LRGs responded that the composition 
+of their energy mix remained unchanged after the outbreak of the war. Sixteen percent of LRGs noted that 
+they or their public energy provider had diversified the sourcing of energy. Only 9% of local and regional 
+governments reported they had increased the share of non-renewable energy in their mix (Figure 4.7). The 
+responses of territorial stakeholders show a similar pattern. Among them, 38% reported increasing their 
+share of renewable energy and 33% responded that they had tried to reduce their dependence on imported 
+energy. The most notable difference compared to LRGs relates to the diversification of energy sourcing. 
+Among territorial stakeholders, 28% increased the diversification of their energy sources, which is 
+12 percentage points higher than the corresponding figure among LRGs. Additionally, 11% of territorial 
+stakeholders raised the proportion of non-renewable sources in their energy mix. Meanwhile, 31% of 
+territorial stakeholders reported no alterations in their energy mix composition following the outbreak of the 
+Russian war in Ukraine. 
+0
+10
+20
+30
+40
+50
+60
+Increased by >100%
+Increased by 50-100%
+Increased by ≤ 50%
+Not changed
+Decreased
+%
+Local and regional governments
+Other territorial stakeholders
+
+page 33:
+32    
+LOCALISING THE SDGS IN A CHANGING LANDSCAPE © OECD/SDSN 2024 
+  
+Figure 4.7. In response to the growing pressures on the international energy market, our 
+city/region and public energy provider have… [answer] 
+Share of respondents selecting the respective options, multiple responses possible 
+ 
+ 
+Note: Number of responses from local and regional governments: 166; number of responses from territorial stakeholders: 64. 
+Source: OECD-SDSN-CoR survey on the role of cities and regions for the SDGs in a changing landscape. 
+About a third of local and regional governments say they have overall and sector-
+specific consumption-based emissions targets but 40% say they do not 
+More than half of LRGs have overall or sector-specific consumption-based emissions targets or both. 
+Developing subnational consumption-based emissions estimates can be a valuable tool for cities and 
+regions to help measure the emissions intricately tied to consumption patterns. In turn, it offers a metric to 
+assess the effectiveness of demand-side mitigation policies (OECD, 2023[15]).1 Over one-third (35%) of 
+local and regional governments responded that they had both overall consumption-based emission targets 
+and sector-specific targets (e.g. in transport, construction) (Figure 4.8). A further 18% indicated that they 
+had overarching consumption-based emission targets in place but no sectoral targets. Twenty-one percent 
+of LRGs responded that they did not have consumption-based emissions targets but that they planned to 
+implement them. In addition, 19% reported that they did not have such targets and did not plan to introduce 
+them. Responses from territorial stakeholders indicate that in 23% of the cases, their city or region had 
+both overall and sectoral consumption-based energy targets. Sixteen percent reported having only overall 
+targets. Additionally, 26% indicated they did not yet but that setting such targets was planned. Finally, 25% 
+responded that they did not have consumption-based targets and did not plan to implement them.  
+0
+5
+10
+15
+20
+25
+30
+35
+40
+Increased renewable
+energy
+Tried to reduce the
+dependence on imported
+energy
+Not changed the
+composition
+of the energy mix
+Diversified the sourcing of
+energy
+Other
+Increased non-renewable
+energy
+%
+Local and regional governments
+Other territorial stakeholders
+
+page 34:
+ 33 
+LOCALISING THE SDGS IN A CHANGING LANDSCAPE © OECD/SDSN 2024  
+  
+Figure 4.8. Does your city/region have consumption-based emission targets? 
+Share of respondents selecting the respective options 
+ 
+ 
+Note: Number of responses from local and regional governments: 170; number of responses from territorial stakeholders: 61. 
+Source: OECD-SDSN-CoR survey on the role of cities and regions for the SDGs in a changing landscape. 
+To achieve SDG 7, local and regional governments are prioritising decarbonising fuel 
+sources and improving energy efficiency in the built environment  
+Decarbonising and improving energy efficiency in the built environment are the two top priorities of LRGs 
+for SDG 7. When asked which strategies or policies could help their city or region best transition to cleaner 
+energy production and achieve SDG 7, 44% of local and regional governments responded that 
+decarbonisation – shifting from fossil fuels to zero-carbon sources of energy – would help the most. In 
+addition, 37% responded improving energy efficiency in the built environment (Figure 4.9). Smaller 
+percentages responded improvements in energy efficiency in transport (7%) and in industrial sectors (5%) 
+or electrifying current uses of fossil fuels outside power generation (5%). Most territorial stakeholders 
+(52%) also responded that decarbonising by shifting from fossil fuels to zero-carbon fuel sources would 
+help their city or region in its energy transition to achieve SDG 7. In addition, 25% of territorial stakeholders 
+indicated that improving building energy efficiency would help address these goals. Seven percent stated 
+that energy efficiency in the industrial sector and electrifying the current uses of fossil fuels outside power 
+generation would help transition to cleaner energy production and achieve SDG 7. Lastly, 15% selected 
+policies and strategies aiming for greater energy efficiency in the transport sector as their top priority.  
+Figure 4.9. Which of the following strategies or policies could help your city or region best 
+transition to cleaner energy production and achieve SDG 7? 
+Share of respondents selecting the respective options, multiple responses possible 
+ 
+ 
+Note: Number of responses from local and regional governments: 170; number of responses from territorial stakeholders: 61. 
+Source: OECD-SDSN-CoR survey on the role of cities and regions for the SDGs in a changing landscape. 
+0
+5
+10
+15
+20
+25
+30
+35
+40
+Yes, overall and sector-specific
+No, but we are planning to
+No, and we are not planning to
+Yes, but not sectorial
+Other
+%
+Local and regional governments
+Other territorial stakeholders
+0
+10
+20
+30
+40
+50
+60
+Decarbonising: shifting from
+fossil fuels to zero-carbon
+sources
+Improving energy efficiency in
+the built environment
+Improving energy efficiency in
+the industry sector
+Electrifying current uses
+of fossil fuels outside of power
+generation
+Improving energy efficiency in
+the transport sector
+%
+Local and regional governments
+Other territorial stakeholders
+
+page 35:
+34    
+LOCALISING THE SDGS IN A CHANGING LANDSCAPE © OECD/SDSN 2024 
+  
+Food security  
+SDG 2 Zero hunger has gained importance for LRGs but is not among their top priorities 
+Although not a top priority for most LRGs, the relevance of SDG 2 has increased as a result of current 
+inflation levels. Nineteen percent of LRGs mentioned it as one of their top priorities. Furthermore, 29% of 
+LRGs reported an increase in the relevance of SDG 2 as a result of higher prices and named that SDG as 
+a priority. In addition, 28% identified SDG 2 as one of their priorities but noted that there are more pressing 
+issues for their local or regional government. At the same time, about a fourth of LRGs responding to the 
+survey (24%) do not consider SDG 2 to be a priority for their government. The picture is slightly different 
+for territorial actors, with 32% of them citing SDG 2 as one of their top priorities and another 43% citing it 
+as a priority. For 21% of respondents, its relevance has even increased in light of current inflation levels, 
+while 22% said that there are more pressing issues (Figure 4.10).  
+Figure 4.10. To which extent is SDG 2 Zero hunger a priority for your local and regional 
+government? 
+Share of respondents selecting the respective options 
+ 
+Note: Number of responses from local and regional governments: 174; number of responses from territorial stakeholders: 63. 
+Source: OECD-SDSN-CoR survey on the role of cities and regions for the SDGs in a changing landscape. 
+LRGs have implemented a variety of emergency measures to address SDG 2 in light of 
+more frequent disruptions in the global food supply chain 
+Setting up food banks and food distributions for vulnerable populations are LRGs’ most common actions 
+to target SDG 2. Almost half (46%) of responding LRGs indicated they have already implemented such 
+measures to address SDG 2 (Figure 4.11). A distant second action LRGs took to address SDG 2 (with 
+28% of responses) is to provide information to citizens about balanced diets and offer subsidies for specific 
+nutritious foods. Safety standards and food subsidies also play a notable role. Twenty-two percent of LRGs 
+have either enforced safety standards and informed consumers about regulations and/or implemented 
+food subsidy programmes to close supply gaps and counterbalance a cost increase. Similarly, 21% of 
+LRGs focus on reducing nutrient losses, pesticide and fertiliser use and antimicrobial resistance while 
+promoting sustainable farming practices. In contrast, setting up public stockholding programmes to 
+address supply chain disruptions was the least frequently used action (13%). This might imply that the 
+0
+5
+10
+15
+20
+25
+30
+35
+It is a priority and its relevance has
+increased due to the current inflation
+levels
+It is a priority, but there are more
+pressing issues for the local/regional
+government
+It is not a priority for the local/regional
+government
+It is among the top priorities
+%
+Local and regional governments
+Other territorial stakeholders
+
+page 36:
+ 35 
+LOCALISING THE SDGS IN A CHANGING LANDSCAPE © OECD/SDSN 2024  
+  
+impact of ruptures in the global food supply chain has not yet warranted extreme emergency measures. 
+Among territorial stakeholders, reducing nutrient losses, using pesticides and fertilisers, and addressing 
+antimicrobial resistance while promoting sustainable farming practices garnered the highest share of 
+responses (30%). Following closely, setting up food banks and food distributions for the vulnerable 
+population accounted for 26% of responses, underscoring the significance of targeting vulnerable 
+populations for territorial stakeholders. The remaining actions were distributed relatively evenly among 
+territorial stakeholders, receiving between 16% and 21% of responses. 
+Figure 4.11. In light of increasingly frequent ruptures in the global food supply chain due to the 
+implications of the war in Ukraine and the consequences of climate change, how does your 
+city/region address SDG 2? 
+Share of respondents selecting the respective options, multiple responses possible 
+ 
+Note: Number of responses from local and regional governments: 158; number of responses from territorial stakeholders: 61. 
+Source: OECD-SDSN-CoR survey on the role of cities and regions for the SDGs in a changing landscape. 
+The most common action to achieve a sustainable food system is the promotion of local 
+food production 
+Nearly 60% of cities and regions participating in the survey are actively promoting local and regional food 
+production. Local food production, i.e. urban agriculture projects and urban-rural partnerships, emerged 
+as the most frequently mentioned measures to attain a sustainable food system (Figure 4.12). The 
+promotion of a circular economy approach is similarly important for LRGs, as mentioned by 54% of 
+respondents. In addition, cities and regions often organise awareness-raising events or campaigns to 
+educate the population about diets and healthy nutrition (51%). More than a third (35%) of LRGs reported 
+having incorporated food policies into their urban or regional development strategy, thus demonstrating an 
+integrated approach to food systems. Only 4% of LRGs reported importing food predominantly from 
+0
+10
+20
+30
+40
+50
+Set up public stockholding programmes to address supply chain disruption
+Other
+Reduce nutrient losses, use of pesticides, expand sustainable farming
+Implement food subsidies to close supply gaps and balance cost increase
+Enforce safety standards, informing consumers about regulations
+Inform citizens about balanced diets, targeting nutritious food with subsidies
+Set up food banks and food distributions for  vulnerable populations
+%
+Local and regional governments
+Other territorial stakeholders
+
+page 37:
+36    
+LOCALISING THE SDGS IN A CHANGING LANDSCAPE © OECD/SDSN 2024 
+  
+abroad. Territorial stakeholders also emphasised the importance of promoting local food production, with 
+52% of them mentioning it as one of the measures implemented in their city or region to achieve 
+sustainable food systems. Other important measures reported by stakeholders include promoting a circular 
+economy approach to the local and regional food system (33%) and organising awareness-raising events 
+to educate the population about diets and healthy nutrition. Despite some variation in their share of replies 
+compared to LRGs, the top three responses were consistent between LRGs and territorial stakeholders. 
+Figure 4.12. Which measures has your city/region put in place to achieve a sustainable food 
+system? 
+Share of respondents selecting the respective options, multiple responses possible 
+ 
+Note: Number of responses from local and regional governments: 168; number of responses from territorial stakeholders: 60. 
+Source: OECD-SDSN-CoR survey on the role of cities and regions for the SDGs in a changing landscape. 
+Cities and regions mostly promote a circular economy approach to reduce food waste 
+Promoting a circular economy approach and reusing surplus food are the two most common programmes 
+implemented by LRGs to reduce food waste. Sixty percent of LRGs promote a circular economy approach 
+with the objective of reducing food waste (Figure 4.13). About 46% of LRGs engage in reusing and 
+redistributing surplus food through food banks, supermarket initiatives and transforming it into animal feed. 
+Additionally, 45% of LRGs have implemented measures to prevent food waste throughout the food supply 
+chain. Composting and anaerobic digestion for nutrient substance recovery from food waste are cited by 
+36% of LRGs. Less frequently used measures include revalorising byproducts and transforming products 
+to last longer (12%) as well as energy recovery from food waste (8%). Among territorial stakeholders, the 
+most frequently cited response is the prevention of food waste throughout the food supply chain (44%), 
+followed by the promotion of a circular economy approach (38%) and reusing and redistributing surplus 
+food (32%). These findings align with the priority measures reported by LRGs. They underscore the 
+multifaceted efforts undertaken by cities and regions to tackle food waste, effectively contributing to 
+SDGs 2 and 12. 
+0
+10
+20
+30
+40
+50
+60
+70
+Predominantly import food from abroad
+Other
+Integrate food policies into the territorial development strategy
+Raise awareness to educate the population about healthy nutrition
+Promote a circular economy approach to the food system
+Promote local/regional food production
+%
+Local and regional governments
+Other territorial stakeholders
+
+page 38:
+ 37 
+LOCALISING THE SDGS IN A CHANGING LANDSCAPE © OECD/SDSN 2024 
+Figure 4.13. What programmes are being implemented in your city/region to reduce food waste 
+(SDGs 2 and 12)? 
+Share of respondents selecting the respective options, multiple responses possible 
+Note: Number of responses from local and regional governments: 171; number of responses from territorial stakeholders: 63. 
+Source: OECD-SDSN-CoR survey on the role of cities and regions for the SDGs in a changing landscape. 
+Ways forward 
+Some possible ways forward for LRGs to use the SDGs to respond to the cost-of-living crisis, transition to 
+clean and affordable energy and achieve food security are: 
+Cost of living 
+•
+Combat rising price levels. Considering that 55% of LRGs reported that living standards had
+already deteriorated since the outbreak of Russia’s war of aggression against Ukraine and that
+they expected further deteriorations with impacts notably on SDGs related to poverty (SDG 1) and
+inequality (SDG 10) as well as housing (SDG 11), there is a variety of measures that they can take
+to respond to increasing price levels:
+o
+Provide the local population with resources and education on budgeting, saving and financial
+management during times of economic stress, e.g. through financial literacy programmes
+(SDGs 1, 4 and 10).
+o
+Improve housing affordability by developing targeted solutions for the most vulnerable, such
+as temporary rent subsidies or eviction preventions to limit increases in housing costs and
+ensure housing remains affordable for residents (SDGs 10 and 11).
+o
+Expand social safety net programmes and food assistance to cushion those in need (SDGs 1,
+3 and 10).
+o
+Enhance public transportation options and affordability (e.g. temporary reduction in ticket
+prices for those most in need) to counter the financial burden of increasing fuel prices and
+incentivise the usage of low-carbon mobility options to help meet climate objectives (SDG 11).
+0
+10
+20
+30
+40
+50
+60
+70
+Other
+Revalorising byproducts and transforming products to last longer
+Energy recovery of food waste
+Substance recovery of nutrients from food waste
+Prevention of food waste throughout the food supply chain
+Reusing and redistributing surplus food
+Promotion of a circular economy approach
+%
+Local and regional governments
+Other territorial stakeholders
+
+page 39:
+38    
+LOCALISING THE SDGS IN A CHANGING LANDSCAPE © OECD/SDSN 2024 
+  
+Energy  
+• 
+Incentivise decarbonisation both in production and consumption. In order to contribute to 
+SDG 7, LRGs need to encourage the decarbonisation of energy production, energy efficiency 
+improvements in buildings, industry and transport sectors and the electrification of current fossil 
+fuel use. Public-private partnerships and the issuance of municipal bonds and green, social and 
+sustainable bonds could help finance respective measures to do so. In particular, LRGs should: 
+o 
+Negotiate with energy providers for a cleaner energy mix or establish a public utility. LRGs can 
+negotiate long-term power purchase agreements with energy providers to finance the 
+installation of greener sources of energy over the medium term. They can also harness group 
+purchasing, such as Community Choice Aggregation or other models, to procure a greener mix 
+of energy from a utility on behalf of citizens and the local government. Some LRGs have 
+established publicly owned energy companies to invest directly in green energy generation and 
+supply, which could help finance additional measures and incentives to decarbonise production 
+and consumption. 
+o 
+Offer technical (e.g. public, accessible consultancy services) and financial support – grants, 
+local tax rebates, soft loans in partnership with local banks and development banks – to small 
+and medium-sized enterprises and/or lower-income households to incentivise building 
+renovation measures.  
+o 
+Improve energy efficiency in the industrial and transport sectors and electrify current fossil fuel 
+use outside power generation, e.g. through low-interest loans to industrial businesses for 
+energy efficiency upgrades, setting up energy efficiency standards and the incentivisation of 
+low-carbon transport through support programmes for electric vehicles.  
+o 
+Promote the generation of local energy for local consumption, e.g. by incentivising district 
+heating or district cooling systems to foster more sustainable and energy-efficient alternatives 
+compared to individual building-based heating and cooling solutions. 
+o 
+Foster behavioural change among relevant key territorial stakeholders through awareness-
+raising (e.g. energy efficiency competitions between schools, municipal offices or social 
+housing blocks, direct marketing to citizens); partnerships with local non-profits and territorial 
+stakeholders to analyse local energy savings opportunities; and faster processes and 
+permitting from urban planning authorities for new construction projects that propose to meet 
+or exceed ambitious local energy efficiency standards.  
+• 
+Lead by example to decarbonise government-owned buildings and assets. Government-
+owned and operated office buildings, social housing, infrastructure and vehicle fleets can be 
+leveraged to achieve SDG 7 at the local level. LRGs, where possible, should: 
+o 
+Set ambitious energy performance standards and regulations for new construction. 
+o 
+Collect data on the energy performance of their building stock.  
+o 
+Develop and implement green procurement policies for new construction and refurbishment, 
+which include a focus on whole life carbon and circularity.  
+o 
+Finance energy retrofits for buildings and infrastructure through green bonds and other 
+instruments that link repayment to energy savings.  
+o 
+Progressively electrify LRG-owned transport fleets (personal, utility and maintenance vehicles). 
+o 
+In cases where cities own or have delegated authority over lighting infrastructure, retrofits to 
+LED and smart management of lighting can generate significant savings and reduce their 
+carbon dioxide footprint. Building and infrastructure retrofits can be conducted by local 
+governments alone or via multi-stakeholder and public-private partnerships. On-site and local 
+energy generation from renewable sources on LRG-owned property and large-scale,
+
+page 40:
+ 39 
+LOCALISING THE SDGS IN A CHANGING LANDSCAPE © OECD/SDSN 2024  
+  
+longer-term solutions such as district heating and cooling can also be financed in this way and 
+significantly contribute to decarbonisation efforts.  
+Food  
+• 
+Promote sustainable food systems. There are several tools that could help cities and regions 
+advance sustainable food systems (SDG 2), for example:  
+o 
+Support local and regional food production, e.g. promoting urban and peri-urban agriculture to 
+increase local food production and facilitating the creation of community gardens and 
+allotments. 
+o 
+Adopt a holistic approach to food systems by developing urban food strategies that intertwine 
+food policy with urban development strategies, thus connecting the social and economic 
+dimensions of food systems. 
+o 
+Promote the systematic knowledge sharing of cities’ actions and best practices for sustainable 
+food systems whereby frontrunner cities (e.g. Milan, New York and Strasbourg, among others) 
+can inspire other cities. 
+o 
+Enhance a circular transition in the food sector through public procurement requirements for 
+canteens and food services, e.g. by applying life cycle and environmental criteria to contribute 
+to sustainable, organic and responsible product supplies whilst minimising and, in the best 
+case, avoiding negative environmental impacts and waste creation. 
+o 
+Foster circular food systems, e.g. systems for food waste recovery and composting, to close 
+the nutrient loop and reduce landfill waste and by encouraging the use of sustainable and 
+recyclable packaging materials. 
+• 
+Reduce food waste. Local and regional governments could implement several measures to 
+incentivise the reduction of food waste within their territory (SDG 2):  
+o 
+Encourage a circular economy approach, e.g. by developing a comprehensive circular 
+economy strategy, incentivising circular food supply chains and encouraging the purchase of 
+goods and services from circular businesses.  
+o 
+Support and collaborate with organisations that rescue surplus food and distribute it to those 
+in need, e.g. food banks and supermarket initiatives. Additionally, promote the use of 
+technology-based solutions like food recovery applications that connect surplus food providers 
+with recipients, minimising waste. 
+o 
+Set specific targets for cutting down food waste and implement regulations to hold businesses 
+accountable for meeting these targets, e.g. require food-related businesses, such as 
+restaurants and supermarkets, to report their food waste data regularly, thereby encouraging 
+better waste management through increased transparency.  
+o 
+Initiate public awareness campaigns to educate citizens and the private sector about the 
+environmental and economic impacts of food waste and work with local non-governmental 
+organisations and businesses to reduce food waste collectively. Establishing a certification or 
+recognition programme for businesses that actively work to reduce food waste can also 
+incentivise customers to choose such products.
+
+
+
+===== OCDE_2024_7_Annex_A_Examples_of_Policies_and_Actions_Implemented_by_Cities_and_Regions =====
+
+page 42:
+ 41 
+LOCALISING THE SDGS IN A CHANGING LANDSCAPE © OECD/SDSN 2024 
+Annex A. Examples of policies and actions 
+implemented by cities and regions 
+ Table A.1. Policies and actions put in place by cities and regions responding to the survey 
+Type of action 
+Example 
+Policies and actions adopted for the 
+implementation of the SDGs  
+•
+The city of Tallinn, Estonia, has aligned its strategic and operational targets, integrating 
+United Nations Sustainable Development Goal (SDG) indicators to drive sustainable 
+development. 
+•
+The city of Zagreb, Croatia, tracks its performance through SDG indicators that are part of the 
+city’s urban development strategy’s annual reporting and are directly linked to the national 
+development strategy. 
+•
+The autonomous province of Bolzano, Italy, has created an alliance for sustainability with 
+research institutes and universities, fostering joint efforts in implementing the SDGs in the
+province.
+•
+The region of Catalunya, Spain, has created the Catalonia 2030 Alliance, a partnership of 
+public and private entities willing to work together to accelerate the achievement of the SDGs. 
+•
+The city of Manresa, Spain, has established a subsidy scheme for dissemination and training
+on the 2030 Agenda in its municipality.
+•
+The city of Florence, Italy, has integrated the SDGs into its 2030 Agenda strategy. 
+•
+The state of Brandenburg, Germany, has established discussions fora within and for 
+municipalities and civil society to advance the implementation of the SDGs in its territory. 
+Types of data used to track progress on the 
+SDGs 
+•
+The Central Denmark Region uses qualitative data through good practice examples that are 
+showcased to stakeholders who want to raise awareness of the SDGs. 
+•
+The municipality of Speyer, Germany, conducts regular sustainability surveys with a 
+representative sample of citizens. 
+•
+The city of Dresden, Germany, uses the data portal www.wegweiser-kommune.de provided by 
+the Bertelsmann Stiftung.
+•
+The municipality of San Valentino in Abruzzo Citeriore, Italy, uses indicators provided by the 
+association Rete dei Comuni Sostenibili (Network of Sustainable Municipalities). 
+•
+The municipality of Fundão, Portugal, uses data from the Municipal Sustainability Index
+provided by Cesop Local (https://cesop-local.ucp.pt/).
+•
+The region of Catalunya, Spain, uses data provided by research centres, universities and 
+relevant stakeholders.
+Measures put in place to respond to 
+increasing price levels  
+•
+The state of Brandenburg, Germany, has implemented support measures for municipalities to 
+accommodate refugees, enhance social infrastructure (e.g. healthcare and schools) and 
+provide assistance to specific groups (e.g. students).
+•
+The municipality of Pombal, Portugal, has established financial support programmes to assist 
+families with newborns.
+•
+The city of Roeselare, Belgium, has implemented measures to provide support to local
+associations.
+•
+The state of Saarland, Germany, has established the programme Das Saarland rückt
+zusammen (The Saarland is moving closer together) covering measures across five areas: 
+i) providing warm meals and safe places; ii) offering overnight accommodations; 
+iii) strengthening voluntary work; iv) enhancing emergency support and counselling services; 
+and v) addressing poverty among the elderly.
+•
+The city of Bratislava, Slovak Republic, has offered financial aid to schools, social services and
+cultural facilities.
+
+page 43:
+42  
+LOCALISING THE SDGS IN A CHANGING LANDSCAPE © OECD/SDSN 2024 
+Type of action 
+Example 
+Responses to growing pressures on the 
+international energy market 
+•
+The region of Häme, Finland, has initiated new projects and plans related to the use of 
+renewable energy sources.
+•
+The administrative district of Gmina Solec Kujawski, Poland, has implemented policies aimed 
+at lowering electricity and heat consumption.
+•
+The region of Catalunya, Spain, has created a new public energy agency. 
+Measures to achieve a sustainable food 
+system and reduce food waste 
+•
+The city of Helsinki, Finland, has expanded its co-operation with food banks and developed 
+surplus food systems. 
+•
+The city of Oulu, Finland, has organised awareness-raising campaigns to educate youth on 
+reducing food waste. 
+•
+The city of Bonn, Germany, has launched campaigns to raise awareness among the population 
+about the benefits of consuming locally produced food.
+•
+The city of Thessaloniki, Greece, has established a local food council to develop sustainable 
+food policies and systems, and it runs a Horizon Europe research and innovation programme 
+called Food Trails, which focuses on urban agriculture initiatives.
+•
+The Marche region, Italy, is funding several projects aimed at assisting municipalities in 
+tackling food waste. Additionally, the regional sustainable development strategy emphasises 
+the adoption of agricultural practices that safeguard soils, waters and biological heritage in 
+response to climate change.
+•
+The region of Catalunya, Spain, has established a regional food council that involves key 
+stakeholders in the food system and engages experts to foster collaboration and sustainable
+practices in the food sector.
+

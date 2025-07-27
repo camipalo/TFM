@@ -1,0 +1,2050 @@
+
+
+===== GLOBAL_SGD2025_1_Executive_Summary =====
+
+page 10:
+viii
+Sustainable Development Report 2025   
+   The SDGs and the UN Summit of the Future
+Executive Summary
+Since 2016, the Sustainable Development Report (SDR) has provided the most up-to-date data available to 
+track and rank the performance of all UN member states on the SDGs. Eighty years after the creation of the 
+UN system, the report also provides improved and updated measures to track countries’ efforts to support 
+UN-based multilateralism. In total, more than 200,000 individual data points are used to produce 200+ country 
+and regional SDG profiles. This year’s edition was authored by a group of independent experts at the SDG 
+Transformation Center, an initiative of the SDSN. 
+This year’s SDR emphasizes the following eight key messages: 
+1.	 Global commitment to the SDGs is strong: 190 out of 193 countries have presented national action 
+plans for advancing sustainable development. A decade after the adoption of Agenda 2030 and the 
+SDGs, 190 of the 193 UN member states have participated in the Voluntary National Review (VNR) process, 
+presenting their SDG implementation plans and sustainable development priorities to the international com-
+munity. The European Union and State of Palestine have also presented VNRs. Most UN member states have 
+presented two or more VNRs, and 39 countries volunteered to present one in 2025. Only three UN member 
+states have not taken part in the VNR process: Haiti, Myanmar, and the United States. Additionally, a growing 
+number of regional and local leaders have prepared Voluntary Local Reviews (VLRs) to report on SDG imple-
+mentation at the subnational level. As of March 2025, 249 VLRs were listed on the dedicated UN website.
+2.	 East and South Asia has outperformed all other regions in SDG progress since 2015. This year’s SDR 
+introduces a steamlined SDG Index (SDGi), which uses 17 headline indicators to track overall SDG progress. 
+On average, East and South Asia has shown the fastest progress on the SDGs since 2015, driven notably by 
+rapid progress on the socioeconomic targets. 
+3.	 Other countries that have progressed more rapidly than their peers include the following: Benin 
+(Sub-Saharan Africa), Nepal (East and South Asia), Peru (Latin America and the Caribbean), the United Arab 
+Emirates (Middle East and North Africa), Uzbekistan (Eastern Europe and Central Asia), Costa Rica (OECD), 
+and Saudi Arabia (G20). 
+4.	 European countries continue to top the SDG Index. Finland ranks first this year and 19 of the top 20 
+countries are in Europe. Yet even these countries face significant challenges in achieving at least two goals, 
+including those related to climate and biodiversity. In this year’s SDG Index, China (#49) and India (#99) 
+have entered the top 50 and top 100 performers respectively.
+5.	 On average globally, the SDGs are far off-track. At the global level, none of the 17 goals are currently 
+on course to be achieved by 2030. Conflicts, structural vulnerabilities, and limited fiscal space impede SDG 
+progress in many parts of the world. But while only 17 percent of the targets are on track to be achieved 
+worldwide, most UN member states have made strong progress on targets related to access to basic ser-
+vices and infrastructure, including mobile broadband use (SDG 9), access to electricity (SDG 7), internet use 
+(SDG 9), under-5 mortality rate (SDG 3), and neonatal mortality (SDG 3).
+
+page 11:
+ix
+Sustainable Development Report 2025   
+   Financing Sustainable Development to 2030 and Mid-Century
+Executive Summary
+6.	 Barbados ranks first and the United States ranks last in UN-based multilateralism. Barbados stands 
+out as the country most committed to UN-based multilateralism, while the United States ranks last in this 
+year’s Index of countries’ support for UN-based multilateralism (UN-Mi). In early 2025, the United States 
+announced its withdrawal from the Paris Climate Agreement and the World Health Organization (WHO) and 
+formally declared its opposition to the SDGs and the 2030 Agenda. Among G20 countries, Brazil is the most 
+committed to UN-based multilateralism, with Chile leading among OECD countries.
+7.	 For many developing countries, a lack of fiscal space is the major obstacle to SDG progress. Roughly 
+half the world’s population lives in countries that cannot invest adequately in sustainable development due 
+to debt burdens and a lack of access to affordable, long-term capital. Global public goods are vastly under-
+financed. UN member states gathering at the 4th International Conference on Financing for Development 
+(FfD4) in Seville, Spain (June 30 – July 3, 2025) have an enormous responsibility, not only to their own citizens 
+but to all of humanity. 
+8.	 Sustainable development offers high returns: capital should flow to the emerging and developing 
+countries on more favourable terms. The Global Financial Architecture (GFA) is broken. Money flows 
+readily to rich countries and not to the emerging and developing economies (EMDEs) that offer higher 
+growth potential and rates of return. At the top of the agenda at FfD4 is the need to reform the GFA so that 
+capital flows in far larger sums to the EMDEs. Part 1 of this report (also published online by the SDSN in 
+May 2025) offers practical recommendations to scale up and align international financing flows to support 
+global public goods and achieve sustainable development.
+
+
+
+===== GLOBAL_SGD2025_2_Financing_for_Development =====
+
+page 13:
+1
+Sustainable Development Report 2025   
+   Financing Sustainable Development to 2030 and Mid-Century
+Financing for Development
+Statement of the UN Sustainable Development Solutions Network1
+Part 1 
+The UN member states meeting in Seville have a 
+responsibility not only to their own citizens but to all of 
+humanity. Member states must act together in partner-
+ship and good fath for the common good of humanity. 
+No single member state of the United Nations can 
+excuse itself from the responsibility to contribute fairly 
+and adequately to the provision of global public goods 
+and services. High-income member states have a 
+special responsibility, both as a matter of distributive 
+justice – that the rich not leave the poor behind – and 
+as a matter of reparative justice – that those countries 
+that contributed most to greenhouse gas emissions 
+and other environmental harms in the past must do 
+the most to curb their emissions in the future and to 
+compensate the other countries for the damages their 
+past actions have caused. No individual member state 
+can shirk the demands of justice. 
+There are four categories of public goods that must be 
+addressed in Seville. First, UN member states must ade-
+quately finance the UN system itself. The overall cost 
+of UN operations is a paltry sum – just US$46 billion 
+in 2023 (the year of most recent data) compared with 
+US$2.4 trillion spent worldwide on the military that year. 
+The United States paid US$13 billion towards UN opera-
+tions in 2023, compared with US$916 billion on military 
+outlays. The UN budget must be met in full, and indeed 
+increased. Efficiencies in UN operations are to be wel-
+comed, but cutting UN budgets at a time of pervasive 
+conflicts, human displacements, climate disasters, 
+epidemic diseases, and other crises is unacceptable. 
+Second, UN member states must increase their official 
+financing of the Sustainable Development Goals (SDGs) 
+in the lead-up to 2030, including providing debt relief as 
+needed to create the fiscal space to achieve them. Since 
+2016, SDG financing from official sources has received 
+remarkably short shrift. The high-income countries 
+have delayed critical capital increases at the World Bank 
+and other multilateral development banks, even though 
+the SDG financing gap is large and well documented, 
+and delayed critical increases in International Monetary 
+Fund quotas and Special Drawing Rights allocations. 
+Third, UN member states must increase their financing 
+of the global commons, including the biodiversity of 
+the world’s tropical rainforests; the marine life of the 
+oceans; and the protection of the atmosphere, fresh-
+water, soils, coastlines, wetlands, and other ecosystems 
+from transboundary pollution and global-scale degrada-
+tion. The high-income countries bear the responsibility 
+for filling the funds they have designated for these 
+purposes, including the Adaptation Fund, the Loss and 
+Damage Fund, the Green Climate Fund, and others.
+Fourth, UN member states must agree on critical 
+reforms of the international financial markets to ensure 
+that world savings flow to countries with the highest 
+investment returns and the highest growth prospects 
+– which are the world’s poorer countries. This is not 
+the case today. The international financial markets are 
+led by faulty regulations and policies to favor countries 
+that use the major international currencies, notably 
+the US dollar and the euro, as well as countries already 
+1.	 A previous version of this statement was adopted by the Fraternal 
+Economy of Integral and Sustainable Development programme of 
+the Pontifical Academy of Social Sciences. The SDSN dedicates this 
+statement to the memory of Pope Francis, a towering champion 
+of the poor, the planet, and sustainable human development.
+Overview
+The upcoming Fourth International Conference on Financing for Development (FfD4), in Seville, Spain from 
+June 30 – July 3, 2025, should send a message of hope that humanity’s global goals to end poverty and 
+contain the climate emergency are within reach. Key reforms to the International Financial Architecture 
+– the system of public and private finance that channels the world’s savings to the world’s investments – 
+should be adopted at this conference to bring these vital objectives within reach. As the United Nations 
+member states pledged in Agenda 2030, let us leave no one behind.
+
+page 14:
+2
+Sustainable Development Report 2025   
+   Financing Sustainable Development to 2030 and Mid-Century
+favored by the US Federal Reserve and the European 
+Central Bank. The rest of the world, especially poorer 
+countries, is largely cut off from international capital 
+by low credit ratings that punish poor countries as a 
+matter of formula rather than economic logic, and by a 
+maze of unilateral economic sanctions imposed by the 
+key-currency countries. The IMF and the World Bank 
+also fail to recognize the crucial positive role of long-
+term debt financing for development, instead favoring 
+a debt sustainability system that discourages or even 
+bars the long-term financing of infrastructure and 
+human capital in poorer countries. 
+We call for a bold outcome that has four parts. First, 
+the core outcome document from FfD4 should express 
+the consensus of UN member states, if not neces-
+sarily their unanimity. No single state or small group 
+of states should block the collective will of the UN 
+member states. The core outcome document should 
+strongly reaffirm the global sustainability frameworks 
+and agreements (Agenda 2030, the Sustainable 
+Development Goals, the Paris Climate Agreement, and 
+the Montreal-Kunming Biodiversity Framework) and 
+the overarching principles of sustainable development, 
+distributive and reparative justice, common but differ-
+entiated responsibilities, and collective responsibility 
+for the UN system, and commit to fixing the global 
+financial architecture to ensure the financing needed 
+for sustainable development. 
+Second, there should be room for reservations by indi-
+vidual states, to enable them to express their concerns 
+without blocking the action of the consensus of member 
+states. No single state or small number of states 
+should impede actions supported by the majority of UN 
+members, representing most of the world’s population. 
+Third, there should be room for high-ambition initiatives 
+by “coalitions of the willing”. FfD4 should encourage and 
+welcome bold actions by individual regions or groups of 
+nations that in turn inspire other nations and regions to 
+raise their ambitions as well. 
+Fourth, there should be a clear list of specific action 
+items that can be reported to the world in clear and 
+unmistakable terms, along with timelines and mea-
+surements for accountability. The highest priorities 
+include: (1) full funding of the UN system; (2) substan-
+tial increases in official funding by the World Bank, 
+multilateral development banks, and the International 
+Monetary Fund, backed as necessary by capital 
+increases at these institutions, and debt relief as 
+needed to increase vital fiscal space; (3) proper funding 
+of the institutions established to protect the global 
+commons, including the Global Environmental Facility, 
+the Adaptation Fund, and the Loss and Damage Fund, 
+with clear assessments by country and new revenues 
+raised via international taxes (e.g. on international 
+shipping, aviation, and greenhouse emissions) and 
+other agreed means; (4) clear steps to reform the 
+regulation of private capital markets, including revamp-
+ing the credit rating system and the IMF-World Bank 
+Debt Sustainability Framework to increase capital flows 
+to high-return investments in low-income countries, 
+with a commitment to report back to the UN General 
+Assembly on these measures in 2026. 
+PART 1 – FINANCING FOR DEVELOPMENT
+
+page 15:
+Statement of the UN Sustainable Development Solutions Network on 
+The Fourth International Conference on Financing for Development (FfD4)
+3
+Sustainable Development Report 2025   
+   Financing Sustainable Development to 2030 and Mid-Century
+Statement of the UN Sustainable 
+Development Solutions Network on 
+The Fourth International Conference 
+on Financing for Development (FfD4)
+Agenda 2030 and the Paris Climate Agreement further 
+the common good of humanity, and humanity and 
+the United Nations member states must actively work 
+towards achieving them. Yet less than 20 percent of the 
+SDG targets are on track to be achieved by 2030, and 
+the climate crisis is rapidly worsening. No UN member 
+state can exempt itself from this work, particularly at 
+a time when unilateral actions by individual states can 
+cause irreparable damage for the present and future 
+generations of all humanity. 
+The world is also beset by violent conflicts that claim 
+innocent lives and threaten global survival. We must 
+redouble our efforts towards peace and ensure for all 
+people the material conditions of survival and dignity 
+that are necessary for peace. We align ourselves with 
+the Alliance for Peace adopted in Gernika, Spain under 
+the auspices of the UN Alliance of Civilizations and in 
+partnership with the UN Sustainable Development 
+Solutions Network. 
+Sustainable development is a high-
+return activity
+The job of finance is to bring the fruits of technologi-
+cal advances to benefit all of humanity, including our 
+impoverished brothers and sisters in conflict zones and 
+places hard hit by the ravages of high-intensity trop-
+ical cyclones, droughts, floods, heatwaves and forest 
+fires that are occurring with increasing frequency as 
+the result of human-induced climate change. We have 
+powerful tools at our disposal – zero-carbon energy, 
+open-source AI, precision agriculture, biodiversity con-
+servation. We must undertake the needed investments 
+to bring these solutions to bear at the global scale. 
+There is more good news for finance: economic 
+development is a high-return activity. This means that 
+properly designed financial markets can channel the 
+world’s savings not only to high-income countries that 
+are already prosperous, but even more to the world’s 
+poorer countries, which have the potential for rapid 
+“catch-up” economic advancement. We note with 
+satisfaction that today’s emerging market and devel-
+oping economies (EMDEs) routinely achieve faster 
+economic growth than do high-income countries, a 
+process that economists call “economic convergence”. 
+Indeed, the poorer a country is today, the greater its 
+growth potential and the higher the return on invest-
+ment. With properly functioning international financial 
+markets associated with key institutional reforms within 
+emerging economies to reduce investment risks and 
+to channel investments towards economic, social, and 
+environmental priorities, the stream of annual global 
+savings – roughly US$30 trillion per year – will flow in a 
+vast and rising current to meet the needs and fulfill the 
+potential of the poorest countries.
+In addition to investing in the planet’s environmental 
+sustainability, the most reliably high return on the 
+planet comes from investing in the health and educa-
+tion of a young child in a low-income country in Africa, 
+Asia, Oceania, or Latin America and the Caribbean. 
+Education not only fosters dignity, fulfillment, and 
+wellbeing, but also delivers remarkable and reliable 
+economic benefits; leading economists to describe 
+healthcare, nutrition, and education as investments in 
+human capital. Such investments have a huge financial 
+payoff with perhaps a 20 percent compound annual 
+return when they are broad-based and of good quality. 
+The most pressing practical challenge is to enable 
+such investments even in impoverished areas where 
+governments currently lack the revenue to provide 
+health services, nutritional supplementation, and quality 
+schooling for all children. We recall with alarm, sadness, 
+and determination that some 250 million children are 
+out of school because of the poverty of their societies, 
+an estimated 733 million people struggle with chronic 
+hunger, and roughly a third of humanity cannot afford 
+a healthy diet. Sound international finance could and 
+would channel long-term grants and loans to the 
+poorest nations, allowing governments to ensure 
+that all children receive the start in life they need and 
+are enabled to achieve higher earnings in the future, 
+so creating the very means for countries to repay 
+1. Financing for Development
+
+page 16:
+4
+Sustainable Development Report 2025   
+   Financing Sustainable Development to 2030 and Mid-Century
+international debts. For the millions of out-of-school, 
+poor children living in middle-income countries, domes-
+tic financing and accountable governance can ensure 
+that even the poorest within these societies have access 
+to health, nutrition, and quality education.
+The potential of cutting-edge 
+technologies to advance sustainable 
+development 
+This past year has brought us new fruits of human 
+ingenuity. DeepSeek, an ingenious AI engine devised 
+by young Chinese engineers, building on the ingenuity 
+of AI pioneers, offers a powerful low-cost, open-source 
+AI system that can benefit humanity. BYD, another 
+innovative Chinese company, unveiled a system that 
+charges electric vehicles in just five minutes, bringing 
+the dream of convenient, low-cost and zero-emission 
+mobility within reach. The 2024 Nobel prizes in chemis-
+try and physics awarded to British and British-Canadian 
+scientists celebrated breakthroughs in protein folding 
+and machine learning, offering prospects for drug 
+development and other stunning breakthroughs that 
+could benefit human health and global prosperity. We 
+are aware that advances in technology can be used for 
+good or ill, but we emphasize their potential to enhance 
+human wellbeing and advance the SDGs. We call on 
+governments and policymakers to collaborate with 
+scholars and civil society to establish legal, regulatory, 
+and ethical frameworks to direct innovations towards 
+the common good. We call on FfD4 to adopt measures 
+to ensure that these new technologies are accessible to 
+all parts of the planet, to rich and poor alike. 
+Reforming the International Financial 
+Architecture 
+Scaling-up affordable and long-term financing
+We emphasize, therefore, that the most important 
+practical problem facing UN members at FfD4 is how 
+to enable the vast US$30 trillion pool of world savings 
+to flow in much larger amounts to where they are 
+most in need: to low-income and lower-middle income 
+countries and those most vulnerable to global envi-
+ronmental shocks, and to the poorest people within all 
+countries. For that, we must reform the international 
+financial architecture. As a practical matter, the interna-
+tional financial architecture should ensure that global 
+savings flow to EMDEs with long maturities and low 
+capital costs, are aligned to their investment needs, 
+and have realistic timelines for long-term convergent 
+growth in these countries. 
+Financing for economic development is within reach, 
+but the timeline of development must be understood 
+and respected by the international financial system. A 
+3-year-old child in Uganda today, if suitably enabled, 
+empowered, and financed, will graduate university 
+in 20 years. She will then work for another 20 years 
+to reap the returns on her education, a period long 
+enough to pay income taxes that repay the costs of her 
+education. Uganda can therefore prudently borrow to 
+finance the education of its children, to be repaid out 
+of their bountiful future earnings, if the loans have long 
+maturities (such as 40 years) and low interest rates 
+that properly reflect the high returns of education and 
+therefore the true “bankability” of the loans. 
+We call on the UN member states meeting in Seville 
+to redesign the international financial architecture in 
+accord with the high potential and realistic timeline 
+of economic convergence. For impoverished nations 
+struggling under the weight of unsustainable debt 
+and burdensome debt servicing, we call for debt relief 
+consistent with the Jubilee Year. Debt relief should 
+entail at the least a restructuring of the outstanding 
+debts of heavily burdened countries, so that their debts 
+fall due not in the immediate future but in 30–40 years: 
+a realistic timeline that aligns with future economic 
+growth. We also call on creditor governments to swap 
+outstanding debts for investments in climate safety 
+(debt-for-climate swaps), the protection of biodiversity 
+(debt-for-nature swaps), and education (debt-for-edu-
+cation swaps), in line with Pope Francis’s declaration of 
+2025 as a Jubilee Year:
+“If we really wish to prepare a path to peace in 
+our world, let us commit ourselves to remedying 
+the remote causes of injustice, settling unjust 
+and unpayable debts, and feeding the hungry.” 
+PART 1 – FINANCING FOR DEVELOPMENT
+
+page 17:
+Reforming the International Financial Architecture 
+5
+Sustainable Development Report 2025   
+   Financing Sustainable Development to 2030 and Mid-Century
+We note that in most cases the true debt challenge 
+is not the absolute scale of the debt, but rather its 
+terms. Until now, the international financial system has 
+burdened developing country borrowers with subjec-
+tive risk assessments of their international borrowing 
+capacities that are not aligned with the underlying 
+economic fundamentals of emerging economies. The 
+essential fact is that poorer countries offer higher 
+growth potential and higher returns on capital than 
+rich countries. Capital should flow to these countries. 
+Instead, they are condemned by short-term and short-
+sighted analyses from credit rating agencies and the 
+Bretton Woods institutions. As a result, they pay exor-
+bitant yields and are pushed to accept short maturities 
+on their market borrowing. 
+One consequence is what economists call “self-fulfill-
+ing panics”. Since the maturities are short, the debts 
+must be refinanced every 5 to 10 years. The grave 
+structural problem is that refinancing debts is rarely 
+routine. Financial markets are inherently unstable 
+and prone to self-fulfilling panics and crises within 
+the domestic banking sector, in the international 
+inter-bank market, and in the global bond refinance 
+market. When a government borrows at 7 years in 
+the Eurobond market, it may not be able to float new 
+bonds when the existing one falls due. The obvious 
+and crucial remedy is to match the time horizon of the 
+loan with a realistic horizon for long-term economic 
+growth (especially considering that the returns on 
+investments in human capital typically require 20 to 40 
+years to come to fruition). 
+The EMDEs suffer mightily from inaccurate and unjust 
+credit ratings that attribute extreme and largely 
+self-fulfilling risks to investments in their countries. The 
+simple fact is that the EMDEs are good credit prospects 
+if the financing program is well designed (with long 
+maturities and affordable yields); the national economy is 
+well managed (fiscal rules and sound debt management 
+systems); the investment program is well targeted to 
+infrastructure, human capital, and business development; 
+and LLR services are available. In such circumstances, 
+the overriding truth is that today’s poorer countries have 
+very high growth potential and high investment returns. 
+Indeed, their potential economic growth and return on 
+investment are far higher than in high-income countries. 
+We therefore call on the IMF and the World Bank in 
+their Debt Sustainability Framework (DSF), and to the 
+credit rating agencies, to revamp their methodologies 
+to take account of: the high potential growth of poorer 
+countries if they can access the necessary financing 
+for development; the maturity structure of loans 
+(awarding higher credit ratings and debt-sustainability 
+assessments to long-term loans); the quality of a 
+country’s debt management systems; the presence of 
+a domestic and/or international lender of last resort; 
+and the uses of the external financing, recognizing the 
+growth-creating benefits of high-return investments 
+in human capital and physical infrastructure. Official 
+financing should be accorded based on growth poten-
+tial, good governance, and financing needs – not on the 
+foreign policy considerations of one or another major 
+power. Financing needs should be calibrated on the 
+basis of integrated assessments that consider eco-
+nomic, social, and environmental needs and objectives. 
+One immediate change in the methodology used 
+by credit rating agencies that is both urgent and will 
+greatly enhance global growth and economic efficiency 
+is to end the practice of “sovereign ceilings” on the 
+credit ratings of private-sector entities in the EMDEs. 
+According to this doctrine, no private-sector borrower 
+can be accorded a credit rating higher than their 
+country’s sovereign credit rating. This methodology 
+makes no analytical sense and is a shorthand of the 
+credit rating agencies. Many private-sector borrowers 
+are plainly in a position to service their debts, whether 
+or not their government is experiencing debt distress. 
+A private-sector borrower may have sufficient collateral, 
+liquidity, or a dedicated flow of revenue in the foreign 
+currency to render it a low credit risk, independent 
+of conditions facing its government. Historical data 
+confirms the high credit performance of multilateral 
+development banks (MDBs) and other development 
+finance institutions in their private-sector operations.
+Central banks and monetary unions 
+In addition to preferring long-term loan maturities, 
+there are additional solutions for short-term maturities. 
+First, to the maximum extent possible, countries should 
+borrow in their national currencies, so that their own 
+1. Financing for Development
+
+page 18:
+6
+Sustainable Development Report 2025   
+   Financing Sustainable Development to 2030 and Mid-Century
+central banks can provide Lender of Last Resort (LLR) 
+assistance if the international financial market plunges 
+into yet another financial panic. Even if the country’s 
+borrowing is in a foreign currency, the central bank of 
+that currency (i.e., the US Federal Reserve in the case 
+of dollar-denominated borrowing) should provide cur-
+rency swaps to the central bank of the indebted country 
+to break a self-fulfilling panic. In effect, the Federal 
+Reserve would fulfill the vital function of (International) 
+Lender of Last Resort (ILLR). 
+A third approach, first proposed in 1944 by the econ-
+omist John Maynard Keynes, is for the IMF to be 
+empowered to serve as the ILLR, utilizing a greatly 
+expanded Special Drawing Rights (SDR) allocation as 
+the IMF’s operating instrument. All these solutions 
+may be bolstered in the intermediate term (in 10 to 20 
+years) by the emergence of new monetary unions in the 
+major regional economic groups, including the African 
+Union, Mercosur, ASEAN, the Arab League, the Eurasian 
+Economic Union, and others, recognizing that monetary 
+unions require considerable support through the eco-
+nomic, fiscal, and political integration of their members. 
+Monetary unions (such as the euro) facilitate borrowing 
+in a country’s own currency and would enable their 
+central banks to serve as lenders of last resort. 
+The governance of multilateral financial 
+Institutions
+The IMF and many other multilateral financial institu-
+tions also need to reform their governance to give due 
+weight to developing countries. To take one example, 
+the IMF currently allocates only 17 percent of voting 
+power to the 10 BRICS countries, even though these 
+countries account for 27 percent of global output 
+measured at market prices, 39 percent of global output 
+measured at purchasing-power prices, and 46 percent 
+of the world’s population. 
+We also note with urgency the powerful case for greatly 
+scaling up the flow of new lending by the multilateral 
+development banks (MDBs), including the World Bank 
+and regional development banks. MDB lending has an 
+outstanding long-term track record, reflecting the finan-
+cial expertise of the MDBs and the Preferred Creditor 
+Treatment (PCT) accorded to MDB financing. The 
+problem is that the scale of overall MDB financing today 
+is only a fraction of what is needed to achieve our global 
+goals. MDB financing can and should be bolstered in 
+several ways: higher leverage on the MDBs’ current 
+capital bases; new capital increases, either across the 
+board of member states or from willing members only 
+in the case of opposition from one or another member 
+state; and co-financing of non-sovereign loans by 
+private-sector institutional investors such as ILX, which 
+creatively draws in pension fund capital in partnership 
+with MDB financing, benefitting from the MDBs’ status 
+as international financial institutions. 
+We note as well the importance of new private credit 
+managers in mobilizing private-sector financing for 
+EMDEs, either through standalone private financing 
+or blended financing in cooperation with MDBs. We 
+also note that large-scale infrastructure investment 
+initiatives – such as China’s Belt and Road Initiative or 
+Europe’s Global Gateway – can accelerate connectivity 
+across people and nations. Borrowing countries too 
+can create new national and multilateral institutions, 
+including national development banks and sovereign 
+wealth funds, to enable sophisticated borrowing strat-
+egies with improved bankability of projects and lower 
+capital costs. 
+Partnerships among MDBs but also with PDBs, for 
+instance as part of the Financing in Common Initiative 
+(FICs), can help accelerate the convergence towards 
+shared standards and best practices, and to support 
+banks’ commitments to shift their strategies towards 
+achieving the SDGs.
+Financing global public goods
+In addition to massively scaling-up long-term loans at 
+low interest rates to the EMDEs (both through direct 
+funding from capital markets and through MDBs) 
+there is a need to fund global public goods that are 
+not suitable for loan or equity financing. These include 
+providing social assistance to the poorest of the poor, 
+funding UN institutions, and protecting the global 
+commons (oceans, the atmosphere, tropical forests, 
+space, endangered species, and critical biomes). 
+PART 1 – FINANCING FOR DEVELOPMENT
+
+page 19:
+Reforming the International Financial Architecture 
+7
+Sustainable Development Report 2025   
+   Financing Sustainable Development to 2030 and Mid-Century
+The world has long called for official development 
+assistance (ODA) for such purposes, yet ODA has never 
+reached the global commitment of 0.7 percent of donor 
+nations’ gross national income (GNI), an objective 
+adopted by the UN General Assembly back in 1971. 
+Today, however, ODA is collapsing, in a veritable free fall, 
+undermined by political populism and shortsightedness 
+in which donor governments fail to recognize their 
+moral and legal responsibilities. ODA, after all, reflects 
+a combination of distributive justice (ensuring that no 
+one is left behind), reparative justice (repaying debts 
+owed for past harms, whether from slavery, imperialism, 
+the emissions of climate-changing greenhouse gases, 
+or other harms to Earth’s physical systems), and inter-
+generational justice (respecting the pressing needs of 
+today’s young people and future generations). 
+The high-income UN member states must not be allowed 
+to falter in the pursuit of justice. Because traditional ODA 
+is being cut or even phased out by some countries, eco-
+nomic justice should be achieved not through voluntary 
+ODA but through compulsory assessments from UN 
+member states, including the implementation of inter-
+national taxes on maritime shipping, global aviation and 
+greenhouse gas emissions. Taxing the greenhouse gas 
+emissions of high-income countries would combine the 
+multiple dimensions of justice (distributive, reparative, 
+and intergenerational) with practical resource mobili-
+zation to help poorer and more vulnerable countries 
+undertake effective climate action. Such global taxation 
+should aim, in the first instance, to bring in 0.1 percent 
+of global GDP, or roughly US$100 billion per year, rising 
+to perhaps 1 percent of global GDP by 2040. All coun-
+tries should cooperate to crack down on tax evasion and 
+other financial crimes. To add another practical target to 
+the global commitment to a sustainable planet, we urge 
+sovereign wealth funds to allocate a meaningful portion 
+of their vast resources directly to investments in environ-
+mental sustainability. 
+Addressing multidimensional poverty
+In addressing poverty, the most important ethical principle 
+is to co-create solutions: we should act with the poor, not 
+merely for the poor. Or as the World Health Organization 
+has powerfully stated, “Nothing for us without us”. 
+Acting with the poor, small miracles can occur – moving 
+from poverty to sustenance, from barren lands to 
+flourishing food production. Smallholder farmers in 
+rural areas constitute roughly three-quarters of those 
+living in extreme income poverty and over 83 percent of 
+multidimensionally poor people. They can best be sup-
+ported in their livelihoods and wellbeing by programs 
+that raise farm outputs and incomes: those champi-
+oned by the Food and Agriculture Organization, the 
+International Fund for Agricultural Development, the 
+World Food Programme, and related agencies. 
+Corporations can also play a decisive role by designing 
+their core business strategies to empower the poorest 
+of the poor – as workers, consumers, and citizens. 
+Impact finance amounts to around a trillion dollars 
+annually in managed assets, reflecting a vast desire 
+for social and environmental impact among consum-
+ers and investors that can be tapped for the common 
+good. Greater transparency and disclosure by compa-
+nies would aid consumers in making the ethical choices 
+they desire to pursue. Similarly, accurate data on multi-
+dimensional poverty and other development challenges 
+will enable more people to respond more effectively to 
+their ethical motivations. 
+Effective governance 
+Global financing is a vital instrument of empowerment, 
+but it never stands alone. Economic convergence also 
+depends on proper management by and within the 
+borrowing countries. As economists say, convergence is 
+“conditional” on effective governance in the borrowing 
+countries. We therefore call for intensive skills training 
+in lower-income countries to empower governments 
+to plan effectively for their long-term development, 
+manage fiscal policy and international indebtedness, 
+fight corruption, and implement public investment 
+plans and public services with diligence and excel-
+lence. We call for the formation of a Borrowers Club 
+of Nations, to work alongside the Creditors Clubs, to 
+foster appropriate domestic institutions, fiscal rules, and 
+regulatory practices to achieve long-term sustainable 
+development. We also call for precise and quantified 
+metrics – on the costs of capital, the maturity of loans, 
+returns on equity, performance on the SDGs, and 
+1. Financing for Development
+
+page 20:
+8
+Sustainable Development Report 2025   
+   Financing Sustainable Development to 2030 and Mid-Century
+multi-dimensional poverty – so that commitments are 
+tested rigorously against real actions. In addition, states 
+must act in accordance with the 2030 Agenda (para-
+graph 30) and refrain from promulgating and applying 
+unilateral economic, financial, or trade measures that 
+could undermine the abilities of other countries to 
+invest in and cooperate for sustainable development. 
+The Action Agenda at FfD4
+There are four action priorities for FfD4. First, UN 
+member states must adequately finance the UN system 
+itself. The overall cost of UN operations is a paltry sum 
+– just US$46 billion in 2023 (the year of most recent 
+data) compared with US$2.4 trillion spent worldwide 
+on the military that year. The United States paid US$13 
+billion towards UN operations in 2023, compared with 
+US$916 billion on military outlays. The UN budget must 
+be met in full, and indeed increased. Efficiencies in UN 
+operations are to be welcomed, but cutting UN budgets 
+at a time of pervasive conflicts, human displacements, 
+climate disasters, epidemic diseases, and other crises is 
+unacceptable. 
+Second, UN member states must increase their official 
+financing of the Sustainable Development Goals in 
+the lead-up to 2030, including providing debt relief as 
+needed to create the fiscal space to achieve them. Since 
+2016, SDG financing from official sources has received 
+remarkably short shrift. The high-income countries have 
+delayed critical capital increases at the World Bank and 
+other multilateral development banks, even though the 
+SDG financing gap is large and well documented, as 
+well as delaying critical increases in IMF quotas and SDR 
+allocations. And creditor nations have failed to estab-
+lish fair and equitable standards of debt restructuring 
+to prevent poor and vulnerable countries from being 
+strangled by debt servicing, exacerbated by short and 
+insufficient maturities of the debts. 
+Third, UN member states must increase their financing 
+of the global commons: the biodiversity of the world’s 
+tropical rainforests; the marine life of the oceans; and 
+the protection of the atmosphere, freshwater, soils, 
+coastlines, wetlands, and other ecosystems from 
+transboundary pollution and global-scale degradation. 
+High-income countries bear the responsibility for filling 
+the funds they have designated for these purposes, 
+including the Adaptation Fund, the Loss and Damage 
+Fund, the Green Climate Fund, and others.
+Fourth, UN member states must agree on critical 
+reforms of the international financial markets to ensure 
+that the world’s savings flow to countries with the 
+highest investment returns and the highest growth 
+prospects – which are the poorer countries. This is not 
+the case today. The international financial markets are 
+led by faulty regulations and policies to favor countries 
+that use the major international currencies, notably 
+the US dollar and the euro, as well as countries already 
+favored by the US Federal Reserve and the European 
+Central Bank. The rest of the world, especially the 
+poorer countries, is largely cut off from international 
+capital by low credit ratings that punish poor countries 
+as a matter of formula rather than economic logic, and 
+by a maze of unilateral economic sanctions imposed by 
+the key-currency countries. The IMF and the World Bank 
+also fail to recognize the crucial positive role of long-
+term debt financing for development, instead favoring 
+a debt sustainability system that discourages or even 
+bars the long-term financing of infrastructure and 
+human capital in poorer countries. 
+We call for a bold outcome that has four parts. First, 
+the core outcome document from FfD4 should express 
+the consensus of UN member states, if not neces-
+sarily their unanimity. No single state or small group 
+of states should block the collective will of the UN 
+member states. The core outcome document should 
+strongly reaffirm the global sustainability frameworks 
+and agreements (Agenda 2030, the Sustainable 
+Development Goals, the Paris Climate Agreement, and 
+the Montreal-Kunming Biodiversity Framework) and 
+the overarching principles of sustainable development, 
+distributive and reparative justice, common but differ-
+entiated responsibilities, and collective responsibility 
+for the UN system, and commit to fixing the global 
+financial architecture to ensure the financing needed 
+for sustainable development. 
+Second, there should be room for reservations by 
+individual states, to enable them to express their con-
+cerns without blocking the actions of the consensus 
+PART 1 – FINANCING FOR DEVELOPMENT
+
+page 21:
+Message of Hope in Memory of Pope Francis
+9
+Sustainable Development Report 2025   
+   Financing Sustainable Development to 2030 and Mid-Century
+of member states. No single state or small number 
+of states should impede actions supported by the 
+majority of UN members, representing a majority of 
+the world’s population. 
+Third, there should be room for high-ambition initiatives 
+by “coalitions of the willing”. FfD4 should encourage and 
+welcome bold actions by individual regions or groups 
+of nations that in turn inspire other nations and regions 
+to raise their ambitions as well. Even as some countries, 
+businesses, and even philanthropies step back from 
+Sustainable Development, others all over the world 
+are stepping up their efforts. Leaders of positive and 
+dynamic change must be encouraged, supported, and 
+championed in the outcome at Seville. 
+Fourth, there should be a clear list of specific action 
+items that can be reported to the world in clear and 
+unmistakable terms, along with timelines and mea-
+surements for accountability. The highest priorities 
+include: (1) full funding of the UN system; (2) substan-
+tial increases in official funding by the World Bank, 
+multilateral development banks, and the International 
+Monetary Fund, backed as necessary by capital 
+increases at these institutions, and debt relief as 
+needed to increase vital fiscal space; (3) proper funding 
+of the institutions established to protect the global 
+commons, including the Global Environmental Facility, 
+the Adaptation Fund, and the Loss and Damage Fund, 
+with clear assessments by country and new revenues 
+raised via international taxes (e.g. on international 
+shipping, aviation, and greenhouse emissions) and 
+other agreed means; (4) clear steps to reform the 
+regulation of private capital markets, including revamp-
+ing the credit rating system and the IMF-World Bank 
+Debt Sustainability Framework to increase capital flows 
+to high-return investments in low-income countries, 
+with a commitment to report back to the UN General 
+Assembly on these measures in 2026. 
+Message of Hope in Memory of Pope 
+Francis
+Our message is one of hope. Though we are beset by 
+the polycrisis of conflict, environment, polarization, and 
+deprivation, we are also empowered with breathtaking 
+new technologies and global goals that inspire and 
+impel humanity to build the future we want. We give our 
+gratitude to the late Pope Francis for declaring 2025 to 
+be a Jubilee Year and a year of great hope. The fourth 
+Financing for Development conference can restore the 
+world’s hope, by mobilizing nations committed to global 
+peace, wellbeing, and sustainable development. Even if 
+there is no unanimity, we urge a strong declaration with 
+the backing of most of the UN member states so that 
+we will move onward from Seville not only with words 
+but with a decisive mobilization of financial resources 
+for sustainable development. And as always, the 
+2000+ universities in the UN Sustainable Development 
+Solutions Network pledge their best efforts to support 
+governments, business, and civil society to build the 
+future we need and want.
+1. Financing for Development
+
+
+
+===== GLOBAL_SGD2025_3_The_SDG_Index_and_Dashboards =====
+
+page 23:
+11
+Sustainable Development Report 2025   
+   Financing Sustainable Development to 2030 and Mid-Century
+The SDG Index builds on a peer-reviewed, statistically 
+audited, and transparent methodology (Schmidt-
+Traub et al. 2017; Lafortune et al. 2018; Papadimitriou, 
+Neves, and Becker 2019). An online public consultation 
+was held from April 4–11, 2025, with comments and 
+suggestions collected from more than 50 organizations 
+– including several National Statistical Offices (NSOs) 
+– and 40 UN member states. The full database and 
+methodological papers, as well as regional and local 
+editions of the SDG Index and Dashboards, are avail-
+able on the SDG Transformation Center website.
+Status of SDG progress globally
+Based on the rate of progress since they were adopted 
+by the international community in 2015, none of the 
+17 SDGs will be achieved by 2030 (Figure 2.1). At the 
+global level, SDG 2 (Zero Hunger), SDG 11 (Sustainable 
+Cities and Communities), SDG 14 (Life Below Water), 
+SDG 15 (Life on Land) and SDG 16 (Peace, Justice and 
+Strong Institutions) are particularly off track, facing 
+major challenges (indicated in red on the dashboards) 
+and showing no or very limited progress since 2015. 
+The SDG Index and Dashboards
+Part 2
+The SDG Index and Dashboards provides an annual assessment of SDG progress covering all 193 UN 
+member states. This year’s SDG Index incorporates 126 indicators, including 102 global indicators and 
+24 additional indicators for the OECD countries’ dashboards. To align with the 2025 comprehensive 
+review of SDG indicators, an indicator on “Minimum dietary diversity among children aged 6 months to 
+23 months” has been incorporated into the dataset under SDG 2 (Zero Hunger). Other adjustments and 
+modifications are described in the methods section. Although every UN member state has a country 
+profile, only those with less than 20 percent missing data receive an SDG Index score and rank. This is to 
+ensure the comparability of the results and to minimize missing data bias. This year, 167 countries are 
+ranked in the SDG Index. This year’s edition also introduces a “headline” SDG Index (SDGi), which focuses 
+on 17 SDG indicators to evaluate progress made by countries and regions on the SDGs, while minimizing 
+statistical biases due to missing time series data. 
+Figure 2.1  
+World SDG Dashboard 2025
+D
+D
+S
+D
+S
+D
+ 
+ 
+ 
+ 
+ 
+S
+D
+S
+•
+D
+D
+ 
+ 
+ 
+ 
+ 
+D
+D
+D
+D
+D
+ 
+ 
+Source: Authors
+p   Decreasing                     5  Stagnating                                  D  Moderately improving        L   On track or maintaining SDG achievement       
+   Major challenges       
+  Significant challenges        
+  Challenges remain              
+   SDG achieved        • Data not available
+
+page 26:
+14
+Sustainable Development Report 2025   
+   Financing Sustainable Development to 2030 and Mid-Century
+PART 2 – THE SDG INDEX AND DASHBOARDS
+Progress on SDG 17 (Partnerships for the Goals) is also 
+very limited, due in part to global failures to address 
+persisting gaps in access to financing for developing 
+countries and to stark disparities in countries’ support 
+for UN-based multilateralism (see Part 3). Detailed dash-
+boards by world region, country grouping, and country 
+are provided in the Annexes and country profiles. 
+Less than 20 percent of the SDG targets are on 
+track to be achieved globally (16.7 percent). The five 
+targets most on track are: Mobile use (SDG 9), Access 
+to electricity (SDG 7), Internet use (SDG 9), Under 5 
+mortality rate (SDG 3) and Neonatal mortality (SDG 3). 
+By contrast, most countries are either stagnating or 
+backsliding on the following five targets: Obesity rate 
+(SDG 2), Press Freedom Index (SDG 16), Sustainable 
+Nitrogen Management Index (SDG 2), Red List Index 
+(SDG 15) and Corruption Perception Index (SDG 16).
+The spread In SDG performance across countries 
+remains wide, with 2025 SDG Index scores ranging 
+from over 80 in top-performing countries to below 50 
+in countries where SDG implementation is especially 
+challenging, often due to various forms of conflict. As 
+in previous editions, European countries, particularly 
+the Nordic countries, top the 2025 SDG Index. Finland 
+ranks first, followed by Sweden and Denmark. Finland 
+also holds the top spot on the World Happiness Report 
+rankings (Helliwell et al. 2025). However, even these 
+countries face substantial challenges in achieving 
+several SDGs, notably SDG 2 (Zero Hunger), SDG 12 
+(Responsible Consumption and Production), SDG 13 
+(Climate Action) and SDG 15 (Life on Land), partly 
+driven by unsustainable consumption patterns and 
+negative international spillover effects. Countries at 
+the lower end of the Index tend to be affected by 
+conflict, security issues, political or socioeconomic 
+instability, and limited fiscal space. In the 2025 
+edition, Yemen, Somalia, Chad, the Central African 
+Republic, and South Sudan rank at the bottom of the 
+SDG Index.
+SDG progress by region and country 
+The “headline” SDG Index (SDGi) measures overall 
+country progress using 17 key indicators, one per SDG. 
+This limited number of indicators aims to minimize 
+statistical biases related to missing time series data 
+across countries. Selection of these 17 indicators was 
+based on three main criteria: (1) relevance, with most 
+being official SDG indicators or close proxies pro-
+duced by UN custodian agencies); (2) statistical criteria, 
+namely the ability of the individual SDGi indicators 
+and of the headline aggregate to closely replicate 
+the goal and SDG Index results through correlation 
+analysis; and (3) data coverage across countries and 
+over time. The cross-sectional correlation between 
+the SDGi (17 indicators) and the SDG Index (102 
+indicators) is very high (even collinear), while the SDGi 
+growth rate between 2015–2024 is also correlated with 
+the growth rate of the full SDG Index over the same 
+period. However, the SDGi growth rate is only moder-
+ately correlated with the growth rate of GDP over the 
+same period. The 17 headline SDG indicators are listed 
+below. Results were compiled for 143 countries, with 
+those missing data for more than two SDGi indicators 
+(12 percent) excluded for comparability purposes. 
+Among those excluded, some face major challenges 
+in implementing the SDGs or show major reversals 
+in progress – including countries that are structurally 
+vulnerable or affected by conflict. A detailed statistical 
+annex is accessible online. 
+Countries that started with higher SDG baselines in 
+2015 have generally progressed more slowly than 
+those with lower baselines, although results vary 
+across regions and country groupings. The OECD 
+countries and HICs began with the highest SDG 
+baselines, primarily driven by better performance 
+on socioeconomic goals, however these countries 
+have generally shown limited progress on the SDGi 
+since 2015. By contrast, countries in East and South 
+Asia, the BRICS+ nations, and LMICs, which all started 
+with lower baselines in 2015, have progressed more 
+rapidly. Small Island Developing States (SIDS) and 
+Middle East and North Africa (MENA) countries, 
+despite initial baselines comparable to those of the 
+BRICS and countries in East and South Asia, have pro-
+gressed much more slowly on the SDGs. And although
+
+page 30:
+18
+Sustainable Development Report 2025   
+   Financing Sustainable Development to 2030 and Mid-Century
+PART 2 – THE SDG INDEX AND DASHBOARDS
+National and
+Figure 2.5 
+A decade of SDG Index and Dashboards: global, regional, national, and subnational editions
+Source: Authors. Accessible online here: https://sdgtransformationcenter.org/sdgindex 
+Box 1.  A decade of SDG Index and Dashboards: global, regional, national, and subnational editions
+The global edition of the SDG Index and Dashboards 
+highlights SDG trends and challenges across all countries. 
+More detailed regional, national, and subnational SDG Indices 
+and analyses have also been prepared by the SDSN and its 
+local networks. These editions contextualize the indicator 
+sets and policy discussions to mobilize stakeholders at 
+various levels. For instance, the Europe edition (released 
+annually since 2019) is prepared in cooperation with the 
+European Economic and Social Committee (EESC) – including 
+representatives from trade unions, business associations and 
+NGOs – and its findings are presented and discussed with 
+European leadership and institutions (Lafortune et al. 2024; 
+Lafortune and Fuller 2025). The SDSN has also worked with 
+numerous regional and local partners in the Arab region, 
+in SIDS countries, and in countries including Benin, Bolivia, 
+Brazil, Italy, Paraguay, Spain, the United States, and Uruguay 
+to advance SDG monitoring and connect statistical analyses 
+with long-term budgeting and policy frameworks. The 
+resulting editions benefit from local expertise, often provided 
+by SDSN networks hosted in universities and research 
+centers, and from large-scale consultations and discussions 
+both before and after assessments are performed. 
+Increasingly, they also leverage GIS-technologies to provide 
+more granular analyses. These have been referenced multiple 
+times in Voluntary National Reviews (VNRs). In Europe, the 
+European Parliamentary Research Service (EPRS) listed the 
+SDG Index and Dashboards as one of the most useful for 
+policymaking (EPRS 2021).
+
+page 31:
+19
+Sustainable Development Report 2025   
+   Financing Sustainable Development to 2030 and Mid-Century
+2. SDG Index & Dashboards
+SDG progress by region and country 
+countries in Sub-Saharan Africa and low-income coun-
+tries (LICs) started off with the lowest 2015 baselines, 
+other regions with higher baselines have progressed 
+faster. Factors such as various forms of conflicts, 
+structural vulnerabilities, weak institutional leadership, 
+and limited fiscal space may explain disparities in SDG 
+progress since 2015. 
+At the same time, the regional and income-group 
+aggregates hide significant disparities in SDG progress 
+across countries. Globally, Benin, Togo, Côte d’Ivoire, 
+Eswatini, and Uzbekistan have progressed the fastest 
+on the SDGi since 2015. By contrast, Afghanistan, 
+Algeria, the Syrian Arab Republic, Venezuela, and 
+Yemen have stagnated or experienced reversals in 
+progress (Figure 2.4.a). Compared with their regional 
+peers, Benin, Nepal, Peru, the United Arab Emirates, 
+and Uzbekistan have showed the fastest progres-
+sion (Figure 2.4.b.). Costa Rica has progressed the 
+fastest among OECD countries, whereas Saudi Arabia 
+has progressed the fastest of the G20 countries 
+(Figure 2.4.c). 
+Box 2. The SDG Index and Geographic Information Systems 
+Geographic Information Systems (GIS) 
+and Earth Observation (EO) technolo-
+gies are crucial for SDG monitoring and 
+spatial analysis (United Nations, 2021). 
+A recent paper published by the Inter-
+Agency and Expert Group on Sustainable 
+Development Goal Indicators (IAEG-
+SDGs), with contributions from the SDSN’s 
+SDG Transformation Center, contains an 
+updated shortlist of SDG indicators that 
+directly or indirectly require geospatial 
+data or tools — approximately 20 percent 
+of all SDG indicators (United Nations 
+2025). The need to disaggregate SDG 
+indicator data by geographic location is 
+also recognized by the United Nations, as 
+this speaks to the “leave no one behind” 
+principle of the 2030 Agenda, while data 
+insights at a sub-national level help policy-
+makers tailor their interventions to specific 
+contexts. Preliminary research using 
+high-resolution satellite imagery estimates 
+that around 40 percent of the world’s 
+population might be assigned to a diffe-
+rent SDG Index quintile than that of their 
+aggregated national SDG Index estimate, 
+which suggests significant and persistent 
+territorial disparities in SDG performance 
+within countries (Iablonovski 2024).
+At the SDSN, the SDG Transformation 
+Center and SDGs Today programs leverage 
+GIS technologies to provide granular and 
+timely assessments of SDG challenges and 
+progress. Over the past three editions, 
+of the global SDR, as well as through 
+bilateral collaborative initiatives, the SDG 
+Transformation Center has introduced 
+new, innovative geospatial indicators for 
+the SDGs, building notably on a long-
+term partnership with the Environmental 
+Systems Research Institute (ESRI) and 
+other partners. These geospatial indicators 
+address critical data gaps and provide 
+annual insights into the state of a set of 
+SDG indicators at both national and local 
+levels, utilizing open global datasets and 
+cloud computing methods. 
+•	 SDG indicator 9.1.1, the Rural Access 
+Index (RAI) considers the proportion 
+of the rural population living within 
+two kilometers of an all-season road. 
+The SDR presents, to date, the only 
+publicly available application of the 
+World Bank’s latest methodology at a 
+global scale (Iablonovski et al. 2024; 
+Workman and McPherson 2019). The 
+particular challenge of this indicator’s 
+calculation lies in assessing whether 
+a road provides all-season access, 
+approximated through data on precip-
+itation, slope, and spatialized GDP per 
+capita. The method used in the SDR 
+was leveraged by the World Bank (the 
+custodian agency for this indicator) for 
+its Score Card platform (World Bank 
+Group 2025). 
+•	 SDG indicator 11.2.1, Urban Access 
+to Public Transportation measures 
+pedestrian accessibility, or the extent to 
+which the built environment facilitates 
+walking access to destinations of 
+interest. Through network analysis, 
+data on pedestrian infrastructure, 
+geographically allocated places of 
+interest, and population distribution 
+are used to calculate the time a 
+person would take to walk to the 
+closest amenity. The expanded 
+methodology covers additional key 
+services (healthcare services, education 
+facilities, food choices, and open public 
+spaces) to fully assess urban pedestrian 
+accessibility.
+These and other indicators, such as SDG 
+11.3.1 (Land Use Efficiency) and yearly CO2 
+emissions from anthropogenic land-use 
+change, by main driver (2014–2023), are 
+published on the SDG Transformation 
+Center website and available to download. 
+Leveraging GIS and EO technologies to 
+inform long-term investment and poli cy 
+pathways for the SDGs at all levels will 
+remain a key focus of research at the 
+SDSN and SDG Transformation Center in 
+the coming years. 
+Source: Authors, based on https://
+sdgtransformationcenter.org/geospatial
+
+page 32:
+20
+Sustainable Development Report 2025   
+   Financing Sustainable Development to 2030 and Mid-Century
+PART 2 – THE SDG INDEX AND DASHBOARDS
+High-income Countries
+Low-income Countries
+Lower-middle-income Countries
+Upper-middle-income Countries
+SDG Index 2025
+International Spillover Index 2025
+From 0 (worst) to 100 (best)
+From 0 (worst) to 100 (best)
+Income groups
+SDG Index 2025
+International Spillover Index 2025
+Regions
+Eastern Europe and Central Asia
+BRICS+ members
+Latin America and the Caribbean
+East and South Asia
+Sub-Saharan Africa
+OECD members
+Middle East and North Africa
+Note: More details on the indicators used to compile the International Spillover Index 
+are accessible in the methods’ summary. Averages are population-weighted.
+Source: Authors
+Figure 2.6 
+SDG Index scores versus International Spillover Index scores, 2025
+In most cases, rapid progress has primarily been driven 
+by improvements on socioeconomic SDG indicators – 
+especially the share of women parliamentarians (SDG 5) 
+and rates of electrification (SDG 7), of adults with a bank 
+account in a financial institution (SDG 8), and internet 
+use (SDG 9) – and by progress on statistical perfor-
+mance (SDG 17), and less by significant breakthroughs 
+on environmental goals. 
+To dive deeper into the drivers of SDG progress and to 
+better understand persisting disparities within regions 
+and countries, the SDSN has published multiple conti-
+nental and subnational editions of the SDG Index that 
+look at specific policy and financing priorities across 
+regions and at multiple territorial levels (Box 1). This 
+work increasingly builds on Geographic Information 
+Systems (GIS) and Earth Observation (EO) technologies 
+that support the development of timely and granular 
+investment, policy, and monitoring frameworks for the 
+SDGs at all levels (Box 2).
+International spillovers and exposure 
+to supply-chain disruptions
+The SDGs are a global responsibility. As such, their 
+domestic implementation should not compromise the 
+ability of other countries to achieve them (Schmidt-
+Traub, Hoff, and Bernlöhr 2019; Lafortune et al. 
+2021; Gómez-Paredes, Malik, and Lafortune 2025). 
+Via unsustainable consumption, the export of toxic 
+waste, illicit trade, unfair tax competition, tax havens 
+and, more generally, poor implementation of SDG 17 
+(Partnerships for the Goals – including support for 
+UN-based multilateralism), countries can, however, gen-
+erate negative international spillovers. These spillovers 
+are incorporated in the SDG Index and also compiled 
+separately as part of the “International Spillover Index”. 
+Positive spillovers (or “handprints”) are also consid-
+ered, such as the provision of Official Development 
+Assistance (ODA). This year’s edition includes 16 spill-
+over indicators.
+
+page 33:
+21
+Sustainable Development Report 2025   
+   Financing Sustainable Development to 2030 and Mid-Century
+2. SDG Index & Dashboards
+Annex SDG Dashboard by Regions
+Annex  
+SDG Dashboard by Regions
+Figure 2.7 
+2025 SDG dashboards by region and income group (levels and trends)
+AFFORDABLE 
+AND CLEAN 
+ENERGY
+DECENT 
+WORK AND 
+ECONOMIC 
+GROWTH
+INDUSTRY, 
+INNOVATION
+AND 
+INFRASTRUCTURE
+REDUCED
+INEQUALITIES
+SUSTAINABLE 
+CITIES AND 
+COMMUNITIES
+RESPONSIBLE
+CONSUMPTION 
+AND 
+PRODUCTION
+LIFE 
+ON  LAND
+PEACE, 
+JUSTICE
+AND STRONG
+INSTITUTIONS
+CLIMATE
+ACTION
+LIFE 
+BELOW 
+WATER
+PARTNERSHIPS
+FOR THE 
+GOALS
+NO 
+POVERTY
+ZERO
+HUNGER
+GOOD HEALTH
+AND 
+WELL-BEING
+QUALITY
+EDUCATION
+GENDER
+EQUALITY
+CLEAN WATER 
+AND 
+SANITATION
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+Note: Excluding OECD specific indicators. Population-weighted averages.    
+Source: Authors
+BRICS • A • D • S • S • S • S • S • S • A • S • D • D • D • D • D • D • D
+BRICS+ • A • D • S • D • S • S • S • S • A • S • D • D • D • D • D • D • D
+East and South Asia • A • D • S • S • S • S • S • S • A • • • D • D • D • D • D • D • D
+Eastern Europe and Central Asia • D • D • S • S • D • D • D • D • S • S • D • D • D • • • D • D • S
+Latin America and the Caribbean • G • D • D • D • S • S • A • D • S • • • D • S • S • D • D • D • D
+Middle East and North Africa • G • G • S • S • D • S • D • S • S • • • D • S • D • D • D • G • D
+Oceania • D • D • D • D • D • D • D • • • D • • • G • • • D • D • D • • • D
+OECD members • A • D • S • S • S • S • S • D • S • D • S • D • D • D • D • D • S
+Small Island Developing States • D • D • D • D • S • S • D • • • D • S • D • • • D • D • S • D • D
+Sub-Saharan Africa • D • D • D • D • D • D • D • D • D • • • D • A • A • S • D • G • D
+Low-income countries • D • D • D • • • D • D • D • D • D • • • D • A • S • G • D • G • D
+Lower-middle-income countries • S • D • D • D • D • D • S • S • S • • • D • D • D • S • D • D • D
+Upper-middle-income countries • A • D • S • S • S • S • S • D • A • • • D • D • D • D • D • D • D
+High-income countries • A • D • S • D • S • S • S • D • S • D • S • D • D • D • D • D • S
+World average • D • D • S • D • S • D • S • D • S • • • D • D • D • D • D • D • D
+L  On track
+D   Moderately Increasing 5  Stagnating
+p  Decreasing
+• Data not available
+   SDG achievement
+   Challenges remain
+   Significant challenges remain
+   Major challenges remain
+Overall, rich countries outperform other country group-
+ings on overall SDG performance and life satisfaction, 
+but they have also outsourced numerous negative 
+environmental and socioeconomic impacts abroad 
+(Figure 2.6). Additional details on our conceptual frame-
+work, as well as policy and data work on international 
+spillovers, have been presented in previous editions and 
+are available on the SDG Transformation Center website 
+(Malik et al. 2021; 2023; 2024; Ishii et al. 2024; Fuller 
+and Bermont-Diaz 2024).
+In addition to monitoring the potential impact policies 
+may have on other countries, a growing body of research 
+focuses on countries’ exposure to and vulnerability 
+to disruptions in international supply chains. These 
+disruptions can result from accelerated climate change 
+and natural disasters, geopolitical events, unilateral 
+policies, or other events (Koks et al. 2016; Koks and 
+Thissen 2016; Koks et al. 2019; Fahr, Vismara, and Senner 
+2024). This is becoming an important area of work at the 
+SDSN to promote resilience and concerted action for a 
+sustainable international trade system.
+
+
+
+===== GLOBAL_SGD2025_4_Commitment_to_the_SDGs_and_UN-Based_Multilateralism =====
+
+page 45:
+33
+Sustainable Development Report 2025   
+   Financing Sustainable Development to 2030 and Mid-Century
+Commitment to the SDGs  
+and UN-Based Multilateralism 
+Part 3
+2025 marks the 10th anniversary of the SDG’s adoption and the 80th anniversary of the founding of the 
+United Nations. In the aftermath of the Second World War, the international community adopted the UN 
+Charter (1945) and the Universal Declaration of Human Rights (1948) to provide the vision and guiding 
+principles for maintaining peace, security, and effective global cooperation. In September 2024, at the 
+UN Summit of the Future, the UN member states reaffirmed their commitment to the SDGs and effective 
+multilateralism, adopting by consensus the Pact for the Future, Global Digital Compact and Declaration on 
+Future Generations. 
+level, outcome-based data can be missing or outdated, 
+and significant changes in many cases may take years 
+to materialize, despite the adoption of ambitious 
+policies. Consequentially, outcome statistics may not 
+reflect the current policy landscape or commitments to 
+advancing the SDGs and effective multilateralism. This 
+chapter therefore serves as a complement to the SDG 
+Index by examining countries’ efforts and intentions to 
+contribute to a collective movement toward sustainable 
+development and international cooperation as empha-
+sized under SDG 17 (Partnerships for the Goals). 
+We begin by providing an overview of countries’ efforts 
+and commitments towards the SDGs, notably through 
+the preparation of Voluntary National Reviews (VNRs) 
+and Voluntary Local Reviews (VLRs), where central/
+federal governments or regional and local authorities 
+present their SDG action plans and evaluate their 
+progress. We then present an updated and expanded 
+version of the Index of countries’ support for UN-based 
+multilateralism (UN-Mi), including aggregate results 
+as well as detailed results by indicator. The UN-Mi 
+benefited from several rounds of comments collected 
+since 2022 on pilot versions and in working papers 
+(Sachs, Lafortune, and Drumm 2023). Its detailed 
+methodology was peer-reviewed in 2024 (Lafortune 
+and Sachs 2024). For clarity, most charts in this chapter 
+focus on G20 and large countries (which collectively 
+account for almost three-quarters of the world 
+population). We also include the global median in each 
+chart, as a measure of central tendency across the 193 
+UN member states, as the median is less affected by 
+outliers than the average. Detailed data for all countries 
+is accessible at: https://sdgtransformationcenter.org/. 
+The Pact calls for 56 actions related to SDG implemen-
+tation, peace, and collective security, including the 
+transformation of the multilateral system and reform of 
+the international financial architecture (United Nations 
+2024): 
+•	 We will take bold, ambitious, accelerated, just and 
+transformative actions to implement the 2030 
+Agenda, achieve the Sustainable Development Goals 
+and leave no one behind. (Action 1)
+•	 We will redouble our efforts to build and sustain 
+peaceful, inclusive and just societies and address the 
+root causes of conflicts. (Action 13)
+•	 We will transform global governance and reinvigorate 
+the multilateral system to tackle the challenges, and 
+seize the opportunities, of today and tomorrow. 
+(Action 38)
+•	 We will accelerate reform of the international financial 
+architecture to address the challenges of today and 
+tomorrow. (Action 47)
+This chapter aims to gauge countries’ support for 
+the SDGs and UN-based multilateralism. Unlike the 
+SDG Index (Part 2), which addresses SDG outcomes 
+or implementation, this chapter focuses on intentions 
+to promote global cooperation for sustainable devel-
+opment – via, for instance, regular SDG reviews and 
+action plans and the ratification of major UN treaties. 
+Intentions matter for at least two reasons. First, they 
+help build the trust needed among nation-states for 
+effective multilateralism. Second, because at the global
+
+page 46:
+34
+Sustainable Development Report 2025   
+   Financing Sustainable Development to 2030 and Mid-Century
+PART 3 – COMMITMENT TO THE SDGS AND UN-BASED MULTILATERALISM
+3
+41
+95
+44
+10
+Figure 3.1 
+Participation in Voluntary National Review process (number of countries), 2016–2025
+Note: n=193. Includes countries that are listed as 2025 VNR presenters 
+in the letter signed by the President of ECOSOC on 7 October 2024. 
+Source: Authors’ elaboration based on https://hlpf.un.org/vnrs 
+0 VNR
+1 VNR
+2 VNRs
+3 VNRs
+4 VNRs
+Government and societal support 
+for the SDGs 
+In 2015, through the 2030 Agenda resolution, all 193 UN 
+member states committed to preparing regular reviews 
+and action plans for sustainable development, pledging 
+to engage in a “systematic follow-up and review of imple-
+mentation of this Agenda over the next fifteen years” 
+(United Nations 2015). The resolution specifies that 
+these reviews should be ”voluntary and country-led”. 
+Since 2016, more than 400 Voluntary National Reviews 
+(VNRs) have been presented. As of July, 2025, 190 UN 
+member states have taken part in the VNR process, 
+with the majority (149) presenting two or more VNRs 
+(Figure 3.1 and 3.2).1 Only three member states have 
+never participated in the VNR process: Haiti, Myanmar, 
+and the United States. The State of Palestine and the 
+European Union are examples of non-UN member 
+states that have also prepared and presented VNRs. 
+1.	 In the case of the Islamic Republic of Iran, only the “Key Messages 
+of Iran’s Voluntary National Review (VNR) on SDGs: 2017 HLPF” is 
+available online. https://sustainabledevelopment.un.org/content/
+documents/14994Iran.pdf 
+Other metrics can provide a broader picture of societal 
+support for sustainable development and global 
+cooperation. At the subnational level, regional and 
+local governments have prepared Voluntary Local 
+Reviews (VLRs). While these hold no official status, the 
+UN Department of Economic and Social Affairs (DESA) 
+tracks the publication of VLRs globally. New York City 
+was among the first cities in the world to present a VLR, 
+and as of April 2025, DESA has listed 249 VLRs, pub-
+lished by regional and local authorities in 43 countries. 
+Argentina, Brazil, Germany, Finland, Mexico, Spain, and 
+the United States have each published 10 or more 
+(Figure 3.3). 
+Interestingly, despite current geopolitical tensions, 
+survey data collected by UNDP reveals that an over-
+whelming majority of people globally (86 percent) 
+believe that countries “should work together on climate 
+change even if they disagree on other issues, such as 
+trade or security” (UNDP 2024).
+
+page 50:
+38
+Sustainable Development Report 2025   
+   Financing Sustainable Development to 2030 and Mid-Century
+PART 3 – COMMITMENT TO THE SDGS AND UN-BASED MULTILATERALISM
+The 2025 Index of countries’ support 
+for UN-based multilateralism (UN-Mi)
+The UN-Mi tracks countries’ support for UN-based multi-
+lateralism. It does not capture efforts made by countries 
+to promote international cooperation in regional and 
+bilateral fora, or within the BRICS, G20, G7, OECD and 
+other groups. The index measures a specific aspect of 
+multilateralism distinct both conceptually and statistically 
+from other concepts and constructs, including the Good 
+Country Index or the Lowy Institute’s Global Diplomacy 
+Index (which assesses the scale of diplomatic networks). 
+We use a narrowly defined set of six headline indica-
+tors to gauge countries’ commitment to UN-based 
+multilateralism:
+1.	 Ratification of major UN treaties
+2.	 Percentage of votes aligned with the international 
+majority at the UN General Assembly (UNGA)
+3.	 Participation in selected UN organizations and agencies
+4.	 Participation in conflicts and militarization
+5.	 Use of unilateral coercive measures (UCMs)
+6.	 Contribution to the UN budget and international 
+solidarity
+The median UN-Mi score is 66 (out of 100), but there 
+are large disparities across UN member states. The 
+2025 Index is topped again by Barbados, followed 
+by five Small Island Developing States (SIDS), which 
+tend to adhere to UN principles and treaties and not 
+contribute much to militarizing the world. Non-SIDS 
+countries such as Chile, Costa Rica, Honduras, Malaysia, 
+Mongolia, Namibia, Paraguay, Peru, the Philippines, 
+Senegal, Tunisia, and Uruguay also rank in the top 20 
+globally, each scoring 80 or above. Conversely, the 
+United States ranks as the country least committed to 
+UN-based multilateralism, with a score of 5. Other coun-
+tries that rank poorly on this year’s UN-Mi include Israel, 
+Somalia, South Sudan, the Russian Federation, the 
+Syrian Arab Republic, the Islamic Republic of Iran, and 
+the Democratic Republic of Korea, all with scores below 
+45. Among G20 countries, Brazil stands out as the most 
+committed to UN-based multilateralism, followed by 
+Mexico, Argentina, South Africa, Germany, Indonesia, 
+and Japan – all scoring above the global median of 66. 
+By contrast, G20 countries the Russian Federation, 
+Türkiye, and the United States all have UN-Mi scores 
+below 50. 
+Ratification of major UN Treaties
+The first indicator is “Percentage of major UN treaties 
+ratified”. This indicator covers 60 international 
+conventions and agreements adopted by the United 
+Nations from 1946–2024, or adopted before 1946 
+and later added to the UN treaty system. It covers UN 
+instruments ratified by more than 50 percent of the 
+international community, excluding protocols, optional 
+protocols, amendments, and conventions that were 
+later terminated or applied only to a small number 
+of countries. Treaties adopted outside of the United 
+Nations or deposited by parties other than the UN 
+Secretary General, such as the Geneva Conventions 
+(adopted under the ICRC), were excluded. We recorded 
+in our database (accessible online) whether member 
+states have signed or ratified each one. Signature 
+of a treaty is not legally binding, however ratification 
+(or acceptance, accession, definitive signature, and 
+succession) is. 
+The global median is 85 percent (maximum 98 percent, 
+minimum 40 percent). Among G20 and large countries, 
+Argentina, Australia, Brazil, Canada, France, Germany, 
+Italy, Japan, Mexico, Nigeria, the Philippines, and the 
+United Kingdom have all ratified more than 90 percent 
+of major UN treaties (Figure 3.5). By contrast, 
+Indonesia and Saudi Arabia have ratified less than 
+75 percent and the United States less than 60 percent. 
+In 2025, the United States withdrew from the Paris 
+Climate Agreement.
+
+page 51:
+39
+Sustainable Development Report 2025   
+   Financing Sustainable Development to 2030 and Mid-Century
+3. Commitment to the SDGs 
+Percentage of votes aligned with the international majority at the UN General Assembly (UNGA)
+Percentage of votes aligned with 
+the international majority at the 
+UN General Assembly (UNGA)
+The second indicator is “Percentage of votes aligned with 
+the majority vote at the UN General Assembly”. Chapter IV 
+of the UN Charter describes the role and function of the 
+UN General Assembly (UNGA), the main decision-making 
+body of the United Nations. This indicator measures the 
+percentage of times that each member state has voted 
+with the simple international majority (not weighted by 
+population), out of a total of 458 recorded votes over the 
+period 2020–2024. Overall, since 1945, votes on more 
+than 5,000 UNGA resolutions have been reported in the 
+UN digital library (data were obtained via python web 
+scraping). For each resolution, UN member states can 
+vote yes or no, abstain, or be absent. In the vast majority 
+of cases (98 percent of the time) the majority vote is “Yes”. 
+The global median for alignment with the majority vote 
+is 76 percent (ranging from a maximum of 96 percent 
+to a minimum of 26 percent). Argentina, Bangladesh, 
+Brazil, Egypt (Arab Republic), Ethiopia, Indonesia, 
+Mexico, Nigeria, the Philippines, Saudi Arabia, and South 
+Africa aligned with the majority vote 80 percent of the 
+time (Figure 3.6). Australia, Canada, Germany, France, 
+Italy, Korea (Republic of), the Russian Federation, and 
+the United Kingdom aligned with the international 
+majority vote between 50 and 60 percent of the time. 
+The United States, however, aligned with the interna-
+tional majority vote around 30 percent of the time. Of 
+all 193 UN member states, only Israel recorded a lower 
+percentage of alignment (26 percent) over this period. 
+The share of votes aligned with the international majority 
+has varied significantly over time (Figure 3.7). In the early 
+days of the UN, in the 1950s, the United States aligned 
+with the majority vote of the international community 
+Major UN treaties ratiﬁed (%)
+Global median
+Figure 3.5 
+Major UN treaties ratified (percent), G20 and large countries, 1945–2024
+Note: Treaties ratified by more than 50 percent of UN member states (N=60). As of January 1, 2025. Global median 
+(85 percent) corresponds to the median percentage of major UN treaties ratified across all 193 UN member states. 
+Source: Authors’ calculations based on UN treaty database.
+3. Commitment to the SDGs
+
+page 53:
+41
+Sustainable Development Report 2025   
+   Financing Sustainable Development to 2030 and Mid-Century
+Participation in selected UN organizations and agencies
+80 percent of the time. However, this gradually fell to 
+30 percent or less from the late 1980s through the 
+2020s (Lafortune and Sachs 2025). Votes that put the 
+United States in the minority are often related to Israel’s 
+continued occupation of Palestinian territories captured 
+in the 1967 war, or to collective security arrangements 
+and international economic and financial reforms (includ-
+ing the end of unilateral coercive measures). By contrast, 
+Brazil, a major economy, consistently voted alongside 
+the rest of the international majority three-quarters of 
+the time or more throughout the entire period. 
+2.	 UN Specialized Agencies: the Food and Agriculture Organization (FAO); the International Civil Aviation Organization (ICAO); the International 
+Fund for Agricultural Development (IFAD); the International Labour Organization (ILO); the International Monetary Fund (IMF); the International 
+Maritime Organization (IMO); the International Telecommunication Union (ITU); the UN Educational, Scientific and Cultural Organization 
+(UNESCO); the United Nations Industrial Development Organization (UNIDO); the World Tourism Organization (UNWTO); the Universal 
+Postal Union (UPU; the World Health Organization (WHO); the World Intellectual Property Organization (WIPO); the World Meteorological 
+Organization (WMO); and the World Bank Group – including the International Bank for Reconstruction and Development (IBRD), the 
+International Development Association (IDA), and the International Finance Corporation (IFC). United Nations funds and programmes: UN 
+Development Programme (UNDP), UN Environment Programme (UNEP), UN Population Fund (UNFPA), UN Human Settlements Programme 
+(UN-HABITAT), UN Children’s Fund (UNICEF), World Food Programme (WFP).
+Participation in selected UN 
+organizations and agencies
+The third indicator refers to “Membership and par-
+ticipation in selected United Nations organizations”. 
+Chapter IX of the UN Charter describes the role of 
+specialized agencies in fostering international economic 
+and social cooperation. This indicator captures mem-
+bership in 24 UN organizations as of March 2025: all 
+15 specialized agencies,2 the 6 funds and programmes 
+(UNDP, UNEP, UNFPA, UN-HABITAT, UNICEF and WFP), 
+3. Commitment to the SDGs 
+Figure 3.8 
+Membership in selected group of 24 UN organizations, G20 and large countries, 2025
+Note: Global median and maximum = 24. As of March 2025. 
+Source: Authors, data compiled via desk research on individual organizations and agencies’ web portals.
+
+page 54:
+42
+Sustainable Development Report 2025   
+   Financing Sustainable Development to 2030 and Mid-Century
+PART 3 – COMMITMENT TO THE SDGS AND UN-BASED MULTILATERALISM
+the Conference on Trade and Development (UNCTAD), 
+the Framework Convention on Climate Change 
+(UNFCCC), and the World Trade Organization (WTO). 
+These 24 were selected to include all of the specialized 
+agencies and represent a broad range of issues related 
+to sustainable development (education, health, finance, 
+trade, telecommunication, and industrial policies).
+Most of the 193 UN member states participate in all 
+24 selected organizations (with a global median of 24, 
+a maximum of 24, and a minimum of 12). Since the last 
+UN-Mi edition, Comoros has become the 165th WTO 
+member state, while South Sudan and the Solomon 
+Islands have joined UNIDO as its 172nd and 173rd 
+member states, respectively. The majority of G20 and 
+large countries are members of all 24 organizations 
+(Figure 3.8), however Argentina announced in February 
+2025 that it would leave the WHO; Australia is not 
+a member of UNIDO, UNWTO or IFAD; Canada and 
+the United Kingdom are not members of UNIDO or 
+UNWTO; France left UNIDO in 2014; Ethiopia is not 
+a member of WTO; the Russian Federation is not a 
+member of UNWTO; and the United States is not a 
+member of UNIDO or UNWTO and withdrew from the 
+WHO in February 2025. 
+Participation in conflicts and 
+militarization
+The fourth indicator concerns “Participation in conflicts 
+and militarization”. The Preamble of the 1945 UN 
+Charter states that all UN member states must “practice 
+tolerance and live together in peace with one another as 
+good neighbors” and “unite [their] strength to maintain 
+international peace and security”. Several UN resolutions 
+and reports highlight the link between disarmament 
+and development. The final document of the tenth 
+special session on disarmament, adopted by the UN 
+General Assembly in 1978, underlined the following: 
+“There is also a close relationship between 
+disarmament and development. Progress in 
+the former would help greatly in the realization 
+of the latter. Therefore resources released as a 
+result of the implementation of disarmament 
+measures should be devoted to the economic 
+and social development of all nations and 
+contribute to the bridging of the economic gap 
+between developed and developing countries.” 
+(UN 1978, par 35)
+Almost ten years later, in 1987, the International Con-
+ference on the Relationship between Disarmament and 
+Development led to the adoption of an action plan that 
+included commitments to reduce military spending 
+and redirect the resources saved toward development 
+(United Nations 1987). More recently, in the context 
+of the SDGs, the Under-Secretary-General and High 
+Representative for Disarmament Affairs stated the 
+following: 
+“Through its 17 Sustainable Development Goals, 
+the Agenda sets out a road map to end hunger, 
+protect the planet, achieve gender equality, 
+improve health and more. … It is estimated that 
+the cost to achieve quality universal primary 
+and early secondary education for all (Goal 4) 
+would barely exceed 3 per cent of global annual 
+military spending, while eliminating extreme 
+poverty and hunger (Goals 1 and 2) would 
+amount to only about 13 per cent of annual 
+military spending. Reinvesting 5 per cent of 
+global military spending would also exceed 
+the initial annual costs of adapting to climate 
+change in developing countries (Goal 13). So 
+little could do so much.” (UNODA 2020)
+In 2024, through the adoption of the Pact for the 
+Future, UN member states raised their concerns about 
+the potential impact that the global increase in military 
+spending could have on sustainable development 
+(Action 13). They requested the Secretary-General 
+establish, by the end of the current (79th) session, 
+an analysis of the impact specifically on the achieve-
+ment of the SDGs. According to data compiled by the 
+Stockholm International Peace Research Institute 
+(SIPRI), the world’s military expenditure reached 
+2,718 billion USD in 2024, marking a 9.4 percent 
+increase in real terms compared to 2023. This rep-
+resents the largest year-on-year rise since at least the 
+end of the Cold War (SIPRI 2025). Notably, military 
+spending increased in all world regions.
+
+page 55:
+43
+Sustainable Development Report 2025   
+   Financing Sustainable Development to 2030 and Mid-Century
+3. Commitment to the SDGs 
+Use of unilateral coercive measures (UCMs)
+Our “Participation in conflicts and militarization” 
+indicator relies on data from the 2024 Global Peace 
+Index (GPI), compiled by the Institute for Economics 
+and Peace (IEP 2024). It is calculated as the average of 
+a country’s score on the GPI’s “Militarisation” domain 
+and on the two external dimensions of the “Ongoing 
+Conflict” domain: “relations with neighboring countries” 
+and external conflicts (number and resulting mortality). 
+The Militarization pillar includes comparable data on mil-
+itary expenditure as a percentage of GDP, the number 
+of armed service officers per capita, and financial 
+contributions to United Nations peacekeeping missions. 
+Among G20 and large countries, Argentina, Australia, 
+Brazil, Canada, Germany, Indonesia, Italy, Mexico and 
+the Philippines perform best on this indicator (scoring 
+below the global median). By contrast, the Russian 
+Federation performs the worst globally (Figure 3.9).
+Use of unilateral coercive measures 
+(UCMs)
+The fifth indicator relates to the “Use of unilateral coercive 
+measures (UCMs)”. This indicator examines the adoption 
+by UN member states of unilateral sanctions against other 
+countries. Several UN resolutions stress that unilateral 
+coercive measures and practices “are contrary to interna-
+tional law, international humanitarian law, the UN Charter 
+and the norms and principles governing peaceful rela-
+tions among States” (OHCHR 2024). They also underline 
+that. in the long term, such measures may lead to social 
+problems and raise humanitarian concerns in the tar-
+geted states. In 2014, the Human Rights Council created 
+the mandate of the “Special Rapporteur on the negative 
+impact of unilateral coercive measures on the enjoyment 
+of human rights”. The 2030 Agenda stipulates that: 
+Militarization
+Global median
+Figure 3.9. 
+Global Peace Index: militarization and external conflicts, 2024
+Note: from 1 (best, less militarized) to (5, worst, more militarized). Global median (1.86).  Source: Authors’ calculations based on IEP, 2024.
+3. Commitment to the SDGs
+
+page 56:
+44
+Sustainable Development Report 2025   
+   Financing Sustainable Development to 2030 and Mid-Century
+PART 3 – COMMITMENT TO THE SDGS AND UN-BASED MULTILATERALISM
+Figure 3.10 
+Use of unilateral coercive measures (UCMs), G20 and large countries (1950–2022/23)
+Number of Unilateral Coercive Measures (UCMs)
+Global median
+Note: UCMs adopted between 1950 and 2021 that continued into 2022/23. Global median (2).
+Source: Authors, based on Drexel Global Sanctions Database
+“States are strongly urged to refrain from pro-
+mulgating and applying any unilateral economic, 
+financial or trade measures not in accordance 
+with international law and the Charter of the 
+United Nations that impede the full achievement 
+of economic and social development, particularly 
+in developing countries.” (United Nations 2025, 
+para 30)
+Since 1968, however, the UN Security Council has estab-
+lished 31 sanctions regimes, including the famous 1977 
+sanctions against apartheid South Africa, (unanimously 
+imposed by UN Security Council Resolution 418). The 
+Council has imposed sanctions regimes concerning the 
+following states: Southern Rhodesia (now Zimbabwe), 
+South Africa, the former Yugoslavia (2), Haiti (2), Angola, 
+Liberia (3), Eritrea/Ethiopia, Rwanda, Sierra Leone, Côte 
+d’Ivoire, Iran, Somalia/Eritrea, Iraq (2), the Democratic 
+Republic of the Congo, Sudan, Lebanon, the Democratic 
+People’s Republic of Korea, Libya (2), Guinea-Bissau, 
+Central African Republic, Yemen, South Sudan, and Mali. 
+Sanctions regimes have also been established concern-
+ing ISIL (Da’esh), Al-Qaida, and the Taliban. 
+The data on UCMs presented in this report are 
+sourced from the Global Sanctions Database (V4, 
+2024), which provides information on sanctions 
+imposed against countries, including the beginning 
+and final year of sanction imposition (Felbermayr et 
+al. 2020; Drexel University, HTWG Konstanz, and WIFO 
+2024). Here we present sanctions adopted unilater-
+ally from 1950 to 2021 that remained in place as of 
+2022 or later. For our purposes, a sanction is classi-
+fied as unilateral if it has not been authorized by the 
+UN Security Council, even when imposed by multiple 
+countries. Sanction regimes adopted unilaterally by
+
+page 57:
+45
+Sustainable Development Report 2025   
+   Financing Sustainable Development to 2030 and Mid-Century
+3. Commitment to the SDGs 
+Contribution to the UN budget and international solidarity
+regional organizations, such as the EU or the League 
+of Arab States, have been attributed to their individual 
+member states. 
+Only a small number of countries make frequent use of 
+UCMs as a policy tool (global median number of uses 
+of UCMs, 1950–2022/23 = 2). The United States is by 
+far the most significant user of UCMs, particularly since 
+the late 1980s and early 1990s, followed by European 
+countries (Figure 3.10). 
+Contribution to the UN budget and 
+international solidarity
+Finally, the sixth indicator relates to each country’s 
+“Contribution to the UN budget and international soli-
+darity”. Articles 17 and 19 of the UN Charter cover the 
+organization’s financial and budgetary arrangements, 
+with the UN Fifth Committee reporting on administra-
+tive and budgetary matters. The capacity to pay remains 
+the core principle for determining each member state’s 
+contribution to the United Nations’ regular and peace-
+keeping budgets. Based on this principle, the United 
+Nations establishes a scale of assessments to apportion 
+expenses for its regular budget and for peacekeeping 
+operations. For the period 2025–2027, the United 
+States and China are the largest contributors, each 
+accounting for more than 20 percent of the regular UN 
+budget and peacekeeping operations. 
+The UN Fifth Committee keeps a record of countries 
+that pay their dues on time, those with delays, and 
+those in extreme arrears. Countries in significant 
+arrears are subject to the provisions of Article 19: 
+“a Member of the United Nations which is in arrears 
+in the payment of its financial contributions to the 
+Organization shall have no vote in the General 
+Assembly if the amount of its arrears equals or exceeds 
+the amount of the contributions due from it for the 
+preceding two full years.” 
+Since contributions to the UN budget are determined 
+by the principle of capacity to pay, we do not rate coun-
+tries on the total amount they pay. However, no matter 
+the level of their contribution, every country can be 
+expected to pay their dues on time, to ensure the effec-
+tive functioning of the UN system. This indicator focuses 
+on delays in payment of UN dues over the period, 
+2020–2024 inclusive. A member state receives a perfect 
+score (100) for each year they appear on the UNGA 
+Committee on Contributions’ “honor roll“ list I (paid on 
+time). Members appearing on list II, indicating that dues 
+were paid after the 30-day due period, are given a score 
+of 66 (small delay in payment). Those absent from the 
+honor roll page are given a score of 33 (large delay in 
+payment). A score of 0 is given to countries in arrears 
+in the payment of their financial contributions, under 
+the terms of Article 19, in January of the subsequent 
+year, according to the list published on the UN General 
+Assembly dedicated Article 19 page (extreme arrears 
+in payment). Final scores correspond to each country’s 
+average across 2020–2024. 
+From 2020 to 2024, 21 countries systematically paid 
+their dues to the UN on time, within the 30-day due 
+period.3 Some countries, however, such as Comoros, 
+São Tomé and Príncipe, and Venezuela have appeared 
+on the Article 19 list several times. As largely docu-
+mented, delays in payment by some of the largest 
+contributors to the regular UN regular budget and 
+peacekeeping operations in recent years represents 
+a significant operational challenge for the effective 
+functioning of the UN system (The Economist 2025) 
+(Figure 3.11). 
+For HICs with available data, total scores are adjusted 
+based on their contribution to international solidar-
+ity, as measured by the percentage of their GNI that 
+is devoted to official development assistance (ODA), 
+averaged over the 2020–2024 period. Four OECD/DAC 
+members achieved the 0.7 percent target (Denmark, 
+Luxembourg, Norway, and Sweden). On average, 
+according to the OECD (2025), international aid 
+declined in 2024 by 7.1 percent in real terms compared 
+to the previous year (Figure 3.12).
+3. Commitment to the SDGs 
+3.	 These are: Armenia, Azerbaijan, Canada, Cuba, Denmark, Finland, 
+Hungary, Iceland, India, Ireland, Korea, Rep., Latvia, Liechtenstein, 
+Luxembourg, Malaysia, Netherlands, Norway, Poland, Singapore, 
+Switzerland, and Ukraine.
+
+page 59:
+47
+Sustainable Development Report 2025   
+   Financing Sustainable Development to 2030 and Mid-Century
+3. Commitment to the SDGs 
+Outlook
+Ensuring peace and security, advancing solutions 
+to address the climate and biodiversity crises, and 
+managing the pitfalls of runaway technologies – such 
+as advanced biotechnologies that could create new 
+pathogens, or AI systems capable of generating fake 
+news or provocations to war – cannot be resolved by 
+one country alone. These challenges require collabora-
+tion among nation-states. In a context where humanity 
+faces unprecedented threats of self-destruction 
+(Bulletin of Atomic Scientists 2025), nation-states, which 
+remain at the heart of the multilateral system, must be 
+held accountable for upholding the values and prin-
+ciples of the UN Charter and for advancing the SDGs 
+– our shared global vision for sustainable development.
+This chapter provides an overview of countries’ support 
+for the SDGs and UN-based multilateralism. It underlines 
+the overwhelming intention of most nation-states to 
+support UN-based multilateralism, while also addressing 
+how low and in some cases declining support among a 
+small group of powerful and influential UN member states 
+undermines the effective functioning of the UN system. All 
+countries should capitalize on the momentum of upcom-
+ing international conferences and summits – including in 
+2025 the FfD4 in Spain, the 80th UN General Assembly, 
+COP 30 in Brazil, and the UN World Social Summit, as well 
+as in 2027 the next SDG Summit at Heads-of-State level 
+– to recommit to strengthening UN-based multilateral-
+ism and global partnerships, as emphasized by SDG 17 
+(Partnerships for the Goals), and accelerating actions to 
+achieve the SDGs by 2030 and mid-century.
+References
+Bulletin of Atomic Scientists. 2025. Closer than Ever: It is Now 
+89 Seconds to Midnight. 2025 Doomsday Clock Statement. 
+Science and Security Board, Bulletin of the Atomic 
+Scientists, January 2025.
+Drexel University, HTWG Konstanz, and WIFO. 2024. Global 
+Sanctions Database (GSDB). Drexel University, Center 
+for Global Policy Analysis, Philadelphia, US; Hochschule 
+Konstanz University of Applied Sciences, Konstanz, Germany; 
+and the Austrian Institute of Economic Research (WIFO), 
+Vienna. https://www.globalsanctionsdatabase.com/.
+Felbermayr, Gabriel, Aleksandra Kirilakha, Constantinos 
+Syropoulos, and Erdal Yalcin,Yoto V. Yotov. 2020. 
+The global sanctions data base. Economic Review, 
+Elsevier, October 2020. https://doi.org/10.1016/j.
+euroecorev.2020.103561.
+IEP. 2024. Global Peace Index 2024: Measuring Peace 
+in a Complex World. Sydney, June 2024. Institute 
+for Economics and Peace. Available from: http://
+visionofhumanity.org/resources.
+Lafortune, Guillaume, and Jeffrey D. Sachs. 2024. The index 
+of countries’ support for UN-based multilateralism: 
+construction, verification, and correlates. Asian Economic 
+Papers 23 (3): 1‑28. https://doi.org/10.1162/asep_a_00902.
+Lafortune, Guillaume, and Jeffrey D. Sachs. 2025. The US Is 
+against the world on sustainable development. Nature 
+640 (8058): 318–318. https://doi.org/10.1038/d41586-
+025-01041-y.
+OECD. 2025. Preliminary official development assistance 
+levels in 2024. OECD Publishing, Paris.
+Sachs, J., G. Lafortune, and E Drumm. 2023. Index of UN-
+Based Multilateralism: A Pilot Study by the UN Sustainable 
+Development Solutions Network. SDSN.
+SIPRI. 2025. SIPRI Military Expenditure Database. Stockholm 
+International Peace Research Institute.
+The Economist. 2025. The UN could run out of cash within 
+months: America and China are pushing it to the brink 
+of financial collapse. The Economist, May 1, 2025. https://
+www.economist.com/international/2025/05/01/the-un-
+could-run-out-of-cash-within-months
+UNDP. 2024. Peoples’ Climate Vote 2024. UNDP, New York. 
+https://www.undp.org/publications/peoples-climate-
+vote-2024.
+United Nations. 1978. Final Document of the Tenth Special 
+Session of the General Assembly.Resolution adopted 
+on the report of the ad hoc committee of the tenth 
+special session, 23 May–30 June 1978. New York, https://
+digitallibrary.un.org/record/218448?ln=en&v=pdf#files.
+United Nations. 1987. Report of the International 
+Conference on the Relationship between Disarmament 
+and Development. United Nations, New York, 24 August – 
+11 September 1987.
+United Nations. 2015. Transforming Our World: The 2030 
+Agenda for Sustainable Development. A/RES/70/1. New 
+York: United Nations. https://sustainabledevelopment.
+un.org/post2015/transformingourworld
+United Nations. 2023. United Nations Security Council 
+Sanctions Regimes. United Nations Security Council. 
+Subsidiary Organs. Fact Sheets.
+United Nations. 2024. The Pact for the Future. UN General 
+Assembly Resolution.
+UNODA. 2020. Rethinking Unconstrained Military Spending. 
+United Nations Office for Disarmament Affairs. Occasional 
+Papers. N°35. April 2020.
+

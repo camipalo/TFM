@@ -1,0 +1,30 @@
+{
+    "1_Preface": {
+        "start_page": 4,
+        "end_page": 5
+    },
+    "2_Executive Summary": {
+        "start_page": 10,
+        "end_page": 12
+    },
+    "3_Introduction": {
+        "start_page": 13,
+        "end_page": 15
+    },
+    "4_Snapshot of SDG Implementation in Cities and Regions": {
+        "start_page": 17,
+        "end_page": 22
+    },
+    "5_The Role of the SDGs for COVID-19 Recovery in Cities and Regions": {
+        "start_page": 24,
+        "end_page": 26
+    },
+    "6_Impact of Current Crises on Key Policy Areas and SDGs": {
+        "start_page": 27,
+        "end_page": 40
+    },
+    "7_Annex A: Examples of Policies and Actions Implemented by Cities and Regions": {
+        "start_page": 42,
+        "end_page": 43
+    }
+}
