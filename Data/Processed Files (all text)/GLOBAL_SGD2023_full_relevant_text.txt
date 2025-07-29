@@ -3,9 +3,7 @@
 ===== GLOBAL_SGD2023_1_Executive_Summary =====
 
 page 7:
-vi
-Sustainable Development Report 2023   
-   Implementing the SDG Stimulus
+vi   
 Executive Summary
 At the midpoint of the 2030 Agenda, all of the SDGs are seriously off track. From 2015 to 2019, the world 
 made some progress on the SDGs, although this was already vastly insufficient to achieve the goals. Since the 
@@ -49,9 +47,7 @@ for Sustainable Development. We introduce in the report this year a pilot index 
 support of multilateralism under the UN Charter.
 
 page 8:
-vii
-Sustainable Development Report 2023   
-   Implementing the SDG Stimulus
+vii   
 Executive Summary
 Further investment is needed in statistical capacity and data literacy to support long-term pathways for key 
 SDG transformations. At the halfway mark to 2030, there remains a great deal of work to be done to improve the 
@@ -78,9 +74,7 @@ society in embracing and aligning with the SDGs on sustainable development.
 ===== GLOBAL_SGD2023_2_How_to_Achieve_the_SDGs_The_SDSN_Framework =====
 
 page 13:
-2
-Sustainable Development Report 2023   
-   Implementing the SDG Stimulus
+2   
 Overview
 1.	 General Assembly Economic and Social Council, Progress towards the 
 Sustainable Development Goals: Towards a Rescue Plan for People and 
@@ -162,9 +156,7 @@ Part 1. How to Achieve the SDGs: The SDSN Framework
 
 page 14:
 Overview
-3
-Sustainable Development Report 2023   
-   Implementing the SDG Stimulus
+3   
 III.	 All UN Member States should adopt long-term 
 sustainable development pathways that provide 
 a stepwise and medium- to long-term approach to 
@@ -233,9 +225,7 @@ community can and should accelerate SDG progress.
 1. The SDSN Framework
 
 page 15:
-4
-Sustainable Development Report 2023   
-   Implementing the SDG Stimulus
+4   
 Introduction
 The SDGs are facing strong headwinds. Despite significant 
 efforts in some places, national governments on all 
@@ -320,9 +310,7 @@ Part 1. How to Achieve the SDGs: The SDSN Framework
 
 page 16:
 Dire shortfalls in meeting the SDGs 
-5
-Sustainable Development Report 2023   
-   Implementing the SDG Stimulus
+5   
 to reaching a disastrous 2.8°C warming by 2100.5 Current 
 Nationally Determined Contribution (NDC) targets, if 
 implemented, would still lead to around 2.4°C warming 
@@ -381,9 +369,7 @@ Trend needed to achieve the SDGs
 1. The SDSN Framework
 
 page 17:
-6
-Sustainable Development Report 2023   
-   Implementing the SDG Stimulus
+6   
 of nearly 90% of global fish stocks.6 The crises facing 
 our oceans are unabated, multidimensional, and 
 complex. These crises include the destruction of 
@@ -456,9 +442,7 @@ Part 1. How to Achieve the SDGs: The SDSN Framework
 
 page 18:
 Planetary boundaries and geophysical tipping points
-7
-Sustainable Development Report 2023   
-   Implementing the SDG Stimulus
+7   
 Planetary boundaries and 
 geophysical tipping points
 Humanity is eroding the biological and physical 
@@ -532,9 +516,7 @@ Source: UNEP, Emissions Gap Report 2022
 1. The SDSN Framework
 
 page 19:
-8
-Sustainable Development Report 2023   
-   Implementing the SDG Stimulus
+8   
 tipping point would be the collapse of the world’s 
 rainforests due to warming (and associated drying) in the 
 Amazon, Congo, and other tropical regions, which would 
@@ -620,9 +602,7 @@ Part 1. How to Achieve the SDGs: The SDSN Framework
 
 page 20:
 Investing in the SDGs 
-9
-Sustainable Development Report 2023   
-   Implementing the SDG Stimulus
+9   
 United States, and much of the world is trying to adjust 
 to the strains between these two major economies. 
 The disastrous war in Ukraine has further destabilized 
@@ -707,9 +687,7 @@ and health, or if there is no electricity, piped water,
 1. The SDSN Framework
 
 page 21:
-10
-Sustainable Development Report 2023   
-   Implementing the SDG Stimulus
+10   
 transport, or digital access. A society cannot function 
 peacefully if there is a breakdown of social capital. 
 A city cannot function without water. Challenges 
@@ -796,9 +774,7 @@ Part 1. How to Achieve the SDGs: The SDSN Framework
 
 page 22:
 Failures (and some successes) of national SDG governance 
-11
-Sustainable Development Report 2023   
-   Implementing the SDG Stimulus
+11   
 only low to moderate SDG commitments, although 
 of course these countries have also not received the 
 financing needed to support the Goals.14 In many cases, 
@@ -886,9 +862,7 @@ presented two VNRs to the HLPF (2016 and 2021). The
 1. The SDSN Framework
 
 page 23:
-12
-Sustainable Development Report 2023   
-   Implementing the SDG Stimulus
+12   
 14th five-year plan referred to the 2030 Agenda mainly 
 in the context of international cooperation. Recently, 
 China has reiterated its support for the SDGs, such as in 
@@ -968,9 +942,7 @@ Part 1. How to Achieve the SDGs: The SDSN Framework
 
 page 24:
 Failures of the global financial architecture
-13
-Sustainable Development Report 2023   
-   Implementing the SDG Stimulus
+13   
 Failures of the global financial 
 architecture
 The “global financial architecture” (GFA) refers to the 
@@ -1050,9 +1022,7 @@ and monitor progress in an open and timely manner.
 1. The SDSN Framework
 
 page 25:
-14
-Sustainable Development Report 2023   
-   Implementing the SDG Stimulus
+14   
 SDSN’s strategy to achieve the SDGs
 Overhauling global governance mechanisms and the 
 global financial architecture is fundamental to unlocking 
@@ -1150,9 +1120,7 @@ Part 1. How to Achieve the SDGs: The SDSN Framework
 
 page 26:
 SDSN’s strategy to achieve the SDGs
-15
-Sustainable Development Report 2023   
-   Implementing the SDG Stimulus
+15   
 health access and coverage, and universal (pre-
 primary, primary, and secondary) high-quality public 
 education, is daunting. These challenges are far more 
@@ -1238,9 +1206,7 @@ to achieve the Sustainable Development Goals. Nat Sustain 2, 805–814
 1. The SDSN Framework
 
 page 27:
-16
-Sustainable Development Report 2023   
-   Implementing the SDG Stimulus
+16   
 (LMICs). Careful research by the SDSN and the 
 International Monetary Fund has revealed the very 
 large financing gap facing nations in the poorer half 
@@ -1327,9 +1293,7 @@ Part 1. How to Achieve the SDGs: The SDSN Framework
 
 page 28:
 Regional cooperation and sustainable development
-17
-Sustainable Development Report 2023   
-   Implementing the SDG Stimulus
+17   
 The urgent objective of the SDG Stimulus is to address – 
 in practical terms and at scale – the chronic shortfall of 
 international SDG financing facing the LICs and LMICs, 
@@ -1413,9 +1377,7 @@ as the birthplace of the “Mediterranean diet,” with an
 1. The SDSN Framework
 
 page 29:
-18
-Sustainable Development Report 2023   
-   Implementing the SDG Stimulus
+18   
 agri-food sector with the potential to meet the increased 
 demand for healthy, sustainable foods in the future. 
 Transport, zero-carbon power, and digital (fiberoptic) 
@@ -1493,9 +1455,7 @@ Part 1. How to Achieve the SDGs: The SDSN Framework
 
 page 30:
 The continuing efforts of the SDSN
-19
-Sustainable Development Report 2023   
-   Implementing the SDG Stimulus
+19   
 Global peace as the prerequisite for 
 sustainable development 
 28.	Xinhua. 2022. Xi meets German Chancellor Olaf Scholz. https://english.
@@ -1581,9 +1541,7 @@ States in November 2019. In September 2022, at the
 1. The SDSN Framework
 
 page 31:
-20
-Sustainable Development Report 2023   
-   Implementing the SDG Stimulus
+20   
 Transforming Education Summit in New York, the United 
 Nations Secretary-General announced a number of global 
 initiatives. One of them is the International Financing 
@@ -1673,9 +1631,7 @@ Part 1. How to Achieve the SDGs: The SDSN Framework
 
 page 32:
 Sustainable development to 2030 and 2050 
-21
-Sustainable Development Report 2023   
-   Implementing the SDG Stimulus
+21   
 reduce their costs. Governments are only now building 
 the digital platforms and data networks that integrated 
 strategies will depend on. And governments are only 
@@ -1715,9 +1671,7 @@ implementation of the SDGs by all countries.
 ===== GLOBAL_SGD2023_3_The_SDG_Index_and_Dashboards =====
 
 page 34:
-23
-Sustainable Development Report 2023   
-   Implementing the SDG Stimulus
+23   
 The SDG Index and Dashboards track the annual progress of all 193 UN Member States towards the SDGs 
 (Box 2.1). At the midpoint of the 2030 Agenda, however, the SDGs are far off track. Despite the world improv-
 ing on average half a point per year on the SDG Index between 2015 and 2019 (which was already too slow) 
@@ -1782,9 +1736,7 @@ targets are on track (United Nations 2023; UNECE 2023).
 page 38:
 2.2 Leave no one behind
 2. The SDG Index and Dashboards
-27
-Sustainable Development Report 2023   
-   Implementing the SDG Stimulus
+27   
 There is significant variation in progress by regions and 
 income groups. Overall, European countries top the SDG 
 Index and are also on track to achieving more targets 
@@ -1843,9 +1795,7 @@ where there was some convergence in SDG outcomes
 page 42:
 2.3 International spillovers and policy coherence
 2. The SDG Index and Dashboards
-31
-Sustainable Development Report 2023   
-   Implementing the SDG Stimulus
+31   
 Above all, the SDGs represent an investment agenda: 
 to develop physical infrastructure (including renewable 
 energy, electrification, broadband access, public 
@@ -1907,9 +1857,7 @@ methodology, based on Workman, R. & McPherson, K., TRL (2019). The averages for 
 Source: Authors’ analysis
 
 page 43:
-32
-Sustainable Development Report 2023   
-   Implementing the SDG Stimulus
+32   
 2. The SDG Index and Dashboards
 The 2030 Agenda and the SDGs recognize the 
 importance of international spillovers in several 
@@ -1977,9 +1925,7 @@ Source: Authors’ analysis
 page 44:
 2.3 International spillovers and policy coherence
 2. The SDG Index and Dashboards
-33
-Sustainable Development Report 2023   
-   Implementing the SDG Stimulus
+33   
 Source: SDSN, Yale Center for Environmental Law & Policy, and Center for Global Commons at the University of Tokyo. 2023, Global Commons Stewardship Index 2022. Paris; New Haven, CT; and Tokyo.
 Supply chains can stretch through multiple countries, 
 and spillover impacts accumulate as they are embodied 
@@ -2101,9 +2047,7 @@ Embodied
 Air Emissions
 
 page 45:
-34
-Sustainable Development Report 2023   
-   Implementing the SDG Stimulus
+34   
 2. The SDG Index and Dashboards
 Non-Spillovers 
 41%
@@ -2143,9 +2087,7 @@ the country performs worst. Good performance on five of
 page 46:
 2.4 SDG Dashboards by income groups and major world regions
 2. The SDG Index and Dashboards
-35
-Sustainable Development Report 2023   
-   Implementing the SDG Stimulus
+35   
 seven indicators, for example, does not compensate for 
 poor performance on the other two. In other words, our 
 methodology assumes low substitutability or compensa-
@@ -2182,9 +2124,7 @@ Note: Correlation coefficient (r) between SDG Index scores=0.97.  Source: Author
 ===== GLOBAL_SGD2023_4_Government_Efforts_and_Commitments_for_the_SDGs =====
 
 page 58:
-47
-Sustainable Development Report 2023   
-   Implementing the SDG Stimulus
+47   
 Government Efforts and Commitments  
 to the SDGs
 Part 3
@@ -2258,9 +2198,7 @@ and investments for the SDGs (presented in the next
 sub-section).
 
 page 59:
-48
-Sustainable Development Report 2023   
-   Implementing the SDG Stimulus
+48   
 Part 3. Government Efforts and Commitments
 This year’s survey covers 74 countries (14 more than 
 in 2022) plus the European Union. It includes all G20 
@@ -2319,9 +2257,7 @@ A conceptual framework to evaluate government efforts and commitment to the SDGs
 
 page 62:
 3. Government Efforts & Commitments 
-51
-Sustainable Development Report 2023   
-   Implementing the SDG Stimulus
+51   
 3.1 Political leadership and institutional coordination: results from 
 the 2023 SDSN survey of government efforts for the SDGs
 when only 57 percent of surveyed countries had done so 
@@ -2415,9 +2351,7 @@ monitoring systems, and multi-year budget allocations
 remains an important priority.
 
 page 65:
-54
-Sustainable Development Report 2023   
-   Implementing the SDG Stimulus
+54   
 Part 3. Government Efforts and Commitments
 As G20 countries represent two-thirds of the world’s 
 population and 85 percent of global GDP, integrating 
@@ -2502,9 +2436,7 @@ accessible online.
 page 66:
 Transformation 2: Universal health coverage 
 3. Government Efforts & Commitments 
-55
-Sustainable Development Report 2023   
-   Implementing the SDG Stimulus
+55   
 Transformation 1: Universal quality 
 education and innovation-based 
 economy 
@@ -2575,9 +2507,7 @@ environmental drivers, through “One Health” approaches
 (Sachs et al, 2022; McKee et al, 2021).
 
 page 69:
-58
-Sustainable Development Report 2023   
-   Implementing the SDG Stimulus
+58   
 Part 3. Government Efforts and Commitments
 Transformation 3: Zero-carbon 
 energy systems
@@ -2674,9 +2604,7 @@ reaching nature of this Transformation, we are not yet in a
 position to present a scorecard for Transformation 4.
 
 page 71:
-60
-Sustainable Development Report 2023   
-   Implementing the SDG Stimulus
+60   
 Part 3. Government Efforts and Commitments
 Transformation 5: Sustainable cities 
 Cities and other urban areas are home to around 
@@ -2735,9 +2663,7 @@ Other
 page 72:
 Transformation 6: Universal digital access and services
 3. Government Efforts & Commitments 
-61
-Sustainable Development Report 2023   
-   Implementing the SDG Stimulus
+61   
 be considered proxies of local government commitment 
 to achieving the triple objective of being economically 
 productive, socially inclusive, and environmentally 
@@ -2816,9 +2742,7 @@ respond to and to prevent cybersecurity threats.
 page 74:
 3.3 Support for multilateralism under the Charter of the United Nations 
 3. Government Efforts & Commitments 
-63
-Sustainable Development Report 2023   
-   Implementing the SDG Stimulus
+63   
 3.3 Support for multilateralism 
 under the Charter of the 
 United Nations 
@@ -2909,9 +2833,7 @@ shows the percentage each country has ratified of a select
 page 76:
 3.3 Support for multilateralism under the Charter of the United Nations 
 3. Government Efforts & Commitments 
-65
-Sustainable Development Report 2023   
-   Implementing the SDG Stimulus
+65   
 list of 58 treaties. This shorter list includes only those treaties 
 ratified by more than 50 percent of UN Member States. 
 Austria, Hungary, Italy, Nigeria, Spain, and Sweden have 
@@ -2999,9 +2921,7 @@ withdrew funding to UNESCO in 2011 and withdrew their
 membership in 2019.
 
 page 81:
-70
-Sustainable Development Report 2023   
-   Implementing the SDG Stimulus
+70   
 Part 3. Government Efforts and Commitments
 Militarization and participation in conflicts: This 
 indicator aims to capture countries’ efforts to promote 
@@ -3092,9 +3012,7 @@ Source: Authors analysis
 page 82:
 3.4 Government effort and commitments for the SDGs: overall scores
 3. Government Efforts & Commitments 
-71
-Sustainable Development Report 2023   
-   Implementing the SDG Stimulus
+71   
 3.4 Government effort and 
 commitments for the SDGs: 
 overall scores
@@ -3187,9 +3105,7 @@ needs as well as their commitments.
 ===== GLOBAL_SGD2023_5_Lessons_Learned_and_Next_Steps =====
 
 page 88:
-77
-Sustainable Development Report 2023   
-   Implementing the SDG Stimulus
+77   
 Lessons Learned and Next Steps
 Ten Years of Work on SDG Data and Statistics by  
 The SDSN, its Networks, and Partners
@@ -3267,9 +3183,7 @@ Review (VNR) process. The IAEG-SDG, which has operated
 under the United Nations Statistical Commission (UNSC)
 
 page 89:
-78
-Sustainable Development Report 2023   
-   Implementing the SDG Stimulus
+78   
 Part 4.Lessons Learned and Next Steps
 since 2015, was tasked to develop and implement the 
 global indicator framework for the SDGs. The global 
@@ -3360,9 +3274,7 @@ is conducted using draft SDG Index results before
 page 90:
 4.1 The SDG Index: a tool for guiding SDG action and strengthening accountability
 4. Lessons Learned and Next Steps
-79
-Sustainable Development Report 2023   
-   Implementing the SDG Stimulus
+79   
 Box 4.1	
 GIS for the SDGs: Assessing pedestrian accessibility in urban areas
 In the 2030 Agenda for Sustainable Development and the associated New Urban Agenda, countries agreed to take action 
@@ -3390,9 +3302,7 @@ Figure 4.1
 Map of Lagos, Nigeria, showing the scale at which calculations are performed (100 m2 grid).
 
 page 91:
-80
-Sustainable Development Report 2023   
-   Implementing the SDG Stimulus
+80   
 Part 4.Lessons Learned and Next Steps
 Box 4.2 GIS for the SDGs: Assessing accessibility to all-season roads in rural areas
 SDG Indicator 9.1.1 considers the proportion of the rural population living within two kilometers of an all-season road: a 
@@ -3435,9 +3345,7 @@ rural Democratic Republic of the Congo
 page 92:
 4.1 The SDG Index: a tool for guiding SDG action and strengthening accountability
 4. Lessons Learned and Next Steps
-81
-Sustainable Development Report 2023   
-   Implementing the SDG Stimulus
+81   
 the final report is presented. Indicator selection and 
 performance thresholds are informed by several rounds 
 of consultations with SDSN experts, scientists, and 
@@ -3500,9 +3408,7 @@ Voluntary Review of the implementation of the 2030 Agenda, and has inspired stro
 the Committee’s issued opinions. We look forward to continuing our cooperation with SDSN in the future.
 
 page 93:
-82
-Sustainable Development Report 2023   
-   Implementing the SDG Stimulus
+82   
 Part 4.Lessons Learned and Next Steps
 and local organizations throughout the world. Comments 
 submitted by governments, researchers, and practitioners 
@@ -3596,9 +3502,7 @@ not frequently updated.
 page 94:
 4.1 The SDG Index: a tool for guiding SDG action and strengthening accountability
 4. Lessons Learned and Next Steps
-83
-Sustainable Development Report 2023   
-   Implementing the SDG Stimulus
+83   
 Box 4.4 SDG Index and Dashboards: global, regional, and subnational editions (2016–2023)
 The UN Secretary-General António Guterres has rightly stated that “cities are where the climate battle will largely be won or 
 lost.” Meeting the SDGs and the Paris Agreement goals requires ambitious policies, financing, and monitoring frameworks at 
@@ -3615,9 +3519,7 @@ Subnational editions
 Global editions
 
 page 95:
-84
-Sustainable Development Report 2023   
-   Implementing the SDG Stimulus
+84   
 Part 4.Lessons Learned and Next Steps
 Strategically, the SDSN is very much committed to sup-
 porting global efforts to promote high-quality and timely 
@@ -3680,9 +3582,7 @@ of Abomey-Calavi and the Research and Strategic Studies Directorate of the Minis
 page 96:
 4.1 The SDG Index: a tool for guiding SDG action and strengthening accountability
 4. Lessons Learned and Next Steps
-85
-Sustainable Development Report 2023   
-   Implementing the SDG Stimulus
+85   
 On point (4), some advocate for greater use of material 
 footprint indicators and indicators of natural resource use 
 (Hickel 2020). While we agree that material resource use 
@@ -3771,9 +3671,7 @@ Index is often perceived by countries as a sign of weak
 data capacity.
 
 page 97:
-86
-Sustainable Development Report 2023   
-   Implementing the SDG Stimulus
+86   
 Part 4.Lessons Learned and Next Steps
 4.2 Have the SDGs increased data 
 cooperation and innovation?
@@ -3826,9 +3724,7 @@ climate change will also inform the upcoming Convention of Parties (COP28) in Du
 page 98:
 4.2 Have the SDGs increased data cooperation and innovation?
 4. Lessons Learned and Next Steps
-87
-Sustainable Development Report 2023   
-   Implementing the SDG Stimulus
+87   
 Prior to the SDGs, countries lacked a standardized method 
 of comparing their development performance with 
 that of their peers across a broad array of development 
@@ -3891,9 +3787,7 @@ Note: From 0 (worst) to 100 (best).
 Source: Authors’ calculations, based on World Bank Statistical Performance Indicators (2023).
 
 page 99:
-88
-Sustainable Development Report 2023   
-   Implementing the SDG Stimulus
+88   
 Part 4.Lessons Learned and Next Steps
 The impact of COVID-19 (and other crises?) on 
 data innovation
@@ -3984,9 +3878,7 @@ private, and philanthropic sectors” (HLG-PCCB 2023).
 page 100:
 4.3. Conclusions and next steps
 4. Lessons Learned and Next Steps
-89
-Sustainable Development Report 2023   
-   Implementing the SDG Stimulus
+89   
 3.	 We need to invest in data and science literacy to 
 strengthen the science-policy interface. According 
 to major international studies, few 15-year-old 

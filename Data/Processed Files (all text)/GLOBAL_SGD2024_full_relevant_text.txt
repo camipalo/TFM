@@ -3,7 +3,6 @@
 ===== GLOBAL_SGD2024_0_Unlocking_the_power_of_data_for_sustainable_development =====
 
 page 6:
-The Sustainable Development Goals Report 2024
 4
 Unlocking the power of data for sustainable development
 Accurate, timely and disaggregated data are vital for measuring progress 
@@ -234,7 +233,6 @@ Data breakdown by sex
 Data breakdown by both sex and other non-geographic disaggregation
 
 page 8:
-The Sustainable Development Goals Report 2024
 6
 Ensuring that no one is left behind calls for more than just data 
 disaggregation. Uncovering the intersectional disadvantages faced by the 
@@ -460,7 +458,6 @@ Rarely, no arrangement or nonresponse
 ===== GLOBAL_SGD2024_10_Reduced_inequalities =====
 
 page 30:
-The Sustainable Development Goals Report 2024
 28
 Reduced inequalities
 •	
@@ -702,7 +699,6 @@ transparency issues, and low digital and financial literacy.
 ===== GLOBAL_SGD2024_11_Sustainable_cities_and_communities =====
 
 page 32:
-The Sustainable Development Goals Report 2024
 30
 Sustainable cities and 
 communities
@@ -943,7 +939,6 @@ Sub-Saharan Africa
 ===== GLOBAL_SGD2024_12_Responsible_consumption_and_production =====
 
 page 34:
-The Sustainable Development Goals Report 2024
 32
 Responsible 
 consumption and 
@@ -1181,7 +1176,6 @@ Note: Material footprint (MF) is based on estimates while domestic material cons
 ===== GLOBAL_SGD2024_13_Climate_action =====
 
 page 36:
-The Sustainable Development Goals Report 2024
 34
 Reaching the $100 billion climate finance goal is a milestone yet trillions are needed for national action 
 plans
@@ -1398,7 +1392,6 @@ Global estimate of fossil fuel subsidies, 2010–2022 (billions of dollars)
 ===== GLOBAL_SGD2024_14_Life_below_water =====
 
 page 38:
-The Sustainable Development Goals Report 2024
 36
 Life below water
 •	
@@ -1665,7 +1658,6 @@ These measures provide sustained, positive conservation outcomes even if they ar
 ===== GLOBAL_SGD2024_15_Life_on_land =====
 
 page 40:
-The Sustainable Development Goals Report 2024
 38
 •	
 Global trends underscore persistent challenges to biodiversity and 
@@ -1954,7 +1946,6 @@ Nival
 ===== GLOBAL_SGD2024_16_Peace,_justice_and_strong_institutions =====
 
 page 42:
-The Sustainable Development Goals Report 2024
 40
 Peace, justice and 
 strong institutions
@@ -2238,7 +2229,6 @@ More than 15%
 ===== GLOBAL_SGD2024_17_Partnerships_for_the_Goals =====
 
 page 44:
-The Sustainable Development Goals Report 2024
 42
 Partnerships for the 
 Goals
@@ -2477,7 +2467,6 @@ World
 ===== GLOBAL_SGD2024_1_No_poverty =====
 
 page 10:
-The Sustainable Development Goals Report 2024
 8
 No poverty
 •	
@@ -2735,7 +2724,6 @@ Emerging and developing economies
 ===== GLOBAL_SGD2024_2_Zero_hunger =====
 
 page 12:
-The Sustainable Development Goals Report 2024
 10
 Zero hunger
 •	
@@ -3030,7 +3018,6 @@ Oceania*
 ===== GLOBAL_SGD2024_3_Good_health_and_well-being =====
 
 page 14:
-The Sustainable Development Goals Report 2024
 12
 Good health 
 and well-being
@@ -3369,7 +3356,6 @@ Zealand
 World
 
 page 16:
-The Sustainable Development Goals Report 2024
 14
 Efforts to combat communicable diseases have prevented millions of deaths but are threatened by 
 inequalities and emerging threats  
@@ -3646,7 +3632,6 @@ COVID-19 control
 ===== GLOBAL_SGD2024_4_Quality_education =====
 
 page 18:
-The Sustainable Development Goals Report 2024
 16
 Quality education
 •	
@@ -3916,7 +3901,6 @@ Proportion of primary school teachers with minimum required qualifications,
 ===== GLOBAL_SGD2024_5_Gender_equality =====
 
 page 20:
-The Sustainable Development Goals Report 2024
 18
 •	
 The world continues to lag in its pursuit of gender equality by 2030. 
@@ -4205,7 +4189,6 @@ Multiple Indicator Cluster Surveys and other national surveys conducted from 200
 ===== GLOBAL_SGD2024_6_Clean_water_and_sanitation =====
 
 page 22:
-The Sustainable Development Goals Report 2024
 20
 Clean water and 
 sanitation
@@ -4394,7 +4377,6 @@ Note: Number of countries per level in parentheses.
 ===== GLOBAL_SGD2024_7_Affordable_and_clean_energy =====
 
 page 24:
-The Sustainable Development Goals Report 2024
 22
 Affordable and clean 
 energy
@@ -4614,7 +4596,6 @@ received 35 per cent, wind energy 11 per cent and hydropower 7 per cent.
 ===== GLOBAL_SGD2024_8_Decent_work_and_economic_growth =====
 
 page 26:
-The Sustainable Development Goals Report 2024
 24
 Decent work and 
 economic growth
@@ -4900,7 +4881,6 @@ collective bargaining) based on ILO textual sources and national legislation,
 ===== GLOBAL_SGD2024_9_Industry,_innovation_and_infrastructure =====
 
 page 28:
-The Sustainable Development Goals Report 2024
 26
 Industry, innovation and 
 infrastructure
