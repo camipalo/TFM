@@ -1,6 +1,6 @@
-# Detección Automática de Relaciones entre Argumentos de los ODS
+# Análisis de Políticas de Sostenibilidad mediante técnicas de Argumentacion Computacional
 
-Este repositorio contiene el código, los prompts, los resultados y el documento en LaTeX del informe titulado **"Detección Automática de Relaciones entre Argumentos de los Objetivos de Desarrollo Sostenible (ODS)"**, presentado en el marco del curso **Herramientas y Aplicaciones de la Inteligencia Artificial (MIARFID)** de la Universitat Politècnica de València.
+Este repositorio contiene el código, los prompts, los resultados y el documento en LaTeX del TFM titulado **"Análisis de Políticas de Sostenibilidad mediante técnicas de Argumentacion Computacional"**, presentado como Trabajo Final del **Master en Inteligencia Artificial Reconocimiento de Formas e Imagen Digital (MIARFID)** de la Universitat Politècnica de València.
 
 Se emplean distintos modelos como:
 
@@ -27,7 +27,6 @@ Se emplean distintos modelos como:
   - `scikit-learn`
   - `matplotlib`
 
-## Autoras
+## Autora
 
-- Ana Valentina López Chacón.
 - Camila Palomeque Tato.
