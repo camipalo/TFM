@@ -2084,41 +2084,6 @@ in the methodology section, dashboard ratings for each
 goal are based on data for the two indicators on which 
 the country performs worst. Good performance on five of
 
-page 46:
-2.4 SDG Dashboards by income groups and major world regions
-2. The SDG Index and Dashboards
-35   
-seven indicators, for example, does not compensate for 
-poor performance on the other two. In other words, our 
-methodology assumes low substitutability or compensa-
-tion across indicators in the construction of our composite 
-index. The arrow system focuses on structural trajectories 
-since the adoption of the SDGs (and less on year-on-year 
-changes). As in previous years, the dashboards include 
-Box 2.2 Explaining the SDG Index with a handful of key indicators
-The SDG Index is an accountability tool, but it is also a tool to highlight data gaps and areas where further effort is needed to 
-strengthen data availability and timeliness. Overall, this year’s edition includes 97 indicators. Yet the SDG Index score and rankings 
-can be explained through a handful of key indicators. Using 17 “headline” indicators that cover SDSN’s Six SDG Transformations and 
-other major principles, including leave no one behind, good governance, and the concept of international spillovers, we find a 
-very high and statistically significant correlation (both in terms of scores and ranks) with the overall SDG Index. These indicators are: 
-(1) Poverty headcount ratio at US$2.15/day, (2) Prevalence of undernourishment, (3) Life expectancy at birth, (4) Lower secondary 
-completion rate, (5) Share of women parliamentarians, (6) Population using at least basic sanitation services, (7) Population with 
-access to electricity, (8) Unemployment rate, (9) Population using the internet, (10) GINI coefficient, (11) Annual mean concentration 
-of particulate matter of less than 2.5 microns in diameter, (12) Imported SO2 emissions, (13) CO₂ emissions from fossil fuel combustion 
-and cement production, (14) Ocean Health Index: Clean Water, (15) Red List Index of species survival, (16) Corruption perception 
-index, and (17) Statistical Performance Index. There are no signs of collinearity among these indicators. 
-population-weighted averages for each region and 
-income group, using the same set of indicators as the SDG 
-Index. The OECD dashboards incorporate more indicators 
-than others, owing to the greater availability of data for 
-these countries. We also find that 17 “headline” indicators 
-tend to be very good predictors of the overall SDG Index, 
-which uses 97 indicators (Box. 2.2). 
-Figure 2.15 
-Correlation between 2023 SDG Index Score and Narrow SDG Index (17 “headline” indicators)
-Narrow
-Note: Correlation coefficient (r) between SDG Index scores=0.97.  Source: Authors
-
 
 
 ===== GLOBAL_SGD2023_4_Government_Efforts_and_Commitments_for_the_SDGs =====
