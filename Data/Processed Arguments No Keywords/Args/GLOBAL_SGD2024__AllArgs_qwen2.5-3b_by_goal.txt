@@ -1,0 +1,129 @@
+{
+  "0": [
+    "The world is severely off track to realize the 2030 Agenda. Of the 169 targets, only 17 percent display progress sufficient for achievement by 2030.",
+    "Ensuring that no one is left behind calls for more than just data disaggregation. Uncovering the intersectional disadvantages faced by the most marginalized groups demands additional efforts.",
+    "In 2023, only 65 per cent of countries had fully funded and implemented national statistical plans."
+  ],
+  "1": [
+    "The proportion of people living below half the median income is falling globally",
+    "One in three of these countries are poorer than before the pandemic.",
+    "Rising borrowing costs have and will continue to divert scarce resources from critical development needs such as poverty reduction, climate action, health and education.",
+    "The COVID-19 pandemic caused extreme poverty to rise in 2020 for the first time in decades, reversing global progress by three years. The share of the world’s population living in extreme poverty rose from 8.9 per cent in 2019 to 9.7 per cent in 2020, driven by increases in low- and lower-middle-income countries.",
+    "Despite improvement, 7 in 10 children worldwide still lack social protection coverage In 2023, only 28.2 per cent of children aged 0 to 15 globally received child cash benefits, up from 22.1 per cent in 2015. This left 1.4 billion children without social protection coverage.",
+    "The maternal mortality ratio is largely stuck at a level more than three times the 2030 target.",
+    "The global maternal mortality ratio declined only marginally from 227 to 223 maternal deaths per 100,000 live births between 2015 and 2020.",
+    "Only about 1 in 11 individuals with drug use disorders received related treatment in 2022.",
+    "To meet national 2030 education targets, which have been scaled back compared to the original Goal 4 targets, countries must annually enrol 1.4 million children in early childhood education, admit a new child to school every two seconds until 2030 and triple annual progress in primary completion rates.",
+    "In 2022, roughly half the world’s population experienced severe water scarcity for at least part of the year. One quarter faced ‘extremely high’ levels of water stress.",
+    "High water stress can have devastating consequences for the environment and hinder or even reverse economic and social development.",
+    "The number without clean cooking fuels declined from 2.8 billion to 2.1 billion over the same period.",
+    "Developing countries witnessed substantial expansion from 155 to 293 renewable watts per capita.",
+    "25\nSubstantial declines in labour rights plague all regions, worsening prospects for social justice"
+  ],
+  "2": [
+    "One in three of these countries are poorer than before the pandemic.",
+    "An alarming 19 per cent of all food at the retail or consumption stage was wasted in 2022, totalling 1.05 billion metric tons of all food available to consumers.",
+    "In 2022, almost 60 per cent of countries worldwide faced moderately to abnormally high food prices due to the spillover effects of conflicts, such as disrupted supply chains.",
+    "Nearly 60 per cent of countries faced moderately to abnormally high food prices in 2022"
+  ],
+  "3": [
+    "The strong statistical foundation draws on both traditional and innovative data sources. Traditional data sources include censuses, surveys and administrative data.",
+    "Overfishing, pollution, climate change and poor management drive continued declines in fish stocks",
+    "Globally, small-scale farming caused 68 per cent of agriculture-driven deforestation, while large-scale farming contributed to 32 per cent.",
+    "In 2023, about 733 million people faced hunger, and 2.33 billion people experienced moderate to severe food insecurity.",
+    "In 95 per cent of countries with available data, the average annual income of small-scale producers is less than half that of larger-scale producers.",
+    "The maternal mortality ratio is largely stuck at a level more than three times the 2030 target.",
+    "Under-5 deaths reached an historic low in 2022, but progress has slowed. Without accelerated declines, 35 million children will not live to see their fifth birthday by 2030.",
+    "Declines in maternal mortality have stalled, with wide disparities by region and income. Between 2015 and 2020, the global maternal mortality ratio declined only marginally from 227 to 223 maternal deaths per 100,000 live births, over three times higher than the 2030 target of 70.",
+    "In sub-Saharan Africa, only 73 per cent of births were attended by skilled personnel in 2023, the lowest rate worldwide. In contrast, Eastern and South-Eastern Asia achieved a rate of 96 per cent.",
+    "The adolescent birth rate for women aged 15–19 years declined to 41.3 births per 1,000 women in 2023, from 47.2 in 2015 and 64.5 in 2000. For girls aged 10–14 years, the rate fell from 3.3 births per 1,000 girls in 2000 to 1.8 in 2015 and 1.5 in 2023.",
+    "Global under-5 deaths reached a historic low of 4.9 million in 2022, down from 9.9 million in 2000 and 6.0 million in 2015. Nearly half these deaths (2.3 million) occurred during the neonatal period.",
+    "HIV/AIDS: The world has made significant strides in combating HIV. In 2022, an estimated 1.3 million new infections represented a 27 per cent decrease since 2015 and a 38 per cent reduction since 2010.",
+    "Twenty-one million children missed out on life- saving vaccines in 2022",
+    "Coverage of two doses of the measles vaccine and three doses of the pneumococcal conjugate vaccine increased in 2022, reaching 74 per cent and 60 per cent, respectively, following stagnation in 2020–2021.",
+    "Child marriage and female genital mutilation violate the rights of girls and have lifelong consequences.",
+    "Some countries have made strides towards ending female genital mutilation, but new estimates show an increase of 30 million cases compared to eight years ago.",
+    "Women’s empowerment in sexual and reproductive health decisions remains restricted globally, although positive strides are evident in some places."
+  ],
+  "4": [
+    "To meet national 2030 education targets, which have been scaled back compared to the original Goal 4 targets, countries must annually enrol 1.4 million children in early childhood education, admit a new child to school every two seconds until 2030 and triple annual progress in primary completion rates.",
+    "Seven out of 10 children globally attended organized learning one year before the official primary entry age in 2022, a rate unchanged since 2015. In sub-Saharan Africa and Northern Africa and Western Asia, less than half of children attended pre-primary school, despite previous progress.",
+    "One in five girls was married before 18 today compared to one in four 25 years ago; 68 million child marriages were averted in this period."
+  ],
+  "5": [
+    "The adolescent birth rate for women aged 15–19 years declined to 41.3 births per 1,000 women in 2023, from 47.2 in 2015 and 64.5 in 2000. For girls aged 10–14 years, the rate fell from 3.3 births per 1,000 girls in 2000 to 1.8 in 2015 and 1.5 in 2023.",
+    "One in five girls still marry before age 18.",
+    "A staggering 230 million girls and women have been subjected to female genital mutilation.",
+    "Harmful practices are declining but not at rates keeping up with population growth",
+    "Child marriage and female genital mutilation violate the rights of girls and have lifelong consequences.",
+    "An estimated 640 million girls and women were married in childhood globally, with one third in India alone.",
+    "Some countries have made strides towards ending [female genital mutilation] but new estimates show an increase of 30 million cases compared to eight years ago.",
+    "In some regions, [women] hold 40 per cent of global employment, they only occupied 27.5 per cent of managerial positions in 2022, the same share as in 2016."
+  ],
+  "6": [
+    "In 2022, roughly half the world’s population experienced severe water scarcity for at least part of the year. One quarter faced “extremely high” levels of water stress.",
+    "Sustainable management of water resources underpins prosperity and peace for all. It demands increased funding; more data-driven decision-making; skilled workforce development; innovative technology, including artificial intelligence (AI); and robust cross-sector collaboration.",
+    "Integrated water management boosts resilience to multiple crises, including climate change"
+  ],
+  "7": [
+    "In 2023, the annual SDG investment gap in developing countries was estimated at about $4 trillion, with over half, or $2.2 trillion, needed for the energy transition alone."
+  ],
+  "8": [
+    "Despite the economic disruptions of the pandemic, the global share of people living on less than half the median income has been declining due to social assistance programmes. However, workers’ wages have not kept pace with productivity, and labour’s share of GDP has resumed its long-term decline.",
+    "Achieving zero hunger requires intensified efforts to transform food systems so they are sustainable, resilient and equitable.",
+    "Over 2 billion people were in informal employment in 2023, comprising 58.0 per cent of the global workforce.",
+    "In 2022, manufacturing growth plateaued at around 2.7 per cent and is anticipated to remain stagnant in 2024.",
+    "Inclusive industrial policies are imperative for fostering the growth, competitiveness and resilience of small enterprises."
+  ],
+  "9": [
+    "To accelerate progress towards Goal 9, a concerted effort is needed to promote inclusive and sustainable industrialization, foster innovation through increased investment in research and development, prioritize and accelerate the green transition, and facilitate access to information and communications technology.",
+    "Inclusive industrial policies are imperative for fostering the growth, competitiveness and resilience of small enterprises."
+  ],
+  "10": [
+    "Involving citizens in data production signifies a shift towards a more collaborative and participatory model of governance, marking a new chapter in the social contract between State institutions and citizens.",
+    "Despite the economic disruptions of the pandemic, the global share of people living on less than half the median income has been declining due to social assistance programmes. However, workers’ wages have not kept pace with productivity, and labour’s share of GDP has resumed its long-term decline.",
+    "Half of the most vulnerable countries face a widening income gap with the wealthiest economies",
+    "High rates of consumption and insufficient reuse or recycling are producing vast piles of e-waste",
+    "In 2023, civilian casualties in armed conflicts surged by a staggering 72 per cent, the steepest rise since 2015.",
+    "While technology has expanded educational opportunities, it has also widened inequalities, leaving millions of people, especially in marginalized and low-income communities, without access to education.",
+    "One in five girls still marry before age 18."
+  ],
+  "11": [
+    "While air pollution levels have declined in most regions, they are still significantly higher than the recommended air quality guidelines for public health protection.",
+    "Only 6 in 10 urban residents have convenient access to public transit, based on data collected in 2023 from 2,039 cities in 188 countries."
+  ],
+  "12": [
+    "In 2022, global food waste reached 1.05 billion metric tons, yet only 9 of 193 countries included food waste in their nationally determined contributions (NDCs) on climate change actions.",
+    "Achieving zero hunger requires intensified efforts to transform food systems so they are sustainable, resilient and equitable."
+  ],
+  "13": [
+    "The global community faces a critical juncture. All countries must urgently speed up economy-wide, low-carbon transformations to avoid escalating economic and social costs.",
+    "Fossil fuel subsidies reached a record high of $1.53 trillion in 2022, driven by rising energy prices post-pandemic and the impact of the Russian Federation’s invasion of Ukraine, which disrupted global energy markets.",
+    "Overfishing, pollution, climate change and poor management drive continued declines in fish stocks",
+    "Urgent action is imperative. Addressing pressing environmental challenges and their underlying drivers and interconnections – including climate change, biodiversity loss, pollution, desertification and deforestation – demands intensified, accelerated efforts, and a comprehensive and integrated approach at local, national and global levels.",
+    "Climate change is hindering poverty reduction, and disasters result in millions of households becoming poor or remaining trapped in poverty.",
+    "Proportion of countries by region affected by moderately to abnormally high food prices, 2015–2019 average, 2020 and 2022 (percentage)",
+    "Yet increases in renewable energy use remain constrained in the heating and transport sectors, which account for four fifths of total final energy consumption.",
+    "Inclusive industrial policies are imperative for fostering the growth, competitiveness and resilience of small enterprises."
+  ],
+  "14": [
+    "Sustainable fisheries' contribution to GDP dropped worldwide yet several regions saw positive trends",
+    "The value added of fisheries and aquaculture rose by 10 per cent from 2019 to 2021. The contribution of sustainable fisheries to GDP declined 5.4 per cent in 2021, however, mainly due to the expansion of other economic sectors and the declining sustainability of several fish stocks in some regions",
+    "In sub-Saharan Africa, the contribution of sustainable fisheries to GDP climbed from 0.38 per cent in 2019 to 0.42 per cent in 2021",
+    "The Kunming-Montreal Global Biodiversity Framework commits to establishing protected areas to safeguard areas of particular importance for biodiversity, adding up to cover 30 per cent of oceans by 2030",
+    "Adequate management of such protected areas will be crucial to realize conservation benefits",
+    "As oceans continue to warm amid rising global temperatures, the frequency and severity of coral bleaching will likely increase"
+  ],
+  "15": [
+    "Global forest area continues to decline, primarily due to agricultural expansion, despite notable progress in sustainable forest management.",
+    "Illegal wildlife trade persists worldwide despite two decades of concerted action at international and national levels and poses a significant threat to global biodiversity, endangering a wide range of terrestrial and marine species."
+  ],
+  "16": [
+    "Ensuring that no one is left behind calls for more than just data disaggregation. Uncovering the intersectional disadvantages faced by the most marginalized groups demands additional efforts.",
+    "The prisoner-to-population rate decreased from 150 prisoners per 100,000 population in 2015 to 144 per 100,000 in 2022."
+  ],
+  "17": [
+    "Building partnerships with diverse stakeholders makes SDG monitoring more inclusive and incorporates different perspectives and needs.",
+    "In a landscape of declining international cooperation and rising geopolitical tensions, strengthened global partnerships and enhanced cooperation are urgently needed to address widening financing gaps, reinforce post-pandemic recovery and promote sustainable development, particularly in the LDCs and other vulnerable countries."
+  ]
+}
