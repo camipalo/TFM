@@ -1,0 +1,147 @@
+{
+  "1": [
+    "The high-income member states have a special responsibility, both as a matter of distributive justice – that the rich not leave the poor behind – and as a matter of reparative justice – that those countries that contributed most to greenhouse gas emissions and other environmental harms in the past must do the most to curb their emissions in the future and to compensate the other countries for the damages their past actions have caused.",
+    "The upcoming Fourth International Conference on Financing for Development (FfD4), in Seville, Spain from June 30 – July 3, 2025, should send a message of hope that humanity’s global goals to end poverty and contain the climate emergency are within reach.",
+    "The rest of the world, especially poorer countries, is largely cut off from international capital by low credit ratings that punish poor countries as a matter of formula rather than economic logic, and by a maze of unilateral economic sanctions imposed by the key-currency countries.",
+    "The IMF and the World Bank also fail to recognize the crucial positive role of long-term debt financing for development, instead favoring a debt sustainability system that discourages or even bars the long-term financing of infrastructure and human capital in poorer countries.",
+    "clear steps to reform the regulation of private capital markets, including revamp-ing the credit rating system and the IMF-World Bank Debt Sustainability Framework to increase capital flows to high-return investments in low-income countries",
+    "With properly functioning international financial markets associated with key institutional reforms within emerging economies to reduce investment risks and to channel investments towards economic, social, and environmental priorities, the stream of annual global savings – roughly US$30 trillion per year – will flow in a vast and rising current to meet the needs and fulfill the potential of the poorest countries.",
+    "We recall with alarm, sadness, and determination that some 250 million children are out of school because of the poverty of their societies, an estimated 733 million people struggle with chronic hunger, and roughly a third of humanity cannot afford a healthy diet.",
+    "Sound international finance could and would channel long-term grants and loans to the poorest nations, allowing governments to ensure that all children receive the start in life they need and are enabled to achieve higher earnings in the future, so creating the very means for countries to repay international debts.",
+    "For the millions of out-of-school, poor children living in middle-income countries, domestic financing and accountable governance can ensure that even the poorest within these societies have access to health, nutrition, and quality education.",
+    "We emphasize, therefore, that the most important practical problem facing UN members at FfD4 is how to enable the vast US$30 trillion pool of world savings to flow in much larger amounts to where they are most in need: to low-income and lower-middle income countries and those most vulnerable to global environmental shocks, and to the poorest people within all countries.",
+    "In addressing poverty, the most important ethical principle is to co-create solutions: we should act with the poor, not merely for the poor.",
+    "Acting with the poor, small miracles can occur – moving from poverty to sustenance, from barren lands to flourishing food production.",
+    "Smallholder farmers in rural areas constitute roughly three-quarters of those living in extreme income poverty and over 83 percent of multidimensionally poor people.",
+    "They can best be supported in their livelihoods and wellbeing by programs that raise farm outputs and incomes: those championed by the Food and Agriculture Organization, the International Fund for Agricultural Development, the World Food Programme, and related agencies.",
+    "Corporations can also play a decisive role by designing their core business strategies to empower the poorest of the poor – as workers, consumers, and citizens.",
+    "Impact finance amounts to around a trillion dollars annually in managed assets, reflecting a vast desire for social and environmental impact among consumers and investors that can be tapped for the common good."
+  ],
+  "2": [
+    "roughly a third of humanity cannot afford a healthy diet",
+    "an estimated 733 million people struggle with chronic hunger",
+    "For the millions of out-of-school, poor children living in middle-income countries, domestic financing and accountable governance can ensure that even the poorest within these societies have access to health, nutrition, and quality education.",
+    "If we really wish to prepare a path to peace in our world, let us commit ourselves to remedying the remote causes of injustice, settling unjust and unpayable debts, and feeding the hungry.",
+    "Acting with the poor, small miracles can occur – moving from poverty to sustenance, from barren lands to flourishing food production.",
+    "They can best be supported in their livelihoods and wellbeing by programs that raise farm outputs and incomes: those championed by the Food and Agriculture Organization, the International Fund for Agricultural Development, the World Food Programme, and related agencies.",
+    "At the global level, SDG 2 (Zero Hunger), SDG 11 (Sustainable Cities and Communities), SDG 14 (Life Below Water), SDG 15 (Life on Land) and SDG 16 (Peace, Justice and Strong Institutions) are particularly off track, facing major challenges (indicated in red on the dashboards) and showing no or very limited progress since 2015.",
+    "An indicator on “Minimum dietary diversity among children aged 6 months to 23 months” has been incorporated into the dataset under SDG 2 (Zero Hunger).",
+    "However, even these countries face substantial challenges in achieving several SDGs, notably SDG 2 (Zero Hunger)"
+  ],
+  "3": [
+    "cutting UN budgets at a time of pervasive conflicts, human displacements, climate disasters, epidemic diseases, and other crises is unacceptable",
+    "In addition to investing in the planet’s environmental sustainability, the most reliably high return on the planet comes from investing in the health and education of a young child in a low-income country in Africa, Asia, Oceania, or Latin America and the Caribbean.",
+    "Education not only fosters dignity, fulfillment, and wellbeing, but also delivers remarkable and reliable economic benefits; leading economists to describe healthcare, nutrition, and education as investments in human capital.",
+    "The 2024 Nobel prizes in chemistry and physics awarded to British and British-Canadian scientists celebrated breakthroughs in protein folding and machine learning, offering prospects for drug development and other stunning breakthroughs that could benefit human health and global prosperity.",
+    "we are also empowered with breathtaking new technologies and global goals that inspire and impel humanity to build the future we want",
+    "The five targets most on track are: Mobile use (SDG 9), Access to electricity (SDG 7), Internet use (SDG 9), Under 5 mortality rate (SDG 3) and Neonatal mortality (SDG 3)."
+  ],
+  "4": [
+    "In addition to investing in the planet’s environmental sustainability, the most reliably high return on the planet comes from investing in the health and education of a young child in a low-income country in Africa, Asia, Oceania, or Latin America and the Caribbean.",
+    "Education not only fosters dignity, fulfillment, and wellbeing, but also delivers remarkable and reliable economic benefits; leading economists to describe healthcare, nutrition, and education as investments in human capital.",
+    "For the millions of out-of-school, poor children living in middle-income countries, domestic financing and accountable governance can ensure that even the poorest within these societies have access to health, nutrition, and quality education.",
+    "A 3-year-old child in Uganda today, if suitably enabled, empowered, and financed, will graduate university in 20 years. She will then work for another 20 years to reap the returns on her education, a period long enough to pay income taxes that repay the costs of her education.",
+    "It is estimated that the cost to achieve quality universal primary and early secondary education for all (Goal 4) would barely exceed 3 per cent of global annual military spending, while eliminating extreme poverty and hunger (Goals 1 and 2) would amount to only about 13 per cent of annual military spending."
+  ],
+  "5": [
+    "A 3-year-old child in Uganda today, if suitably enabled, empowered, and financed, will graduate university in 20 years. She will then work for another 20 years to reap the returns on her education, a period long enough to pay income taxes that repay the costs of her education."
+  ],
+  "6": [],
+  "7": [
+    "On average globally, the SDGs are far off-track. At the global level, none of the 17 goals are currently on course to be achieved by 2030. Conflicts, structural vulnerabilities, and limited fiscal space impede SDG progress in many parts of the world. But while only 17 percent of the targets are on track to be achieved worldwide, most UN member states have made strong progress on targets related to access to basic services and infrastructure, including mobile broadband use (SDG 9), access to electricity (SDG 7), internet use (SDG 9), under-5 mortality rate (SDG 3), and neonatal mortality (SDG 3).",
+    "The job of finance is to bring the fruits of technologi- cal advances to benefit all of humanity, including our impoverished brothers and sisters in conflict zones and places hard hit by the ravages of high-intensity trop- ical cyclones, droughts, floods, heatwaves and forest fires that are occurring with increasing frequency as the result of human-induced climate change. We have powerful tools at our disposal – zero-carbon energy, open-source AI, precision agriculture, biodiversity con- servation.",
+    "BYD, another innovative Chinese company, unveiled a system that charges electric vehicles in just five minutes, bringing the dream of convenient, low-cost and zero-emission mobility within reach.",
+    "Less than 20 percent of the SDG targets are on track to be achieved globally (16.7 percent). The five targets most on track are: Mobile use (SDG 9), Access to electricity (SDG 7), Internet use (SDG 9), Under 5 mortality rate (SDG 3) and Neonatal mortality (SDG 3).",
+    "In most cases, rapid progress has primarily been driven by improvements on socioeconomic SDG indicators – especially the share of women parliamentarians (SDG 5) and rates of electrification (SDG 7), of adults with a bank account in a financial institution (SDG 8), and internet use (SDG 9) – and by progress on statistical perfor- mance (SDG 17), and less by significant breakthroughs on environmental goals."
+  ],
+  "8": [
+    "Economic development is a high-return activity. This means that properly designed financial markets can channel the world’s savings not only to high-income countries that are already prosperous, but even more to the world’s poorer countries, which have the potential for rapid “catch-up” economic advancement.",
+    "We note with satisfaction that today’s emerging market and developing economies (EMDEs) routinely achieve faster economic growth than do high-income countries, a process that economists call “economic convergence”.",
+    "Indeed, the poorer a country is today, the greater its growth potential and the higher the return on investment.",
+    "With properly functioning international financial markets associated with key institutional reforms within emerging economies to reduce investment risks and to channel investments towards economic, social, and environmental priorities, the stream of annual global savings – roughly US$30 trillion per year – will flow in a vast and rising current to meet the needs and fulfill the potential of the poorest countries.",
+    "Financing for economic development is within reach, but the timeline of development must be understood and respected by the international financial system.",
+    "Capital should flow to these countries.",
+    "The obvious and crucial remedy is to match the time horizon of the loan with a realistic horizon for long-term economic growth (especially considering that the returns on investments in human capital typically require 20 to 40 years to come to fruition).",
+    "The simple fact is that the EMDEs are good credit prospects if the financing program is well designed (with long maturities and affordable yields); the national economy is well managed (fiscal rules and sound debt management systems); the investment program is well targeted to infrastructure, human capital, and business development; and LLR services are available.",
+    "In such circumstances, the overriding truth is that today’s poorer countries have very high growth potential and high investment returns.",
+    "Indeed, their potential economic growth and return on investment are far higher than in high-income countries.",
+    "We therefore call on the IMF and the World Bank in their Debt Sustainability Framework (DSF), and to the credit rating agencies, to revamp their methodologies to take account of: the high potential growth of poorer countries if they can access the necessary financing for development; the maturity structure of loans (awarding higher credit ratings and debt-sustainability assessments to long-term loans); the quality of a country’s debt management systems; the presence of a domestic and/or international lender of last resort; and the uses of the external financing, recognizing the growth-creating benefits of high-return investments in human capital and physical infrastructure.",
+    "Official financing should be accorded based on growth potential, good governance, and financing needs – not on the foreign policy considerations of one or another major power.",
+    "Financing needs should be calibrated on the basis of integrated assessments that consider economic, social, and environmental needs and objectives.",
+    "This is becoming an important area of work at the SDSN to promote resilience and concerted action for a sustainable international trade system."
+  ],
+  "9": [
+    "most UN member states have made strong progress on targets related to access to basic services and infrastructure, including mobile broadband use (SDG 9), access to electricity (SDG 7), internet use (SDG 9)",
+    "instead favoring a debt sustainability system that discourages or even bars the long-term financing of infrastructure and human capital in poorer countries.",
+    "The potential of cutting-edge technologies to advance sustainable development",
+    "DeepSeek, an ingenious AI engine devised by young Chinese engineers, building on the ingenuity of AI pioneers, offers a powerful low-cost, open-source AI system that can benefit humanity.",
+    "BYD, another innovative Chinese company, unveiled a system that charges electric vehicles in just five minutes, bringing the dream of convenient, low-cost and zero-emission mobility within reach.",
+    "The 2024 Nobel prizes in chemistry and physics awarded to British and British-Canadian scientists celebrated breakthroughs in protein folding and machine learning, offering prospects for drug development and other stunning breakthroughs that could benefit human health and global prosperity.",
+    "We call on governments and policymakers to collaborate with scholars and civil society to establish legal, regulatory, and ethical frameworks to direct innovations towards the common good.",
+    "We note as well the importance of new private credit managers in mobilizing private-sector financing for EMDEs, either through standalone private financing or blended financing in cooperation with MDBs. We also note that large-scale infrastructure investment initiatives – such as China’s Belt and Road Initiative or Europe’s Global Gateway – can accelerate connectivity across people and nations.",
+    "The five targets most on track are: Mobile use (SDG 9), Access to electricity (SDG 7), Internet use (SDG 9)",
+    "In most cases, rapid progress has primarily been driven by improvements on socioeconomic SDG indicators – especially ... and rates of electrification (SDG 7), of adults with a bank account in a financial institution (SDG 8), and internet use (SDG 9)"
+  ],
+  "10": [
+    "High-income member states have a special responsibility, both as a matter of distributive justice – that the rich not leave the poor behind – and as a matter of reparative justice – that those countries that contributed most to greenhouse gas emissions and other environmental harms in the past must do the most to curb their emissions in the future and to compensate the other countries for the damages their past actions have caused.",
+    "No single member state of the United Nations can excuse itself from the responsibility to contribute fairly and adequately to the provision of global public goods and services.",
+    "The high-income countries bear the responsibility for filling the funds they have designated for these purposes, including the Adaptation Fund, the Loss and Damage Fund, the Green Climate Fund, and others.",
+    "Fourth, UN member states must agree on critical reforms of the international financial markets to ensure that world savings flow to countries with the highest investment returns and the highest growth prospects – which are the world’s poorer countries.",
+    "The most pressing practical challenge is to enable such investments even in impoverished areas where governments currently lack the revenue to provide health services, nutritional supplementation, and quality schooling for all children.",
+    "We recall with alarm, sadness, and determination that some 250 million children are out of school because of the poverty of their societies, an estimated 733 million people struggle with chronic hunger, and roughly a third of humanity cannot afford a healthy diet.",
+    "Sound international finance could and would channel long-term grants and loans to the poorest nations, allowing governments to ensure that all children receive the start in life they need and are enabled to achieve higher earnings in the future, so creating the very means for countries to repay international debts.",
+    "For the millions of out-of-school, poor children living in middle-income countries, domestic financing and accountable governance can ensure that even the poorest within these societies have access to health, nutrition, and quality education.",
+    "We emphasize, therefore, that the most important practical problem facing UN members at FfD4 is how to enable the vast US$30 trillion pool of world savings to flow in much larger amounts to where they are most in need: to low-income and lower-middle income countries and those most vulnerable to global environmental shocks, and to the poorest people within all countries.",
+    "We call on the UN member states meeting in Seville to redesign the international financial architecture in accord with the high potential and realistic timeline of economic convergence.",
+    "For impoverished nations struggling under the weight of unsustainable debt and burdensome debt servicing, we call for debt relief consistent with the Jubilee Year. Debt relief should entail at the least a restructuring of the outstanding debts of heavily burdened countries, so that their debts fall due not in the immediate future but in 30–40 years: a realistic timeline that aligns with future economic growth.",
+    "ODA, after all, reflects a combination of distributive justice (ensuring that no one is left behind), reparative justice (repaying debts owed for past harms, whether from slavery, imperialism, the emissions of climate-changing greenhouse gases, or other harms to Earth’s physical systems), and inter-generational justice (respecting the pressing needs of today’s young people and future generations).",
+    "Taxing the greenhouse gas emissions of high-income countries would combine the multiple dimensions of justice (distributive, reparative, and intergenerational) with practical resource mobilization to help poorer and more vulnerable countries undertake effective climate action.",
+    "The most important ethical principle is to co-create solutions: we should act with the poor, not merely for the poor.",
+    "creditor nations have failed to establish fair and equitable standards of debt restructuring to prevent poor and vulnerable countries from being strangled by debt servicing, exacerbated by short and insufficient maturities of the debts.",
+    "The international financial markets are led by faulty regulations and policies to favor countries that use the major international currencies, notably the US dollar and the euro, as well as countries already favored by the US Federal Reserve and the European Central Bank.",
+    "Factors such as various forms of conflicts, structural vulnerabilities, weak institutional leadership, and limited fiscal space may explain disparities in SDG progress since 2015.",
+    "At the same time, the regional and income-group aggregates hide significant disparities in SDG progress across countries.",
+    "Preliminary research using high-resolution satellite imagery estimates that around 40 percent of the world’s population might be assigned to a different SDG Index quintile than that of their aggregated national SDG Index estimate, which suggests significant and persistent territorial disparities in SDG performance within countries (Iablonovski 2024).",
+    "Overall, rich countries outperform other country group-ings on overall SDG performance and life satisfaction, but they have also outsourced numerous negative environmental and socioeconomic impacts abroad",
+    "Therefore resources released as a result of the implementation of disarmament measures should be devoted to the economic and social development of all nations and contribute to the bridging of the economic gap between developed and developing countries."
+  ],
+  "11": [
+    "At the global level, SDG 11 (Sustainable Cities and Communities), SDG 14 (Life Below Water), SDG 15 (Life on Land) and SDG 16 (Peace, Justice and Strong Institutions) are particularly off track, facing major challenges (indicated in red on the dashboards) and showing no or very limited progress since 2015."
+  ],
+  "12": [
+    "Via unsustainable consumption, the export of toxic waste, illicit trade, unfair tax competition, tax havens and, more generally, poor implementation of SDG 17 (Partnerships for the Goals – including support for UN-based multilateralism), countries can, however, generate negative international spillovers."
+  ],
+  "13": [
+    "In early 2025, the United States announced its withdrawal from the Paris Climate Agreement and the World Health Organization (WHO) and formally declared its opposition to the SDGs and the 2030 Agenda.",
+    "those countries that contributed most to greenhouse gas emissions and other environmental harms in the past must do the most to curb their emissions in the future and to compensate the other countries for the damages their past actions have caused",
+    "cutting UN budgets at a time of pervasive conflicts, human displacements, climate disasters, epidemic diseases, and other crises is unacceptable",
+    "The high-income countries bear the responsibility for filling the funds they have designated for these purposes, including the Adaptation Fund, the Loss and Damage Fund, the Green Climate Fund, and others",
+    "humanity’s global goals to end poverty and contain the climate emergency are within reach",
+    "The core outcome document should strongly reaffirm the global sustainability frameworks and agreements (Agenda 2030, the Sustainable Development Goals, the Paris Climate Agreement, and the Montreal-Kunming Biodiversity Framework) and the overarching principles of sustainable development, distributive and reparative justice, common but differentiated responsibilities, and collective responsibility for the UN system, and commit to fixing the global financial architecture to ensure the financing needed for sustainable development.",
+    "proper funding of the institutions established to protect the global commons, including the Global Environmental Facility, the Adaptation Fund, and the Loss and Damage Fund, with clear assessments by country and new revenues raised via international taxes (e.g. on international shipping, aviation, and greenhouse emissions) and other agreed means;",
+    "Agenda 2030 and the Paris Climate Agreement further the common good of humanity, and humanity and the United Nations member states must actively work towards achieving them.",
+    "The climate crisis is rapidly worsening.",
+    "We have powerful tools at our disposal – zero-carbon energy, open-source AI, precision agriculture, biodiversity conservation.",
+    "We must undertake the needed investments to bring these solutions to bear at the global scale.",
+    "high-intensity tropical cyclones, droughts, floods, heatwaves and forest fires that are occurring with increasing frequency as the result of human-induced climate change.",
+    "We also call on creditor governments to swap outstanding debts for investments in climate safety (debt-for-climate swaps)",
+    "ODA, after all, reflects a combination of distributive justice (ensuring that no one is left behind), reparative justice (repaying debts owed for past harms, whether from slavery, imperialism, the emissions of climate-changing greenhouse gases, or other harms to Earth’s physical systems), and inter-generational justice (respecting the pressing needs of today’s young people and future generations).",
+    "Taxing the greenhouse gas emissions of high-income countries would combine the multiple dimensions of justice (distributive, reparative, and intergenerational) with practical resource mobilization to help poorer and more vulnerable countries undertake effective climate action.",
+    "cutting UN budgets at a time of pervasive conflicts, human displacements, climate disasters, epidemic diseases, and other crises is unacceptable.",
+    "The core outcome document should strongly reaffirm the global sustainability frameworks and agreements (Agenda 2030, the Sustainable Development Goals, the Paris Climate Agreement, and the Montreal-Kunming Biodiversity Framework)",
+    "These disruptions can result from accelerated climate change and natural disasters, geopolitical events, unilateral policies, or other events (Koks et al. 2016; Koks and Thissen 2016; Koks et al. 2019; Fahr, Vismara, and Senner 2024).",
+    "Reinvesting 5 per cent of global military spending would also exceed the initial annual costs of adapting to climate change in developing countries (Goal 13)."
+  ],
+  "14": [
+    "Third, UN member states must increase their financing of the global commons, including the biodiversity of the world’s tropical rainforests; the marine life of the oceans; and the protection of the atmosphere, fresh-water, soils, coastlines, wetlands, and other ecosystems from transboundary pollution and global-scale degradation.",
+    "Third, UN member states must increase their financing of the global commons: the biodiversity of the world’s tropical rainforests; the marine life of the oceans; and the protection of the atmosphere, freshwater, soils, coastlines, wetlands, and other ecosystems from transboundary pollution and global-scale degradation.",
+    "At the global level, SDG 2 (Zero Hunger), SDG 11 (Sustainable Cities and Communities), SDG 14 (Life Below Water), SDG 15 (Life on Land) and SDG 16 (Peace, Justice and Strong Institutions) are particularly off track, facing major challenges (indicated in red on the dashboards) and showing no or very limited progress since 2015."
+  ],
+  "15": [
+    "Third, UN member states must increase their financing of the global commons, including the biodiversity of the world’s tropical rainforests; the marine life of the oceans; and the protection of the atmosphere, fresh-water, soils, coastlines, wetlands, and other ecosystems from transboundary pollution and global-scale degradation.",
+    "We have powerful tools at our disposal – zero-carbon energy, open-source AI, precision agriculture, biodiversity conservation.",
+    "We also call on creditor governments to swap outstanding debts for investments in climate safety (debt-for-climate swaps), the protection of biodiversity (debt-for-nature swaps)",
+    "At the global level, SDG 2 (Zero Hunger), SDG 11 (Sustainable Cities and Communities), SDG 14 (Life Below Water), SDG 15 (Life on Land) and SDG 16 (Peace, Justice and Strong Institutions) are particularly off track, facing major challenges (indicated in red on the dashboards) and showing no or very limited progress since 2015.",
+    "However, even these countries face substantial challenges in achieving several SDGs, notably SDG 2 (Zero Hunger), SDG 12 (Responsible Consumption and Production), SDG 13 (Climate Action) and SDG 15 (Life on Land), partly driven by unsustainable consumption patterns and negative international spillover effects."
+  ]
+}
