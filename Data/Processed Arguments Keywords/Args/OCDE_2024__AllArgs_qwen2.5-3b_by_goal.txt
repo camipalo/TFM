@@ -1,0 +1,87 @@
+{
+  "0": [
+    "According to OECD estimates, at least 105 out of the 169 targets that underlie the 17 SDGs depend on the active engagement of local and regional governments (OECD, 2020[1]).",
+    "The OECD-SDSN-CoR survey on the role of cities and regions for the SDGs in a changing landscape, launched in 2023 to take stock of progress made by cities and regions in implementing the SDGs.",
+    "In particular, LRGs should: o Allocate dedicated funding and/or resources to ensure data are regularly processed, updated and shared.",
+    "Around half of surveyed LRGs use the SDGs in the COVID-19 recovery phase",
+    "The recovery period could provide an opportunity to set up new measurement systems for the SDGs if they do not yet exist or to align existing systems with harmonised and comparable local SDG indicator frameworks such as the OECD localized indicator framework for measuring distance to achieving the SDGs."
+  ],
+  "1": [
+    "The survey has revealed governance challenges such as a lack of resources for the implementation of the SDGs, shifting political priorities and insufficient vertical coordination.",
+    "end poverty in all its forms everywhere",
+    "Support measures for vulnerable groups are the most common response of LRGs to address increasing price levels",
+    "Support measures for vulnerable populations (SDG 1)"
+  ],
+  "2": [
+    "Over 70% indicated an increase in electricity costs, putting the achievement of SDG 7 at risk, while around half noted the growing importance of combating hunger (SDG 2).",
+    "The survey puts the spotlight on the declining standards of living in many cities and regions (SDGs 1 and 10), increases in energy price levels and associated measures such as increasing demand for renewable and domestic energy sources (SDG 7) as well as the growing importance of food security (SDG 2).",
+    "Shifting from fossil fuels to zero-carbon sources of energy (44%) and improving energy efficiency in the built environment (37%) are the 2 main priorities of LRGs to achieve SDG 7.",
+    "Seventy percent of responding LRGs indicated that they had identified an impact of the cost-of-living crisis on poverty and food security.",
+    "support measures for vulnerable populations (SDG 1)",
+    "Setting up food banks and food distributions for vulnerable populations are LRGs’ most common actions to target SDG 2.",
+    "reduce nutrient losses, use of pesticides, expand sustainable farming"
+  ],
+  "3": [
+    "The growing pressures on the international energy market have led 36% of LRGs or their public energy provider to ramp up the share of renewable energy in their energy mix.",
+    "Ensure healthy lives and promote well-being for all at all ages",
+    "The cost-of-living crisis has taken a toll on health and well-being (SDG 3)."
+  ],
+  "4": [
+    "Ensure inclusive and equitable quality education",
+    "Ensure inclusive and equitable quality education is a key component of the SDGs, particularly SGD 4 (Education)."
+  ],
+  "5": [],
+  "6": [
+    "Ensure availability and sustainable management of water and sanitation for all"
+  ],
+  "7": [
+    "Shifting from fossil fuels to zero-carbon sources of energy (44%) and improving energy efficiency in the built environment (37%) are the 2 main priorities of LRGs to achieve SDG 7.",
+    "Ensure access to affordable, reliable, sustainable and modern energy for all",
+    "Achieving SDG 7 on Clean and affordable energy has gained greater prominence for most local and regional governments since the outbreak of Russia’s war of aggression against Ukraine",
+    "When asked which strategies or policies could help their city or region best transition to cleaner energy production and achieve SDG 7, 44% of local and regional governments responded that decarbonisation – shifting from fossil fuels to zero-carbon sources of energy – would help the most.",
+    "Incentivise decarbonisation both in production and consumption. In order to contribute to SDG 7, LRGs need to encourage the decarbonization of energy production, energy efficiency improvements in buildings, industry and transport sectors and the electrification of current fossil fuel use."
+  ],
+  "8": [
+    "The cost of living, energy and food security have taken a deep toll on the current landscape.",
+    "Full employment and decent work for all, as well as sustainable economic growth are key components of SGD 8. Efforts by local and regional governments can significantly contribute to achieving these goals.",
+    "promote sustained, inclusive and sustainable economic growth, full and productive employment and decent work for all",
+    "One-third of LRGs directed their efforts towards assisting local businesses through support measures, such as subsidies or tax breaks (SDG 8)."
+  ],
+  "9": [
+    "Other less common measures include subsidies for sustainable mobility (26%), such as offering discounts on public transport fares (SDGs 9 and 11), implementing temporary housing support schemes (19%) (SDG 11), enforcing price caps to bring down energy costs (17%) (SDG 7) and adopting measures to reduce food insecurity (14%), such as cutting taxes on food (SDG 2)"
+  ],
+  "10": [
+    "progress towards 48% of the SDG targets is currently insufficient, and 37% are either stagnating or regressing, including on key targets such as those related to poverty, hunger and climate action.",
+    "Combat rising price levels to support SDG 1 No poverty and SDG 10 Reduced inequalities.",
+    "Progress towards the SDGs, including reducing inequality within and among countries (SGD 10), can be demonstrated through strategic goals for monitoring, which may involve local policy decisions referencing specific SDGs.",
+    "Inequalities (SDG 10) have been worsened by the rise in the cost of living in half of responding cities and regions.",
+    "Support measures for vulnerable individuals."
+  ],
+  "11": [
+    "The European Union and its member states are also facing notable gaps towards the achievement of the SDGs, including SDG 11 Sustainable cities and communities (Eurostat, 2023[4]; Lafortune et al., 2024[5]).",
+    "Thirty-six percent of LRGs considered digitalisation as a top priority for the transition towards smarter cities and regions.",
+    "set up a multi-level governance framework that allows for horizontal co-ordination within local or regional government departments and among territorial stakeholders to determine clear roles and responsibilities for collecting, validating and sharing data.",
+    "The cost-of-living crisis has taken a toll on poverty (SDG 1), energy (SDG 7), housing (SDG 11), and inequalities (SDG 10).",
+    "Temporary housing support schemes (SDG 11)"
+  ],
+  "12": [
+    "Reduce the average temperature in public buildings.",
+    "Cut back on street lighting.",
+    "Promote a circular economy approach to reduce food waste.",
+    "Promote sustainable food systems. There are several tools that could help cities and regions advance sustainable food systems (SDG 2), for example:"
+  ],
+  "13": [
+    "The growing pressures on the international energy market have led 36% of LRGs or their public energy provider to ramp up the share of renewable energy in their energy mix.",
+    "Seventy percent of responding LRGs indicated that they had identified an impact of the cost-of-living crisis on poverty and energy supply"
+  ],
+  "14": [],
+  "15": [],
+  "16": [
+    "Political leadership is the main success factor in targeting the SDGs at the local level, while the lack of financial resources represents a challenge.",
+    "LRGs should set up a multi-level governance framework that allows for horizontal co-ordination within local or regional government departments and among territorial stakeholders to determine clear roles and responsibilities for collecting, validating and sharing data.",
+    "The responses of territorial stakeholders are in line with those of local and regional governments. Among territorial stakeholders, 40% considered the people dimension to be the major post-COVID-19 challenge in their city or region."
+  ],
+  "17": [
+    "The OECD, Sustainable Development Solutions Network (SDSN) and other organisations also offer tools for LRGs to align this work with existing harmonised, comparable approaches such as the OECD localised indicator framework for measuring the distance to achieving the SDGs in cities and regions."
+  ]
+}
