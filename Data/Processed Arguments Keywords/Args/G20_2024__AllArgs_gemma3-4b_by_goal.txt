@@ -1,0 +1,70 @@
+{
+  "0": [
+    "The G20 is an important international forum to promote the implementation of the 2030 Agenda for Sustainable Development.",
+    "A major obstacle to sustainable development worldwide that has so far received little attention are negative international spillover effects.",
+    "All countries, and especially the G20 given their combined economic weight, must better understand, monitor and manage their spillovers to allow all countries to meet the SDGs.",
+    "The adoption of the 2030 Agenda provided a shared pathway towards sustainable development via the achievement of 17 Sustainable Development Goals (SDGs) by 2030.",
+    "The G20 has committed itself to implement sustainable development, among others by adopting regular 2030 Agenda Action Plans.",
+    "Addressing spillovers thus becomes crucial for ensuring that domestic progress in achieving the SDGs is not realized via externalizing negative effects abroad.",
+    "Accounting for these spillovers becomes crucial for an accurate assessment of contributions towards sustainable development.",
+    "This policy brief outlines three recommendations for G20 leaders: 1) Monitor spillover effects, set impact targets, and support statistical capacity; 2) Establish inclusive processes that bring together stakeholders to co-develop multilateral policies and partnerships; 3) Incorporate spillover effects in the G20’s 2030 Agenda Action Plan.",
+    "The G20 should lead a dedicated agenda to curb negative spillover effects.",
+    "The Summit of the Future needs to demonstrate that international cooperation is possible and effective in tackling current global challenges, especially amid lacklustre SDG progress.",
+    "There is consensus that the pact should contribute to strengthening confidence in multilateralism, especially on the part of low and middle income countries.",
+    "The G20 needs to use the action-oriented momentum of this Summit to accelerate the implementation of the 2030 Agenda by reducing spillover effects and increasing global policy coherence.",
+    "The G20 will have included international spillovers in its updated 2030 Agenda Action Plan and agreed on concrete actions to improve the monitoring of spillover effects"
+  ],
+  "1": [],
+  "2": [],
+  "3": [],
+  "4": [],
+  "5": [],
+  "6": [],
+  "7": [],
+  "8": [
+    "curbing negative spillovers requires multilateral solutions, especially between resource-rich and labor-rich countries with high income consumer countries.",
+    "the G20 is a suitable platform for tackling international spillovers.",
+    "Many high income countries have implemented policies to tackle negative spillovers, such as national regulations and due diligence laws to address social issues in global value chains (e.g., child labour), tackle deforestation, and adopt carbon border adjustment mechanisms.",
+    "These important initiatives have been unilateral policy instruments that, largely, have not considered perspectives from the affected economies, potentially resulting in trade-offs (e.g., higher unemployment and poverty).",
+    "The partnership mobilizes stakeholders to facilitate an energy transition, but it will be important that implementation of the JETP addresses the social consequences of decarbonization (e.g., coal miners’ unemployment);",
+    "The G20 should lead a dedicated agenda to curb negative spillover effects."
+  ],
+  "9": [],
+  "10": [
+    "Negative spillovers may reinforce existing international injustices and divergences between countries of different income categories and regions."
+  ],
+  "11": [],
+  "12": [
+    "Targets for trade-related spillovers should cover environmental and social impacts linked to global value chains, such as GHG emissions, air pollution, resource depletion (e.g., material footprints), and labor exploitation (e.g., modern slavery and fatal accidents at work)."
+  ],
+  "13": [
+    "The G20 should take the lead in elaborating consumption-based targets to tackle environmental and social spillover effects.",
+    "Many high income countries have implemented policies to tackle deforestation, and adopt carbon border adjustment mechanisms.",
+    "Voluntary Partnership Agreements (VPAs) are one such example.",
+    "The first JETP, launched at the COP-26, mobilizes $8.5 billion to 1) replace coal with renewable energy; 2) expand electric vehicles use; and 3) establish a green hydrogen industry in South Africa.",
+    "The partnership mobilizes stakeholders to facilitate an energy transition, but it will be important that implementation of the JETP addresses the social consequences of decarbonization (e.g., coal miners’ unemployment)",
+    "take action to combat climate change and its impacts"
+  ],
+  "14": [
+    "The JETP model could also be applied to land and ocean management."
+  ],
+  "15": [],
+  "16": [
+    "co-design appropriate policies to address spillover effects"
+  ],
+  "17": [
+    "Establish inclusive processes that bring together stakeholders to co-develop multilateral policies and partnerships",
+    "The G20 is therefore the right forum for overcoming structural obstacles towards the SDGs such as negative spillover effects.",
+    "Ultimately, curbing negative spillovers requires multilateral solutions, especially between resource-rich and labor-rich countries with high income consumer countries.",
+    "This policy brief outlines three recommendations for G20 leaders: 1) Monitor spillover effects, set impact targets, and support statistical capacity; 2) Establish inclusive processes that bring together stakeholders to co-develop multilateral policies and partnerships; 3) Incorporate spillover effects in the G20’s 2030 Agenda Action Plan.",
+    "The G20 should lead in monitoring and reporting international spillovers, setting a global example.",
+    "This is consistent with SDG target 17.19, which calls for supporting statistical capacity building in developing countries and tracks, via indicator 17.19.1, financial assistance to developing countries for this purpose.",
+    "The G20 should, therefore, create and support new inclusive platforms and partnerships to ensure that production processes include robust safeguards to protect the environment and human rights.",
+    "Leveraging its various working groups (such as the working groups on Development, Trade and Investment, Employment, and Climate and Environmental Sustainability), the G20 should lead a dedicated agenda to curb negative spillover effects.",
+    "Thus, it seems logical to integrate the issue of spillover effects into the next Action Plan update.",
+    "Addressing spillover effects in the Action Plan of the Brazilian G20 presidency’s meeting of development ministers would be an important input into the discussions leading up to the UN Summit of the Future in September 2024.",
+    "international cooperation is possible and effective in tackling current global challenges",
+    "The G20 needs to use the action-oriented momentum of this Summit to accelerate the implementation of the 2030 Agenda",
+    "The G20 (especially through its Development Working Group) will be able to foster a high-level policy dialogue on the importance of international spillover effects"
+  ]
+}
