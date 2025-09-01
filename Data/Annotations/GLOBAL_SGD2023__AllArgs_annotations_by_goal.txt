@@ -33,7 +33,8 @@
     "Second, there are major differences across \ncountries. Four European countries stand out as being \nvery committed to the SDGs (Finland, the Netherlands, \nSweden, and Switzerland), but scores among the G20 \ncountries range from 77 percent in Indonesia to less \nthan 40 percent in the Russian Federation and the \nUnited States.",
     "Increasing awareness at \nall levels is critical to the success of the SDGs, and the \nglobal ranking draws attention to countries’ challenges.",
     "Although the SDGs have not yet completely transformed \nhow policy is designed and implemented, as discussed \nin Part 3 and as is well-documented in the literature \n(Biermann et al. 2022; Kotzé et al. 2022; IGS 2023), they \nhave helped to mobilize VNRs and peer learning, as well \nas spurring innovations in how progress is monitored, \nthrough the efforts of the IAEG-SDG.",
-    "The triangle of the MVI, the SDG Index, and the SDG financing gap measure allows the United Nations Resident \nCoordinators in SIDS to identify policies and practices that have led to better SDG progress in countries with similar levels \nof multidimensional vulnerability."
+    "The triangle of the MVI, the SDG Index, and the SDG financing gap measure allows the United Nations Resident \nCoordinators in SIDS to identify policies and practices that have led to better SDG progress in countries with similar levels \nof multidimensional vulnerability.",
+    "The progress assessment carried out in 2024 reveals that the world is \nseverely off track to realize the 2030 Agenda."
   ],
   "12": [
     "Only limited progress is being made on the environmental \nand biodiversity goals, including SDG 12 (Responsible Consumption and Production), SDG 13 (Climate Action), \nSDG 14 (Life Below Water), and SDG 15 (Life on Land), even in countries that are largely to blame for the climate and \nbiodiversity crises.",

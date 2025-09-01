@@ -232,3 +232,4 @@
 'We need to invest in data and science literacy to  strengthen the science-policy interface.',
 'In an information-rich  and post-truth environment, citizens and decision- makers need knowledge and tools to transform data  and science into evidence, actions, and long-term  policies.',
 'Strengthening the science-policy  interface is key for implementing long-term pathways  for sustainable development.',
+'The progress assessment carried out in 2024 reveals that the world is  severely off track to realize the 2030 Agenda.',

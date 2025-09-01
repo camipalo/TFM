@@ -1,6 +1,14 @@
 [
   {
     "ods": 0,
+    "page": 6,
+    "arguments": [
+      "The progress assessment carried out in 2024 reveals that the world is \nseverely off track to realize the 2030 Agenda."
+    ],
+    "source_file": "GLOBAL_SGD2023_annotations.xlsx"
+  },
+  {
+    "ods": 0,
     "page": 7,
     "arguments": [
       "From 2015 to 2019, the world \nmade some progress on the SDGs, although this was already vastly insufficient to achieve the goals",
