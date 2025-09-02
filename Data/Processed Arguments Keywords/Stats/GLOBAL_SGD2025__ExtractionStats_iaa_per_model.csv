@@ -1,0 +1,6 @@
+model,jaccard_vs_gold,fuzzy_jaccard_vs_gold,n_gold,n_pred,matches_at_thr
+deepseek-r1-70b,0.1474,0.3731,166,202,100
+llama3.3-70b,0.1159,0.2877,166,116,63
+gemma3-27b,0.1094,0.2569,166,152,65
+gemma3-4b,0.0472,0.2315,166,217,72
+qwen2.5-3b,0.0215,0.1,166,32,18

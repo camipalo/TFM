@@ -1,2 +1,2 @@
-models_compared,gold_args,coverage_ge1,coverage_ge2,coverage_ge3,coverage_ge5,pct_model_args_supported_by_another,fleiss_kappa_all
-5,234,0.8291,0.6368,0.4316,0.0513,0.8556,0.3652
+models_compared,gold_args,coverage_ge1,coverage_ge2,coverage_ge3,coverage_ge5,pct_model_args_supported_by_another,fleiss_kappa_all,fleiss_kappa_big_models
+5,235,0.8255,0.634,0.4298,0.0511,0.8556,0.3673,0.5947
