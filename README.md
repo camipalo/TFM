@@ -2,6 +2,8 @@
 
 Este repositorio contiene el código, los prompts, los resultados y el documento en LaTeX del TFM titulado **"Análisis de Políticas de Sostenibilidad mediante técnicas de Argumentacion Computacional"**, presentado como Trabajo Final del **Master en Inteligencia Artificial Reconocimiento de Formas e Imagen Digital (MIARFID)** de la Universitat Politècnica de València.
 
+![Estructura del Pipeline generado para la extracción de argumentos, clasificación de relaciones y análisis de sinergías e incoherencias entre ODSs](TFM_diagramaEsquema.png)
+
 Se emplean distintos modelos como:
 
 - **Generación de palabras clave por ODS**: GPT-4.5, Claude 3.7, Deepseek-v3, Gemini 2.5
